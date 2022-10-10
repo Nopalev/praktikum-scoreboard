@@ -1,0 +1,1821 @@
+{
+    "event_id": "91532",
+    "time": "2022-10-10T21:57:36.547+07:00",
+    "contest_time": "386:57:36.546",
+    "state": {
+        "started": "2022-09-24T19:00:00.000+07:00",
+        "ended": "2022-09-29T19:00:00.000+07:00",
+        "frozen": null,
+        "thawed": null,
+        "finalized": "2022-10-03T13:31:34.773+07:00",
+        "end_of_updates": "2022-10-03T13:31:34.773+07:00"
+    },
+    "rows": [
+        {
+            "rank": 1,
+            "team_id": "5025221061",
+            "score": {
+                "num_solved": 4,
+                "total_time": 9616
+            },
+            "problems": [
+                {
+                    "label": "AM",
+                    "problem_id": "AM",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 2174
+                },
+                {
+                    "label": "JIMB",
+                    "problem_id": "JIMB",
+                    "num_judged": 6,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": true,
+                    "time": 2992
+                },
+                {
+                    "label": "LP",
+                    "problem_id": "LP",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 2175
+                },
+                {
+                    "label": "S1",
+                    "problem_id": "S1",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 2175
+                }
+            ]
+        },
+        {
+            "rank": 2,
+            "team_id": "5025221229",
+            "score": {
+                "num_solved": 4,
+                "total_time": 13613
+            },
+            "problems": [
+                {
+                    "label": "AM",
+                    "problem_id": "AM",
+                    "num_judged": 9,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": true,
+                    "time": 2143
+                },
+                {
+                    "label": "JIMB",
+                    "problem_id": "JIMB",
+                    "num_judged": 13,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 7109
+                },
+                {
+                    "label": "LP",
+                    "problem_id": "LP",
+                    "num_judged": 9,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": true,
+                    "time": 2156
+                },
+                {
+                    "label": "S1",
+                    "problem_id": "S1",
+                    "num_judged": 6,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 1545
+                }
+            ]
+        },
+        {
+            "rank": 3,
+            "team_id": "5025221129",
+            "score": {
+                "num_solved": 4,
+                "total_time": 16993
+            },
+            "problems": [
+                {
+                    "label": "AM",
+                    "problem_id": "AM",
+                    "num_judged": 5,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 3912
+                },
+                {
+                    "label": "JIMB",
+                    "problem_id": "JIMB",
+                    "num_judged": 7,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 7094
+                },
+                {
+                    "label": "LP",
+                    "problem_id": "LP",
+                    "num_judged": 5,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 3935
+                },
+                {
+                    "label": "S1",
+                    "problem_id": "S1",
+                    "num_judged": 2,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 1752
+                }
+            ]
+        },
+        {
+            "rank": 4,
+            "team_id": "5025221115",
+            "score": {
+                "num_solved": 4,
+                "total_time": 17414
+            },
+            "problems": [
+                {
+                    "label": "AM",
+                    "problem_id": "AM",
+                    "num_judged": 6,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 3884
+                },
+                {
+                    "label": "JIMB",
+                    "problem_id": "JIMB",
+                    "num_judged": 16,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 7144
+                },
+                {
+                    "label": "LP",
+                    "problem_id": "LP",
+                    "num_judged": 12,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 5760
+                },
+                {
+                    "label": "S1",
+                    "problem_id": "S1",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": true,
+                    "time": 6
+                }
+            ]
+        },
+        {
+            "rank": 5,
+            "team_id": "5025221054",
+            "score": {
+                "num_solved": 4,
+                "total_time": 19959
+            },
+            "problems": [
+                {
+                    "label": "AM",
+                    "problem_id": "AM",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 3635
+                },
+                {
+                    "label": "JIMB",
+                    "problem_id": "JIMB",
+                    "num_judged": 7,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 7084
+                },
+                {
+                    "label": "LP",
+                    "problem_id": "LP",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 3642
+                },
+                {
+                    "label": "S1",
+                    "problem_id": "S1",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 5478
+                }
+            ]
+        },
+        {
+            "rank": 6,
+            "team_id": "5025221019",
+            "score": {
+                "num_solved": 4,
+                "total_time": 20117
+            },
+            "problems": [
+                {
+                    "label": "AM",
+                    "problem_id": "AM",
+                    "num_judged": 3,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 2957
+                },
+                {
+                    "label": "JIMB",
+                    "problem_id": "JIMB",
+                    "num_judged": 18,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 6913
+                },
+                {
+                    "label": "LP",
+                    "problem_id": "LP",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 6916
+                },
+                {
+                    "label": "S1",
+                    "problem_id": "S1",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 2951
+                }
+            ]
+        },
+        {
+            "rank": 7,
+            "team_id": "5025221173",
+            "score": {
+                "num_solved": 4,
+                "total_time": 21522
+            },
+            "problems": [
+                {
+                    "label": "AM",
+                    "problem_id": "AM",
+                    "num_judged": 2,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 3663
+                },
+                {
+                    "label": "JIMB",
+                    "problem_id": "JIMB",
+                    "num_judged": 3,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 7163
+                },
+                {
+                    "label": "LP",
+                    "problem_id": "LP",
+                    "num_judged": 4,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 6920
+                },
+                {
+                    "label": "S1",
+                    "problem_id": "S1",
+                    "num_judged": 2,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 3636
+                }
+            ]
+        },
+        {
+            "rank": 8,
+            "team_id": "5025221033",
+            "score": {
+                "num_solved": 4,
+                "total_time": 21743
+            },
+            "problems": [
+                {
+                    "label": "AM",
+                    "problem_id": "AM",
+                    "num_judged": 6,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 6790
+                },
+                {
+                    "label": "JIMB",
+                    "problem_id": "JIMB",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 7183
+                },
+                {
+                    "label": "LP",
+                    "problem_id": "LP",
+                    "num_judged": 3,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 6939
+                },
+                {
+                    "label": "S1",
+                    "problem_id": "S1",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 691
+                }
+            ]
+        },
+        {
+            "rank": 9,
+            "team_id": "5025221201",
+            "score": {
+                "num_solved": 4,
+                "total_time": 22307
+            },
+            "problems": [
+                {
+                    "label": "AM",
+                    "problem_id": "AM",
+                    "num_judged": 2,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 5704
+                },
+                {
+                    "label": "JIMB",
+                    "problem_id": "JIMB",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 7127
+                },
+                {
+                    "label": "LP",
+                    "problem_id": "LP",
+                    "num_judged": 7,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 5437
+                },
+                {
+                    "label": "S1",
+                    "problem_id": "S1",
+                    "num_judged": 4,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 3839
+                }
+            ]
+        },
+        {
+            "rank": 10,
+            "team_id": "5025221194",
+            "score": {
+                "num_solved": 4,
+                "total_time": 24606
+            },
+            "problems": [
+                {
+                    "label": "AM",
+                    "problem_id": "AM",
+                    "num_judged": 4,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 5194
+                },
+                {
+                    "label": "JIMB",
+                    "problem_id": "JIMB",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 7152
+                },
+                {
+                    "label": "LP",
+                    "problem_id": "LP",
+                    "num_judged": 3,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 6895
+                },
+                {
+                    "label": "S1",
+                    "problem_id": "S1",
+                    "num_judged": 4,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 5205
+                }
+            ]
+        },
+        {
+            "rank": 11,
+            "team_id": "5025221166",
+            "score": {
+                "num_solved": 4,
+                "total_time": 25484
+            },
+            "problems": [
+                {
+                    "label": "AM",
+                    "problem_id": "AM",
+                    "num_judged": 3,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 7004
+                },
+                {
+                    "label": "JIMB",
+                    "problem_id": "JIMB",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 7170
+                },
+                {
+                    "label": "LP",
+                    "problem_id": "LP",
+                    "num_judged": 11,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 7093
+                },
+                {
+                    "label": "S1",
+                    "problem_id": "S1",
+                    "num_judged": 4,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 3917
+                }
+            ]
+        },
+        {
+            "rank": 12,
+            "team_id": "5025221285",
+            "score": {
+                "num_solved": 4,
+                "total_time": 25852
+            },
+            "problems": [
+                {
+                    "label": "AM",
+                    "problem_id": "AM",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 5901
+                },
+                {
+                    "label": "JIMB",
+                    "problem_id": "JIMB",
+                    "num_judged": 3,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 7146
+                },
+                {
+                    "label": "LP",
+                    "problem_id": "LP",
+                    "num_judged": 6,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 6617
+                },
+                {
+                    "label": "S1",
+                    "problem_id": "S1",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 6048
+                }
+            ]
+        },
+        {
+            "rank": 13,
+            "team_id": "5025221005",
+            "score": {
+                "num_solved": 4,
+                "total_time": 27094
+            },
+            "problems": [
+                {
+                    "label": "AM",
+                    "problem_id": "AM",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 6612
+                },
+                {
+                    "label": "JIMB",
+                    "problem_id": "JIMB",
+                    "num_judged": 3,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 7186
+                },
+                {
+                    "label": "LP",
+                    "problem_id": "LP",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 6643
+                },
+                {
+                    "label": "S1",
+                    "problem_id": "S1",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 6613
+                }
+            ]
+        },
+        {
+            "rank": 14,
+            "team_id": "5025221215",
+            "score": {
+                "num_solved": 4,
+                "total_time": 27666
+            },
+            "problems": [
+                {
+                    "label": "AM",
+                    "problem_id": "AM",
+                    "num_judged": 2,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 6828
+                },
+                {
+                    "label": "JIMB",
+                    "problem_id": "JIMB",
+                    "num_judged": 2,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 7127
+                },
+                {
+                    "label": "LP",
+                    "problem_id": "LP",
+                    "num_judged": 2,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 6822
+                },
+                {
+                    "label": "S1",
+                    "problem_id": "S1",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 6829
+                }
+            ]
+        },
+        {
+            "rank": 15,
+            "team_id": "5025221243",
+            "score": {
+                "num_solved": 4,
+                "total_time": 27789
+            },
+            "problems": [
+                {
+                    "label": "AM",
+                    "problem_id": "AM",
+                    "num_judged": 3,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 6691
+                },
+                {
+                    "label": "JIMB",
+                    "problem_id": "JIMB",
+                    "num_judged": 3,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 7175
+                },
+                {
+                    "label": "LP",
+                    "problem_id": "LP",
+                    "num_judged": 2,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 7086
+                },
+                {
+                    "label": "S1",
+                    "problem_id": "S1",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 6737
+                }
+            ]
+        },
+        {
+            "rank": 16,
+            "team_id": "5025221313",
+            "score": {
+                "num_solved": 4,
+                "total_time": 27806
+            },
+            "problems": [
+                {
+                    "label": "AM",
+                    "problem_id": "AM",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 6810
+                },
+                {
+                    "label": "JIMB",
+                    "problem_id": "JIMB",
+                    "num_judged": 2,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 7198
+                },
+                {
+                    "label": "LP",
+                    "problem_id": "LP",
+                    "num_judged": 2,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 6898
+                },
+                {
+                    "label": "S1",
+                    "problem_id": "S1",
+                    "num_judged": 3,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 6820
+                }
+            ]
+        },
+        {
+            "rank": 17,
+            "team_id": "5025221278",
+            "score": {
+                "num_solved": 4,
+                "total_time": 27867
+            },
+            "problems": [
+                {
+                    "label": "AM",
+                    "problem_id": "AM",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 6901
+                },
+                {
+                    "label": "JIMB",
+                    "problem_id": "JIMB",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 7119
+                },
+                {
+                    "label": "LP",
+                    "problem_id": "LP",
+                    "num_judged": 2,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 6899
+                },
+                {
+                    "label": "S1",
+                    "problem_id": "S1",
+                    "num_judged": 2,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 6908
+                }
+            ]
+        },
+        {
+            "rank": 18,
+            "team_id": "5025221299",
+            "score": {
+                "num_solved": 4,
+                "total_time": 28214
+            },
+            "problems": [
+                {
+                    "label": "AM",
+                    "problem_id": "AM",
+                    "num_judged": 2,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 6901
+                },
+                {
+                    "label": "JIMB",
+                    "problem_id": "JIMB",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 7178
+                },
+                {
+                    "label": "LP",
+                    "problem_id": "LP",
+                    "num_judged": 9,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 6957
+                },
+                {
+                    "label": "S1",
+                    "problem_id": "S1",
+                    "num_judged": 5,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 6918
+                }
+            ]
+        },
+        {
+            "rank": 19,
+            "team_id": "5025221236",
+            "score": {
+                "num_solved": 4,
+                "total_time": 28430
+            },
+            "problems": [
+                {
+                    "label": "AM",
+                    "problem_id": "AM",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 7083
+                },
+                {
+                    "label": "JIMB",
+                    "problem_id": "JIMB",
+                    "num_judged": 4,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 7098
+                },
+                {
+                    "label": "LP",
+                    "problem_id": "LP",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 7095
+                },
+                {
+                    "label": "S1",
+                    "problem_id": "S1",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 7094
+                }
+            ]
+        },
+        {
+            "rank": 20,
+            "team_id": "5025221180",
+            "score": {
+                "num_solved": 4,
+                "total_time": 28513
+            },
+            "problems": [
+                {
+                    "label": "AM",
+                    "problem_id": "AM",
+                    "num_judged": 13,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 6800
+                },
+                {
+                    "label": "JIMB",
+                    "problem_id": "JIMB",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 7168
+                },
+                {
+                    "label": "LP",
+                    "problem_id": "LP",
+                    "num_judged": 4,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 7106
+                },
+                {
+                    "label": "S1",
+                    "problem_id": "S1",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 7139
+                }
+            ]
+        },
+        {
+            "rank": 21,
+            "team_id": "5025221040",
+            "score": {
+                "num_solved": 4,
+                "total_time": 28673
+            },
+            "problems": [
+                {
+                    "label": "AM",
+                    "problem_id": "AM",
+                    "num_judged": 4,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 7102
+                },
+                {
+                    "label": "JIMB",
+                    "problem_id": "JIMB",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 7195
+                },
+                {
+                    "label": "LP",
+                    "problem_id": "LP",
+                    "num_judged": 2,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 7190
+                },
+                {
+                    "label": "S1",
+                    "problem_id": "S1",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 7106
+                }
+            ]
+        },
+        {
+            "rank": 22,
+            "team_id": "5025221143",
+            "score": {
+                "num_solved": 3,
+                "total_time": 14032
+            },
+            "problems": [
+                {
+                    "label": "AM",
+                    "problem_id": "AM",
+                    "num_judged": 4,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 4223
+                },
+                {
+                    "label": "JIMB",
+                    "problem_id": "JIMB",
+                    "num_judged": 3,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "LP",
+                    "problem_id": "LP",
+                    "num_judged": 10,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 6621
+                },
+                {
+                    "label": "S1",
+                    "problem_id": "S1",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 2948
+                }
+            ]
+        },
+        {
+            "rank": 23,
+            "team_id": "5025221187",
+            "score": {
+                "num_solved": 3,
+                "total_time": 14485
+            },
+            "problems": [
+                {
+                    "label": "AM",
+                    "problem_id": "AM",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 3857
+                },
+                {
+                    "label": "JIMB",
+                    "problem_id": "JIMB",
+                    "num_judged": 16,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "LP",
+                    "problem_id": "LP",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 3873
+                },
+                {
+                    "label": "S1",
+                    "problem_id": "S1",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 6755
+                }
+            ]
+        },
+        {
+            "rank": 24,
+            "team_id": "5025221103",
+            "score": {
+                "num_solved": 3,
+                "total_time": 14554
+            },
+            "problems": [
+                {
+                    "label": "AM",
+                    "problem_id": "AM",
+                    "num_judged": 2,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 3639
+                },
+                {
+                    "label": "JIMB",
+                    "problem_id": "JIMB",
+                    "num_judged": 2,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "LP",
+                    "problem_id": "LP",
+                    "num_judged": 4,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 6882
+                },
+                {
+                    "label": "S1",
+                    "problem_id": "S1",
+                    "num_judged": 10,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 3773
+                }
+            ]
+        },
+        {
+            "rank": 25,
+            "team_id": "5025221026",
+            "score": {
+                "num_solved": 3,
+                "total_time": 14729
+            },
+            "problems": [
+                {
+                    "label": "AM",
+                    "problem_id": "AM",
+                    "num_judged": 3,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 3980
+                },
+                {
+                    "label": "JIMB",
+                    "problem_id": "JIMB",
+                    "num_judged": 5,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "LP",
+                    "problem_id": "LP",
+                    "num_judged": 7,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 6897
+                },
+                {
+                    "label": "S1",
+                    "problem_id": "S1",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 3692
+                }
+            ]
+        },
+        {
+            "rank": 26,
+            "team_id": "5025221047",
+            "score": {
+                "num_solved": 3,
+                "total_time": 17238
+            },
+            "problems": [
+                {
+                    "label": "AM",
+                    "problem_id": "AM",
+                    "num_judged": 4,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 5673
+                },
+                {
+                    "label": "JIMB",
+                    "problem_id": "JIMB",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "LP",
+                    "problem_id": "LP",
+                    "num_judged": 5,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 5707
+                },
+                {
+                    "label": "S1",
+                    "problem_id": "S1",
+                    "num_judged": 2,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 5698
+                }
+            ]
+        },
+        {
+            "rank": 27,
+            "team_id": "5025221292",
+            "score": {
+                "num_solved": 3,
+                "total_time": 17941
+            },
+            "problems": [
+                {
+                    "label": "AM",
+                    "problem_id": "AM",
+                    "num_judged": 11,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 6712
+                },
+                {
+                    "label": "JIMB",
+                    "problem_id": "JIMB",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "LP",
+                    "problem_id": "LP",
+                    "num_judged": 14,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 7109
+                },
+                {
+                    "label": "S1",
+                    "problem_id": "S1",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 3660
+                }
+            ]
+        },
+        {
+            "rank": 28,
+            "team_id": "5025221306",
+            "score": {
+                "num_solved": 3,
+                "total_time": 20685
+            },
+            "problems": [
+                {
+                    "label": "AM",
+                    "problem_id": "AM",
+                    "num_judged": 2,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 6660
+                },
+                {
+                    "label": "JIMB",
+                    "problem_id": "JIMB",
+                    "num_judged": 3,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "LP",
+                    "problem_id": "LP",
+                    "num_judged": 14,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 7105
+                },
+                {
+                    "label": "S1",
+                    "problem_id": "S1",
+                    "num_judged": 3,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 6600
+                }
+            ]
+        },
+        {
+            "rank": 29,
+            "team_id": "5025221271",
+            "score": {
+                "num_solved": 3,
+                "total_time": 20735
+            },
+            "problems": [
+                {
+                    "label": "AM",
+                    "problem_id": "AM",
+                    "num_judged": 4,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 6842
+                },
+                {
+                    "label": "JIMB",
+                    "problem_id": "JIMB",
+                    "num_judged": 6,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "LP",
+                    "problem_id": "LP",
+                    "num_judged": 15,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 6969
+                },
+                {
+                    "label": "S1",
+                    "problem_id": "S1",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 6584
+                }
+            ]
+        },
+        {
+            "rank": 30,
+            "team_id": "5025221250",
+            "score": {
+                "num_solved": 3,
+                "total_time": 20999
+            },
+            "problems": [
+                {
+                    "label": "AM",
+                    "problem_id": "AM",
+                    "num_judged": 2,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 6925
+                },
+                {
+                    "label": "JIMB",
+                    "problem_id": "JIMB",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "LP",
+                    "problem_id": "LP",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 7131
+                },
+                {
+                    "label": "S1",
+                    "problem_id": "S1",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 6923
+                }
+            ]
+        },
+        {
+            "rank": 31,
+            "team_id": "5025221012",
+            "score": {
+                "num_solved": 3,
+                "total_time": 21033
+            },
+            "problems": [
+                {
+                    "label": "AM",
+                    "problem_id": "AM",
+                    "num_judged": 2,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 6902
+                },
+                {
+                    "label": "JIMB",
+                    "problem_id": "JIMB",
+                    "num_judged": 6,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "LP",
+                    "problem_id": "LP",
+                    "num_judged": 4,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 7097
+                },
+                {
+                    "label": "S1",
+                    "problem_id": "S1",
+                    "num_judged": 3,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 6914
+                }
+            ]
+        },
+        {
+            "rank": 32,
+            "team_id": "5025221257",
+            "score": {
+                "num_solved": 3,
+                "total_time": 21127
+            },
+            "problems": [
+                {
+                    "label": "AM",
+                    "problem_id": "AM",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 6973
+                },
+                {
+                    "label": "JIMB",
+                    "problem_id": "JIMB",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "LP",
+                    "problem_id": "LP",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 7183
+                },
+                {
+                    "label": "S1",
+                    "problem_id": "S1",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 6971
+                }
+            ]
+        },
+        {
+            "rank": 33,
+            "team_id": "5025201074",
+            "score": {
+                "num_solved": 3,
+                "total_time": 21352
+            },
+            "problems": [
+                {
+                    "label": "AM",
+                    "problem_id": "AM",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 7120
+                },
+                {
+                    "label": "JIMB",
+                    "problem_id": "JIMB",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 7118
+                },
+                {
+                    "label": "LP",
+                    "problem_id": "LP",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 7114
+                },
+                {
+                    "label": "S1",
+                    "problem_id": "S1",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                }
+            ]
+        },
+        {
+            "rank": 34,
+            "team_id": "5025221222",
+            "score": {
+                "num_solved": 3,
+                "total_time": 21469
+            },
+            "problems": [
+                {
+                    "label": "AM",
+                    "problem_id": "AM",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 7159
+                },
+                {
+                    "label": "JIMB",
+                    "problem_id": "JIMB",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "LP",
+                    "problem_id": "LP",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 7173
+                },
+                {
+                    "label": "S1",
+                    "problem_id": "S1",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 7137
+                }
+            ]
+        },
+        {
+            "rank": 35,
+            "team_id": "5025221208",
+            "score": {
+                "num_solved": 3,
+                "total_time": 21499
+            },
+            "problems": [
+                {
+                    "label": "AM",
+                    "problem_id": "AM",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 7174
+                },
+                {
+                    "label": "JIMB",
+                    "problem_id": "JIMB",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "LP",
+                    "problem_id": "LP",
+                    "num_judged": 5,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 7126
+                },
+                {
+                    "label": "S1",
+                    "problem_id": "S1",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 7119
+                }
+            ]
+        },
+        {
+            "rank": 36,
+            "team_id": "5025221151",
+            "score": {
+                "num_solved": 0,
+                "total_time": 0
+            },
+            "problems": [
+                {
+                    "label": "AM",
+                    "problem_id": "AM",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "JIMB",
+                    "problem_id": "JIMB",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "LP",
+                    "problem_id": "LP",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "S1",
+                    "problem_id": "S1",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                }
+            ]
+        },
+        {
+            "rank": 36,
+            "team_id": "5025221159",
+            "score": {
+                "num_solved": 0,
+                "total_time": 0
+            },
+            "problems": [
+                {
+                    "label": "AM",
+                    "problem_id": "AM",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "JIMB",
+                    "problem_id": "JIMB",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "LP",
+                    "problem_id": "LP",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "S1",
+                    "problem_id": "S1",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                }
+            ]
+        },
+        {
+            "rank": 36,
+            "team_id": "5025221122",
+            "score": {
+                "num_solved": 0,
+                "total_time": 0
+            },
+            "problems": [
+                {
+                    "label": "AM",
+                    "problem_id": "AM",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "JIMB",
+                    "problem_id": "JIMB",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "LP",
+                    "problem_id": "LP",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "S1",
+                    "problem_id": "S1",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                }
+            ]
+        },
+        {
+            "rank": 36,
+            "team_id": "5025221264",
+            "score": {
+                "num_solved": 0,
+                "total_time": 0
+            },
+            "problems": [
+                {
+                    "label": "AM",
+                    "problem_id": "AM",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "JIMB",
+                    "problem_id": "JIMB",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "LP",
+                    "problem_id": "LP",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "S1",
+                    "problem_id": "S1",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                }
+            ]
+        },
+        {
+            "rank": 36,
+            "team_id": "5025221136",
+            "score": {
+                "num_solved": 0,
+                "total_time": 0
+            },
+            "problems": [
+                {
+                    "label": "AM",
+                    "problem_id": "AM",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "JIMB",
+                    "problem_id": "JIMB",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "LP",
+                    "problem_id": "LP",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "S1",
+                    "problem_id": "S1",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                }
+            ]
+        }
+    ]
+}

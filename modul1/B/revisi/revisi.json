@@ -1,0 +1,1773 @@
+{
+    "event_id": "91437",
+    "time": "2022-10-10T21:55:47.362+07:00",
+    "contest_time": "386:55:47.361",
+    "state": {
+        "started": "2022-09-24T19:00:00.000+07:00",
+        "ended": "2022-09-29T19:00:00.000+07:00",
+        "frozen": null,
+        "thawed": null,
+        "finalized": "2022-10-03T13:31:11.056+07:00",
+        "end_of_updates": "2022-10-03T13:31:11.056+07:00"
+    },
+    "rows": [
+        {
+            "rank": 1,
+            "team_id": "5025221289",
+            "score": {
+                "num_solved": 4,
+                "total_time": 10484
+            },
+            "problems": [
+                {
+                    "label": "Bits",
+                    "problem_id": "Bits",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": true,
+                    "time": 30
+                },
+                {
+                    "label": "GrindTime",
+                    "problem_id": "GrindTime",
+                    "num_judged": 7,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 5722
+                },
+                {
+                    "label": "NilaiOwo",
+                    "problem_id": "NilaiOwo",
+                    "num_judged": 6,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 4332
+                },
+                {
+                    "label": "Powerof2",
+                    "problem_id": "Powerof2",
+                    "num_judged": 2,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": true,
+                    "time": 160
+                }
+            ]
+        },
+        {
+            "rank": 2,
+            "team_id": "5025221156",
+            "score": {
+                "num_solved": 4,
+                "total_time": 20773
+            },
+            "problems": [
+                {
+                    "label": "Bits",
+                    "problem_id": "Bits",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 4483
+                },
+                {
+                    "label": "GrindTime",
+                    "problem_id": "GrindTime",
+                    "num_judged": 4,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 4345
+                },
+                {
+                    "label": "NilaiOwo",
+                    "problem_id": "NilaiOwo",
+                    "num_judged": 21,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 7071
+                },
+                {
+                    "label": "Powerof2",
+                    "problem_id": "Powerof2",
+                    "num_judged": 5,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 4334
+                }
+            ]
+        },
+        {
+            "rank": 3,
+            "team_id": "5025221100",
+            "score": {
+                "num_solved": 4,
+                "total_time": 20943
+            },
+            "problems": [
+                {
+                    "label": "Bits",
+                    "problem_id": "Bits",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 4566
+                },
+                {
+                    "label": "GrindTime",
+                    "problem_id": "GrindTime",
+                    "num_judged": 9,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 6085
+                },
+                {
+                    "label": "NilaiOwo",
+                    "problem_id": "NilaiOwo",
+                    "num_judged": 9,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 5367
+                },
+                {
+                    "label": "Powerof2",
+                    "problem_id": "Powerof2",
+                    "num_judged": 3,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 4565
+                }
+            ]
+        },
+        {
+            "rank": 4,
+            "team_id": "5025221044",
+            "score": {
+                "num_solved": 4,
+                "total_time": 23945
+            },
+            "problems": [
+                {
+                    "label": "Bits",
+                    "problem_id": "Bits",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 4991
+                },
+                {
+                    "label": "GrindTime",
+                    "problem_id": "GrindTime",
+                    "num_judged": 8,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 6957
+                },
+                {
+                    "label": "NilaiOwo",
+                    "problem_id": "NilaiOwo",
+                    "num_judged": 5,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 7198
+                },
+                {
+                    "label": "Powerof2",
+                    "problem_id": "Powerof2",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 4579
+                }
+            ]
+        },
+        {
+            "rank": 5,
+            "team_id": "5025221177",
+            "score": {
+                "num_solved": 4,
+                "total_time": 24417
+            },
+            "problems": [
+                {
+                    "label": "Bits",
+                    "problem_id": "Bits",
+                    "num_judged": 5,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 5471
+                },
+                {
+                    "label": "GrindTime",
+                    "problem_id": "GrindTime",
+                    "num_judged": 3,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 7055
+                },
+                {
+                    "label": "NilaiOwo",
+                    "problem_id": "NilaiOwo",
+                    "num_judged": 6,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 7119
+                },
+                {
+                    "label": "Powerof2",
+                    "problem_id": "Powerof2",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 4552
+                }
+            ]
+        },
+        {
+            "rank": 6,
+            "team_id": "5025221240",
+            "score": {
+                "num_solved": 4,
+                "total_time": 26453
+            },
+            "problems": [
+                {
+                    "label": "Bits",
+                    "problem_id": "Bits",
+                    "num_judged": 12,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 6930
+                },
+                {
+                    "label": "GrindTime",
+                    "problem_id": "GrindTime",
+                    "num_judged": 14,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 7172
+                },
+                {
+                    "label": "NilaiOwo",
+                    "problem_id": "NilaiOwo",
+                    "num_judged": 10,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 7042
+                },
+                {
+                    "label": "Powerof2",
+                    "problem_id": "Powerof2",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 4649
+                }
+            ]
+        },
+        {
+            "rank": 7,
+            "team_id": "5025221037",
+            "score": {
+                "num_solved": 4,
+                "total_time": 26474
+            },
+            "problems": [
+                {
+                    "label": "Bits",
+                    "problem_id": "Bits",
+                    "num_judged": 2,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 6675
+                },
+                {
+                    "label": "GrindTime",
+                    "problem_id": "GrindTime",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 7133
+                },
+                {
+                    "label": "NilaiOwo",
+                    "problem_id": "NilaiOwo",
+                    "num_judged": 8,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 7123
+                },
+                {
+                    "label": "Powerof2",
+                    "problem_id": "Powerof2",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 5383
+                }
+            ]
+        },
+        {
+            "rank": 8,
+            "team_id": "5025221023",
+            "score": {
+                "num_solved": 4,
+                "total_time": 28561
+            },
+            "problems": [
+                {
+                    "label": "Bits",
+                    "problem_id": "Bits",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 7142
+                },
+                {
+                    "label": "GrindTime",
+                    "problem_id": "GrindTime",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 7085
+                },
+                {
+                    "label": "NilaiOwo",
+                    "problem_id": "NilaiOwo",
+                    "num_judged": 2,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 7191
+                },
+                {
+                    "label": "Powerof2",
+                    "problem_id": "Powerof2",
+                    "num_judged": 2,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 7103
+                }
+            ]
+        },
+        {
+            "rank": 9,
+            "team_id": "5025221126",
+            "score": {
+                "num_solved": 3,
+                "total_time": 11087
+            },
+            "problems": [
+                {
+                    "label": "Bits",
+                    "problem_id": "Bits",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "GrindTime",
+                    "problem_id": "GrindTime",
+                    "num_judged": 23,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 7083
+                },
+                {
+                    "label": "NilaiOwo",
+                    "problem_id": "NilaiOwo",
+                    "num_judged": 8,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 3175
+                },
+                {
+                    "label": "Powerof2",
+                    "problem_id": "Powerof2",
+                    "num_judged": 2,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 229
+                }
+            ]
+        },
+        {
+            "rank": 10,
+            "team_id": "5025221233",
+            "score": {
+                "num_solved": 3,
+                "total_time": 16024
+            },
+            "problems": [
+                {
+                    "label": "Bits",
+                    "problem_id": "Bits",
+                    "num_judged": 2,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 4579
+                },
+                {
+                    "label": "GrindTime",
+                    "problem_id": "GrindTime",
+                    "num_judged": 3,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "NilaiOwo",
+                    "problem_id": "NilaiOwo",
+                    "num_judged": 5,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 6769
+                },
+                {
+                    "label": "Powerof2",
+                    "problem_id": "Powerof2",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 4576
+                }
+            ]
+        },
+        {
+            "rank": 11,
+            "team_id": "5025221205",
+            "score": {
+                "num_solved": 3,
+                "total_time": 16391
+            },
+            "problems": [
+                {
+                    "label": "Bits",
+                    "problem_id": "Bits",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 4461
+                },
+                {
+                    "label": "GrindTime",
+                    "problem_id": "GrindTime",
+                    "num_judged": 13,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 7193
+                },
+                {
+                    "label": "NilaiOwo",
+                    "problem_id": "NilaiOwo",
+                    "num_judged": 7,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "Powerof2",
+                    "problem_id": "Powerof2",
+                    "num_judged": 2,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 4477
+                }
+            ]
+        },
+        {
+            "rank": 12,
+            "team_id": "5025221119",
+            "score": {
+                "num_solved": 3,
+                "total_time": 20978
+            },
+            "problems": [
+                {
+                    "label": "Bits",
+                    "problem_id": "Bits",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 6804
+                },
+                {
+                    "label": "GrindTime",
+                    "problem_id": "GrindTime",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 7158
+                },
+                {
+                    "label": "NilaiOwo",
+                    "problem_id": "NilaiOwo",
+                    "num_judged": 4,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "Powerof2",
+                    "problem_id": "Powerof2",
+                    "num_judged": 3,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 6976
+                }
+            ]
+        },
+        {
+            "rank": 13,
+            "team_id": "5025221030",
+            "score": {
+                "num_solved": 3,
+                "total_time": 21568
+            },
+            "problems": [
+                {
+                    "label": "Bits",
+                    "problem_id": "Bits",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 7132
+                },
+                {
+                    "label": "GrindTime",
+                    "problem_id": "GrindTime",
+                    "num_judged": 8,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 7147
+                },
+                {
+                    "label": "NilaiOwo",
+                    "problem_id": "NilaiOwo",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 7149
+                },
+                {
+                    "label": "Powerof2",
+                    "problem_id": "Powerof2",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                }
+            ]
+        },
+        {
+            "rank": 14,
+            "team_id": "5025221163",
+            "score": {
+                "num_solved": 2,
+                "total_time": 991
+            },
+            "problems": [
+                {
+                    "label": "Bits",
+                    "problem_id": "Bits",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "GrindTime",
+                    "problem_id": "GrindTime",
+                    "num_judged": 4,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": true,
+                    "time": 114
+                },
+                {
+                    "label": "NilaiOwo",
+                    "problem_id": "NilaiOwo",
+                    "num_judged": 9,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": true,
+                    "time": 657
+                },
+                {
+                    "label": "Powerof2",
+                    "problem_id": "Powerof2",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                }
+            ]
+        },
+        {
+            "rank": 15,
+            "team_id": "5025221191",
+            "score": {
+                "num_solved": 2,
+                "total_time": 8807
+            },
+            "problems": [
+                {
+                    "label": "Bits",
+                    "problem_id": "Bits",
+                    "num_judged": 2,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 4247
+                },
+                {
+                    "label": "GrindTime",
+                    "problem_id": "GrindTime",
+                    "num_judged": 15,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "NilaiOwo",
+                    "problem_id": "NilaiOwo",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "Powerof2",
+                    "problem_id": "Powerof2",
+                    "num_judged": 2,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 4520
+                }
+            ]
+        },
+        {
+            "rank": 16,
+            "team_id": "5025221016",
+            "score": {
+                "num_solved": 2,
+                "total_time": 11033
+            },
+            "problems": [
+                {
+                    "label": "Bits",
+                    "problem_id": "Bits",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 7082
+                },
+                {
+                    "label": "GrindTime",
+                    "problem_id": "GrindTime",
+                    "num_judged": 5,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "NilaiOwo",
+                    "problem_id": "NilaiOwo",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "Powerof2",
+                    "problem_id": "Powerof2",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 3951
+                }
+            ]
+        },
+        {
+            "rank": 17,
+            "team_id": "5025221002",
+            "score": {
+                "num_solved": 2,
+                "total_time": 11148
+            },
+            "problems": [
+                {
+                    "label": "Bits",
+                    "problem_id": "Bits",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "GrindTime",
+                    "problem_id": "GrindTime",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "NilaiOwo",
+                    "problem_id": "NilaiOwo",
+                    "num_judged": 11,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 7133
+                },
+                {
+                    "label": "Powerof2",
+                    "problem_id": "Powerof2",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 3815
+                }
+            ]
+        },
+        {
+            "rank": 18,
+            "team_id": "5025221254",
+            "score": {
+                "num_solved": 2,
+                "total_time": 11282
+            },
+            "problems": [
+                {
+                    "label": "Bits",
+                    "problem_id": "Bits",
+                    "num_judged": 2,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 4209
+                },
+                {
+                    "label": "GrindTime",
+                    "problem_id": "GrindTime",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "NilaiOwo",
+                    "problem_id": "NilaiOwo",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "Powerof2",
+                    "problem_id": "Powerof2",
+                    "num_judged": 7,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 6933
+                }
+            ]
+        },
+        {
+            "rank": 19,
+            "team_id": "5025221170",
+            "score": {
+                "num_solved": 2,
+                "total_time": 11294
+            },
+            "problems": [
+                {
+                    "label": "Bits",
+                    "problem_id": "Bits",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "GrindTime",
+                    "problem_id": "GrindTime",
+                    "num_judged": 12,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "NilaiOwo",
+                    "problem_id": "NilaiOwo",
+                    "num_judged": 5,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 7197
+                },
+                {
+                    "label": "Powerof2",
+                    "problem_id": "Powerof2",
+                    "num_judged": 7,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 3897
+                }
+            ]
+        },
+        {
+            "rank": 20,
+            "team_id": "5025221058",
+            "score": {
+                "num_solved": 2,
+                "total_time": 13416
+            },
+            "problems": [
+                {
+                    "label": "Bits",
+                    "problem_id": "Bits",
+                    "num_judged": 2,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 6645
+                },
+                {
+                    "label": "GrindTime",
+                    "problem_id": "GrindTime",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "NilaiOwo",
+                    "problem_id": "NilaiOwo",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "Powerof2",
+                    "problem_id": "Powerof2",
+                    "num_judged": 5,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 6671
+                }
+            ]
+        },
+        {
+            "rank": 21,
+            "team_id": "5025221009",
+            "score": {
+                "num_solved": 2,
+                "total_time": 13442
+            },
+            "problems": [
+                {
+                    "label": "Bits",
+                    "problem_id": "Bits",
+                    "num_judged": 2,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 6010
+                },
+                {
+                    "label": "GrindTime",
+                    "problem_id": "GrindTime",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "NilaiOwo",
+                    "problem_id": "NilaiOwo",
+                    "num_judged": 13,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 7172
+                },
+                {
+                    "label": "Powerof2",
+                    "problem_id": "Powerof2",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                }
+            ]
+        },
+        {
+            "rank": 22,
+            "team_id": "5025221275",
+            "score": {
+                "num_solved": 2,
+                "total_time": 13612
+            },
+            "problems": [
+                {
+                    "label": "Bits",
+                    "problem_id": "Bits",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 6663
+                },
+                {
+                    "label": "GrindTime",
+                    "problem_id": "GrindTime",
+                    "num_judged": 4,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "NilaiOwo",
+                    "problem_id": "NilaiOwo",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "Powerof2",
+                    "problem_id": "Powerof2",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 6949
+                }
+            ]
+        },
+        {
+            "rank": 23,
+            "team_id": "5025221219",
+            "score": {
+                "num_solved": 2,
+                "total_time": 13792
+            },
+            "problems": [
+                {
+                    "label": "Bits",
+                    "problem_id": "Bits",
+                    "num_judged": 3,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 7093
+                },
+                {
+                    "label": "GrindTime",
+                    "problem_id": "GrindTime",
+                    "num_judged": 6,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "NilaiOwo",
+                    "problem_id": "NilaiOwo",
+                    "num_judged": 2,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "Powerof2",
+                    "problem_id": "Powerof2",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 6659
+                }
+            ]
+        },
+        {
+            "rank": 24,
+            "team_id": "5025221296",
+            "score": {
+                "num_solved": 2,
+                "total_time": 14074
+            },
+            "problems": [
+                {
+                    "label": "Bits",
+                    "problem_id": "Bits",
+                    "num_judged": 2,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 6950
+                },
+                {
+                    "label": "GrindTime",
+                    "problem_id": "GrindTime",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "NilaiOwo",
+                    "problem_id": "NilaiOwo",
+                    "num_judged": 3,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "Powerof2",
+                    "problem_id": "Powerof2",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 7104
+                }
+            ]
+        },
+        {
+            "rank": 25,
+            "team_id": "5025221148",
+            "score": {
+                "num_solved": 2,
+                "total_time": 14087
+            },
+            "problems": [
+                {
+                    "label": "Bits",
+                    "problem_id": "Bits",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 7155
+                },
+                {
+                    "label": "GrindTime",
+                    "problem_id": "GrindTime",
+                    "num_judged": 6,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "NilaiOwo",
+                    "problem_id": "NilaiOwo",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "Powerof2",
+                    "problem_id": "Powerof2",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 6932
+                }
+            ]
+        },
+        {
+            "rank": 26,
+            "team_id": "5025221051",
+            "score": {
+                "num_solved": 2,
+                "total_time": 14093
+            },
+            "problems": [
+                {
+                    "label": "Bits",
+                    "problem_id": "Bits",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 7186
+                },
+                {
+                    "label": "GrindTime",
+                    "problem_id": "GrindTime",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "NilaiOwo",
+                    "problem_id": "NilaiOwo",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "Powerof2",
+                    "problem_id": "Powerof2",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 6907
+                }
+            ]
+        },
+        {
+            "rank": 27,
+            "team_id": "5025221212",
+            "score": {
+                "num_solved": 2,
+                "total_time": 14328
+            },
+            "problems": [
+                {
+                    "label": "Bits",
+                    "problem_id": "Bits",
+                    "num_judged": 4,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 7096
+                },
+                {
+                    "label": "GrindTime",
+                    "problem_id": "GrindTime",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "NilaiOwo",
+                    "problem_id": "NilaiOwo",
+                    "num_judged": 2,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "Powerof2",
+                    "problem_id": "Powerof2",
+                    "num_judged": 6,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 7072
+                }
+            ]
+        },
+        {
+            "rank": 28,
+            "team_id": "5025221317",
+            "score": {
+                "num_solved": 1,
+                "total_time": 7169
+            },
+            "problems": [
+                {
+                    "label": "Bits",
+                    "problem_id": "Bits",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "GrindTime",
+                    "problem_id": "GrindTime",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "NilaiOwo",
+                    "problem_id": "NilaiOwo",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "Powerof2",
+                    "problem_id": "Powerof2",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 7169
+                }
+            ]
+        },
+        {
+            "rank": 29,
+            "team_id": "5025221247",
+            "score": {
+                "num_solved": 1,
+                "total_time": 7190
+            },
+            "problems": [
+                {
+                    "label": "Bits",
+                    "problem_id": "Bits",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "GrindTime",
+                    "problem_id": "GrindTime",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "NilaiOwo",
+                    "problem_id": "NilaiOwo",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "Powerof2",
+                    "problem_id": "Powerof2",
+                    "num_judged": 6,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 7090
+                }
+            ]
+        },
+        {
+            "rank": 30,
+            "team_id": "5025221310",
+            "score": {
+                "num_solved": 1,
+                "total_time": 7201
+            },
+            "problems": [
+                {
+                    "label": "Bits",
+                    "problem_id": "Bits",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "GrindTime",
+                    "problem_id": "GrindTime",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "NilaiOwo",
+                    "problem_id": "NilaiOwo",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "Powerof2",
+                    "problem_id": "Powerof2",
+                    "num_judged": 2,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 7181
+                }
+            ]
+        },
+        {
+            "rank": 31,
+            "team_id": "5025221133",
+            "score": {
+                "num_solved": 0,
+                "total_time": 0
+            },
+            "problems": [
+                {
+                    "label": "Bits",
+                    "problem_id": "Bits",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "GrindTime",
+                    "problem_id": "GrindTime",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "NilaiOwo",
+                    "problem_id": "NilaiOwo",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "Powerof2",
+                    "problem_id": "Powerof2",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                }
+            ]
+        },
+        {
+            "rank": 31,
+            "team_id": "5025221140",
+            "score": {
+                "num_solved": 0,
+                "total_time": 0
+            },
+            "problems": [
+                {
+                    "label": "Bits",
+                    "problem_id": "Bits",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "GrindTime",
+                    "problem_id": "GrindTime",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "NilaiOwo",
+                    "problem_id": "NilaiOwo",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "Powerof2",
+                    "problem_id": "Powerof2",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                }
+            ]
+        },
+        {
+            "rank": 31,
+            "team_id": "5025221184",
+            "score": {
+                "num_solved": 0,
+                "total_time": 0
+            },
+            "problems": [
+                {
+                    "label": "Bits",
+                    "problem_id": "Bits",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "GrindTime",
+                    "problem_id": "GrindTime",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "NilaiOwo",
+                    "problem_id": "NilaiOwo",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "Powerof2",
+                    "problem_id": "Powerof2",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                }
+            ]
+        },
+        {
+            "rank": 31,
+            "team_id": "5025221261",
+            "score": {
+                "num_solved": 0,
+                "total_time": 0
+            },
+            "problems": [
+                {
+                    "label": "Bits",
+                    "problem_id": "Bits",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "GrindTime",
+                    "problem_id": "GrindTime",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "NilaiOwo",
+                    "problem_id": "NilaiOwo",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "Powerof2",
+                    "problem_id": "Powerof2",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                }
+            ]
+        },
+        {
+            "rank": 31,
+            "team_id": "5025221282",
+            "score": {
+                "num_solved": 0,
+                "total_time": 0
+            },
+            "problems": [
+                {
+                    "label": "Bits",
+                    "problem_id": "Bits",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "GrindTime",
+                    "problem_id": "GrindTime",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "NilaiOwo",
+                    "problem_id": "NilaiOwo",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "Powerof2",
+                    "problem_id": "Powerof2",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                }
+            ]
+        },
+        {
+            "rank": 31,
+            "team_id": "5025221107",
+            "score": {
+                "num_solved": 0,
+                "total_time": 0
+            },
+            "problems": [
+                {
+                    "label": "Bits",
+                    "problem_id": "Bits",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "GrindTime",
+                    "problem_id": "GrindTime",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "NilaiOwo",
+                    "problem_id": "NilaiOwo",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "Powerof2",
+                    "problem_id": "Powerof2",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                }
+            ]
+        },
+        {
+            "rank": 31,
+            "team_id": "5025221303",
+            "score": {
+                "num_solved": 0,
+                "total_time": 0
+            },
+            "problems": [
+                {
+                    "label": "Bits",
+                    "problem_id": "Bits",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "GrindTime",
+                    "problem_id": "GrindTime",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "NilaiOwo",
+                    "problem_id": "NilaiOwo",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "Powerof2",
+                    "problem_id": "Powerof2",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                }
+            ]
+        },
+        {
+            "rank": 31,
+            "team_id": "5025221268",
+            "score": {
+                "num_solved": 0,
+                "total_time": 0
+            },
+            "problems": [
+                {
+                    "label": "Bits",
+                    "problem_id": "Bits",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "GrindTime",
+                    "problem_id": "GrindTime",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "NilaiOwo",
+                    "problem_id": "NilaiOwo",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "Powerof2",
+                    "problem_id": "Powerof2",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                }
+            ]
+        },
+        {
+            "rank": 31,
+            "team_id": "5025221198",
+            "score": {
+                "num_solved": 0,
+                "total_time": 0
+            },
+            "problems": [
+                {
+                    "label": "Bits",
+                    "problem_id": "Bits",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "GrindTime",
+                    "problem_id": "GrindTime",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "NilaiOwo",
+                    "problem_id": "NilaiOwo",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "Powerof2",
+                    "problem_id": "Powerof2",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                }
+            ]
+        },
+        {
+            "rank": 31,
+            "team_id": "5025221226",
+            "score": {
+                "num_solved": 0,
+                "total_time": 0
+            },
+            "problems": [
+                {
+                    "label": "Bits",
+                    "problem_id": "Bits",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "GrindTime",
+                    "problem_id": "GrindTime",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "NilaiOwo",
+                    "problem_id": "NilaiOwo",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "Powerof2",
+                    "problem_id": "Powerof2",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                }
+            ]
+        }
+    ]
+}

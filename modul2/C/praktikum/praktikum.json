@@ -1,0 +1,1726 @@
+{
+    "event_id": "91533",
+    "time": "2022-10-10T22:04:59.457+07:00",
+    "contest_time": "61:04:59.457",
+    "state": {
+        "started": "2022-10-08T09:00:00.000+07:00",
+        "ended": "2022-10-08T11:20:00.000+07:00",
+        "frozen": null,
+        "thawed": null,
+        "finalized": "2022-10-09T12:50:54.578+07:00",
+        "end_of_updates": "2022-10-09T12:50:54.578+07:00"
+    },
+    "rows": [
+        {
+            "rank": 1,
+            "team_id": "5025221185",
+            "score": {
+                "num_solved": 4,
+                "total_time": 446
+            },
+            "problems": [
+                {
+                    "label": "AkuKamudanTangga",
+                    "problem_id": "AkuKamudanTangga",
+                    "num_judged": 4,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": true,
+                    "time": 35
+                },
+                {
+                    "label": "DC",
+                    "problem_id": "DC",
+                    "num_judged": 6,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": true,
+                    "time": 110
+                },
+                {
+                    "label": "Terkunci",
+                    "problem_id": "Terkunci",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": true,
+                    "time": 77
+                },
+                {
+                    "label": "UJN-EZ",
+                    "problem_id": "UJN-EZ",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 64
+                }
+            ]
+        },
+        {
+            "rank": 2,
+            "team_id": "5025221311",
+            "score": {
+                "num_solved": 3,
+                "total_time": 509
+            },
+            "problems": [
+                {
+                    "label": "AkuKamudanTangga",
+                    "problem_id": "AkuKamudanTangga",
+                    "num_judged": 8,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 98
+                },
+                {
+                    "label": "DC",
+                    "problem_id": "DC",
+                    "num_judged": 2,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "Terkunci",
+                    "problem_id": "Terkunci",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 114
+                },
+                {
+                    "label": "UJN-EZ",
+                    "problem_id": "UJN-EZ",
+                    "num_judged": 5,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 77
+                }
+            ]
+        },
+        {
+            "rank": 3,
+            "team_id": "5025221206",
+            "score": {
+                "num_solved": 2,
+                "total_time": 156
+            },
+            "problems": [
+                {
+                    "label": "AkuKamudanTangga",
+                    "problem_id": "AkuKamudanTangga",
+                    "num_judged": 2,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 60
+                },
+                {
+                    "label": "DC",
+                    "problem_id": "DC",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "Terkunci",
+                    "problem_id": "Terkunci",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "UJN-EZ",
+                    "problem_id": "UJN-EZ",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 76
+                }
+            ]
+        },
+        {
+            "rank": 4,
+            "team_id": "5025221141",
+            "score": {
+                "num_solved": 2,
+                "total_time": 203
+            },
+            "problems": [
+                {
+                    "label": "AkuKamudanTangga",
+                    "problem_id": "AkuKamudanTangga",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 97
+                },
+                {
+                    "label": "DC",
+                    "problem_id": "DC",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "Terkunci",
+                    "problem_id": "Terkunci",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "UJN-EZ",
+                    "problem_id": "UJN-EZ",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 106
+                }
+            ]
+        },
+        {
+            "rank": 5,
+            "team_id": "5025221052",
+            "score": {
+                "num_solved": 2,
+                "total_time": 321
+            },
+            "problems": [
+                {
+                    "label": "AkuKamudanTangga",
+                    "problem_id": "AkuKamudanTangga",
+                    "num_judged": 7,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 120
+                },
+                {
+                    "label": "DC",
+                    "problem_id": "DC",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "Terkunci",
+                    "problem_id": "Terkunci",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "UJN-EZ",
+                    "problem_id": "UJN-EZ",
+                    "num_judged": 2,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 61
+                }
+            ]
+        },
+        {
+            "rank": 6,
+            "team_id": "5025221017",
+            "score": {
+                "num_solved": 1,
+                "total_time": 45
+            },
+            "problems": [
+                {
+                    "label": "AkuKamudanTangga",
+                    "problem_id": "AkuKamudanTangga",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "DC",
+                    "problem_id": "DC",
+                    "num_judged": 2,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "Terkunci",
+                    "problem_id": "Terkunci",
+                    "num_judged": 2,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "UJN-EZ",
+                    "problem_id": "UJN-EZ",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": true,
+                    "time": 45
+                }
+            ]
+        },
+        {
+            "rank": 7,
+            "team_id": "5025221113",
+            "score": {
+                "num_solved": 1,
+                "total_time": 47
+            },
+            "problems": [
+                {
+                    "label": "AkuKamudanTangga",
+                    "problem_id": "AkuKamudanTangga",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "DC",
+                    "problem_id": "DC",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "Terkunci",
+                    "problem_id": "Terkunci",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "UJN-EZ",
+                    "problem_id": "UJN-EZ",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 47
+                }
+            ]
+        },
+        {
+            "rank": 8,
+            "team_id": "5025221059",
+            "score": {
+                "num_solved": 1,
+                "total_time": 90
+            },
+            "problems": [
+                {
+                    "label": "AkuKamudanTangga",
+                    "problem_id": "AkuKamudanTangga",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "DC",
+                    "problem_id": "DC",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "Terkunci",
+                    "problem_id": "Terkunci",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "UJN-EZ",
+                    "problem_id": "UJN-EZ",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 90
+                }
+            ]
+        },
+        {
+            "rank": 9,
+            "team_id": "5025221164",
+            "score": {
+                "num_solved": 1,
+                "total_time": 108
+            },
+            "problems": [
+                {
+                    "label": "AkuKamudanTangga",
+                    "problem_id": "AkuKamudanTangga",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "DC",
+                    "problem_id": "DC",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "Terkunci",
+                    "problem_id": "Terkunci",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "UJN-EZ",
+                    "problem_id": "UJN-EZ",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 108
+                }
+            ]
+        },
+        {
+            "rank": 10,
+            "team_id": "5025221157",
+            "score": {
+                "num_solved": 1,
+                "total_time": 116
+            },
+            "problems": [
+                {
+                    "label": "AkuKamudanTangga",
+                    "problem_id": "AkuKamudanTangga",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "DC",
+                    "problem_id": "DC",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "Terkunci",
+                    "problem_id": "Terkunci",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "UJN-EZ",
+                    "problem_id": "UJN-EZ",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 116
+                }
+            ]
+        },
+        {
+            "rank": 11,
+            "team_id": "5025221178",
+            "score": {
+                "num_solved": 1,
+                "total_time": 126
+            },
+            "problems": [
+                {
+                    "label": "AkuKamudanTangga",
+                    "problem_id": "AkuKamudanTangga",
+                    "num_judged": 3,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 86
+                },
+                {
+                    "label": "DC",
+                    "problem_id": "DC",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "Terkunci",
+                    "problem_id": "Terkunci",
+                    "num_judged": 2,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "UJN-EZ",
+                    "problem_id": "UJN-EZ",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                }
+            ]
+        },
+        {
+            "rank": 12,
+            "team_id": "5025221031",
+            "score": {
+                "num_solved": 1,
+                "total_time": 126
+            },
+            "problems": [
+                {
+                    "label": "AkuKamudanTangga",
+                    "problem_id": "AkuKamudanTangga",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "DC",
+                    "problem_id": "DC",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "Terkunci",
+                    "problem_id": "Terkunci",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "UJN-EZ",
+                    "problem_id": "UJN-EZ",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 126
+                }
+            ]
+        },
+        {
+            "rank": 13,
+            "team_id": "5025221276",
+            "score": {
+                "num_solved": 1,
+                "total_time": 138
+            },
+            "problems": [
+                {
+                    "label": "AkuKamudanTangga",
+                    "problem_id": "AkuKamudanTangga",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "DC",
+                    "problem_id": "DC",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "Terkunci",
+                    "problem_id": "Terkunci",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "UJN-EZ",
+                    "problem_id": "UJN-EZ",
+                    "num_judged": 2,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 118
+                }
+            ]
+        },
+        {
+            "rank": 13,
+            "team_id": "5025221101",
+            "score": {
+                "num_solved": 1,
+                "total_time": 138
+            },
+            "problems": [
+                {
+                    "label": "AkuKamudanTangga",
+                    "problem_id": "AkuKamudanTangga",
+                    "num_judged": 2,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "DC",
+                    "problem_id": "DC",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "Terkunci",
+                    "problem_id": "Terkunci",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "UJN-EZ",
+                    "problem_id": "UJN-EZ",
+                    "num_judged": 2,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 118
+                }
+            ]
+        },
+        {
+            "rank": 15,
+            "team_id": "5025221234",
+            "score": {
+                "num_solved": 1,
+                "total_time": 151
+            },
+            "problems": [
+                {
+                    "label": "AkuKamudanTangga",
+                    "problem_id": "AkuKamudanTangga",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "DC",
+                    "problem_id": "DC",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "Terkunci",
+                    "problem_id": "Terkunci",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "UJN-EZ",
+                    "problem_id": "UJN-EZ",
+                    "num_judged": 2,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 131
+                }
+            ]
+        },
+        {
+            "rank": 16,
+            "team_id": "5025221290",
+            "score": {
+                "num_solved": 1,
+                "total_time": 153
+            },
+            "problems": [
+                {
+                    "label": "AkuKamudanTangga",
+                    "problem_id": "AkuKamudanTangga",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "DC",
+                    "problem_id": "DC",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "Terkunci",
+                    "problem_id": "Terkunci",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "UJN-EZ",
+                    "problem_id": "UJN-EZ",
+                    "num_judged": 2,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 133
+                }
+            ]
+        },
+        {
+            "rank": 16,
+            "team_id": "5025221045",
+            "score": {
+                "num_solved": 1,
+                "total_time": 153
+            },
+            "problems": [
+                {
+                    "label": "AkuKamudanTangga",
+                    "problem_id": "AkuKamudanTangga",
+                    "num_judged": 2,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 133
+                },
+                {
+                    "label": "DC",
+                    "problem_id": "DC",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "Terkunci",
+                    "problem_id": "Terkunci",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "UJN-EZ",
+                    "problem_id": "UJN-EZ",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                }
+            ]
+        },
+        {
+            "rank": 18,
+            "team_id": "5025221269",
+            "score": {
+                "num_solved": 1,
+                "total_time": 155
+            },
+            "problems": [
+                {
+                    "label": "AkuKamudanTangga",
+                    "problem_id": "AkuKamudanTangga",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "DC",
+                    "problem_id": "DC",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "Terkunci",
+                    "problem_id": "Terkunci",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "UJN-EZ",
+                    "problem_id": "UJN-EZ",
+                    "num_judged": 3,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 115
+                }
+            ]
+        },
+        {
+            "rank": 19,
+            "team_id": "5025221213",
+            "score": {
+                "num_solved": 1,
+                "total_time": 158
+            },
+            "problems": [
+                {
+                    "label": "AkuKamudanTangga",
+                    "problem_id": "AkuKamudanTangga",
+                    "num_judged": 2,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "DC",
+                    "problem_id": "DC",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "Terkunci",
+                    "problem_id": "Terkunci",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "UJN-EZ",
+                    "problem_id": "UJN-EZ",
+                    "num_judged": 2,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 138
+                }
+            ]
+        },
+        {
+            "rank": 20,
+            "team_id": "5025221038",
+            "score": {
+                "num_solved": 1,
+                "total_time": 165
+            },
+            "problems": [
+                {
+                    "label": "AkuKamudanTangga",
+                    "problem_id": "AkuKamudanTangga",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "DC",
+                    "problem_id": "DC",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "Terkunci",
+                    "problem_id": "Terkunci",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "UJN-EZ",
+                    "problem_id": "UJN-EZ",
+                    "num_judged": 3,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 125
+                }
+            ]
+        },
+        {
+            "rank": 21,
+            "team_id": "5025221149",
+            "score": {
+                "num_solved": 1,
+                "total_time": 169
+            },
+            "problems": [
+                {
+                    "label": "AkuKamudanTangga",
+                    "problem_id": "AkuKamudanTangga",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "DC",
+                    "problem_id": "DC",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "Terkunci",
+                    "problem_id": "Terkunci",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "UJN-EZ",
+                    "problem_id": "UJN-EZ",
+                    "num_judged": 3,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 129
+                }
+            ]
+        },
+        {
+            "rank": 22,
+            "team_id": "5025221241",
+            "score": {
+                "num_solved": 1,
+                "total_time": 172
+            },
+            "problems": [
+                {
+                    "label": "AkuKamudanTangga",
+                    "problem_id": "AkuKamudanTangga",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "DC",
+                    "problem_id": "DC",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "Terkunci",
+                    "problem_id": "Terkunci",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "UJN-EZ",
+                    "problem_id": "UJN-EZ",
+                    "num_judged": 3,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 132
+                }
+            ]
+        },
+        {
+            "rank": 23,
+            "team_id": "5025221127",
+            "score": {
+                "num_solved": 1,
+                "total_time": 212
+            },
+            "problems": [
+                {
+                    "label": "AkuKamudanTangga",
+                    "problem_id": "AkuKamudanTangga",
+                    "num_judged": 2,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "DC",
+                    "problem_id": "DC",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "Terkunci",
+                    "problem_id": "Terkunci",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "UJN-EZ",
+                    "problem_id": "UJN-EZ",
+                    "num_judged": 7,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 92
+                }
+            ]
+        },
+        {
+            "rank": 24,
+            "team_id": "5025221320",
+            "score": {
+                "num_solved": 0,
+                "total_time": 0
+            },
+            "problems": [
+                {
+                    "label": "AkuKamudanTangga",
+                    "problem_id": "AkuKamudanTangga",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "DC",
+                    "problem_id": "DC",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "Terkunci",
+                    "problem_id": "Terkunci",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "UJN-EZ",
+                    "problem_id": "UJN-EZ",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                }
+            ]
+        },
+        {
+            "rank": 24,
+            "team_id": "5025221262",
+            "score": {
+                "num_solved": 0,
+                "total_time": 0
+            },
+            "problems": [
+                {
+                    "label": "AkuKamudanTangga",
+                    "problem_id": "AkuKamudanTangga",
+                    "num_judged": 2,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "DC",
+                    "problem_id": "DC",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "Terkunci",
+                    "problem_id": "Terkunci",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "UJN-EZ",
+                    "problem_id": "UJN-EZ",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                }
+            ]
+        },
+        {
+            "rank": 24,
+            "team_id": "5025221304",
+            "score": {
+                "num_solved": 0,
+                "total_time": 0
+            },
+            "problems": [
+                {
+                    "label": "AkuKamudanTangga",
+                    "problem_id": "AkuKamudanTangga",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "DC",
+                    "problem_id": "DC",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "Terkunci",
+                    "problem_id": "Terkunci",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "UJN-EZ",
+                    "problem_id": "UJN-EZ",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                }
+            ]
+        },
+        {
+            "rank": 24,
+            "team_id": "5025221297",
+            "score": {
+                "num_solved": 0,
+                "total_time": 0
+            },
+            "problems": [
+                {
+                    "label": "AkuKamudanTangga",
+                    "problem_id": "AkuKamudanTangga",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "DC",
+                    "problem_id": "DC",
+                    "num_judged": 2,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "Terkunci",
+                    "problem_id": "Terkunci",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "UJN-EZ",
+                    "problem_id": "UJN-EZ",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                }
+            ]
+        },
+        {
+            "rank": 24,
+            "team_id": "5025221003",
+            "score": {
+                "num_solved": 0,
+                "total_time": 0
+            },
+            "problems": [
+                {
+                    "label": "AkuKamudanTangga",
+                    "problem_id": "AkuKamudanTangga",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "DC",
+                    "problem_id": "DC",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "Terkunci",
+                    "problem_id": "Terkunci",
+                    "num_judged": 2,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "UJN-EZ",
+                    "problem_id": "UJN-EZ",
+                    "num_judged": 4,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                }
+            ]
+        },
+        {
+            "rank": 24,
+            "team_id": "5025221171",
+            "score": {
+                "num_solved": 0,
+                "total_time": 0
+            },
+            "problems": [
+                {
+                    "label": "AkuKamudanTangga",
+                    "problem_id": "AkuKamudanTangga",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "DC",
+                    "problem_id": "DC",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "Terkunci",
+                    "problem_id": "Terkunci",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "UJN-EZ",
+                    "problem_id": "UJN-EZ",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                }
+            ]
+        },
+        {
+            "rank": 24,
+            "team_id": "5025221227",
+            "score": {
+                "num_solved": 0,
+                "total_time": 0
+            },
+            "problems": [
+                {
+                    "label": "AkuKamudanTangga",
+                    "problem_id": "AkuKamudanTangga",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "DC",
+                    "problem_id": "DC",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "Terkunci",
+                    "problem_id": "Terkunci",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "UJN-EZ",
+                    "problem_id": "UJN-EZ",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                }
+            ]
+        },
+        {
+            "rank": 24,
+            "team_id": "5025221134",
+            "score": {
+                "num_solved": 0,
+                "total_time": 0
+            },
+            "problems": [
+                {
+                    "label": "AkuKamudanTangga",
+                    "problem_id": "AkuKamudanTangga",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "DC",
+                    "problem_id": "DC",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "Terkunci",
+                    "problem_id": "Terkunci",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "UJN-EZ",
+                    "problem_id": "UJN-EZ",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                }
+            ]
+        },
+        {
+            "rank": 24,
+            "team_id": "5025221283",
+            "score": {
+                "num_solved": 0,
+                "total_time": 0
+            },
+            "problems": [
+                {
+                    "label": "AkuKamudanTangga",
+                    "problem_id": "AkuKamudanTangga",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "DC",
+                    "problem_id": "DC",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "Terkunci",
+                    "problem_id": "Terkunci",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "UJN-EZ",
+                    "problem_id": "UJN-EZ",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                }
+            ]
+        },
+        {
+            "rank": 24,
+            "team_id": "5025221199",
+            "score": {
+                "num_solved": 0,
+                "total_time": 0
+            },
+            "problems": [
+                {
+                    "label": "AkuKamudanTangga",
+                    "problem_id": "AkuKamudanTangga",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "DC",
+                    "problem_id": "DC",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "Terkunci",
+                    "problem_id": "Terkunci",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "UJN-EZ",
+                    "problem_id": "UJN-EZ",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                }
+            ]
+        },
+        {
+            "rank": 24,
+            "team_id": "5025221192",
+            "score": {
+                "num_solved": 0,
+                "total_time": 0
+            },
+            "problems": [
+                {
+                    "label": "AkuKamudanTangga",
+                    "problem_id": "AkuKamudanTangga",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "DC",
+                    "problem_id": "DC",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "Terkunci",
+                    "problem_id": "Terkunci",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "UJN-EZ",
+                    "problem_id": "UJN-EZ",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                }
+            ]
+        },
+        {
+            "rank": 24,
+            "team_id": "5025221255",
+            "score": {
+                "num_solved": 0,
+                "total_time": 0
+            },
+            "problems": [
+                {
+                    "label": "AkuKamudanTangga",
+                    "problem_id": "AkuKamudanTangga",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "DC",
+                    "problem_id": "DC",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "Terkunci",
+                    "problem_id": "Terkunci",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "UJN-EZ",
+                    "problem_id": "UJN-EZ",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                }
+            ]
+        },
+        {
+            "rank": 24,
+            "team_id": "5025221024",
+            "score": {
+                "num_solved": 0,
+                "total_time": 0
+            },
+            "problems": [
+                {
+                    "label": "AkuKamudanTangga",
+                    "problem_id": "AkuKamudanTangga",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "DC",
+                    "problem_id": "DC",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "Terkunci",
+                    "problem_id": "Terkunci",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "UJN-EZ",
+                    "problem_id": "UJN-EZ",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                }
+            ]
+        },
+        {
+            "rank": 24,
+            "team_id": "5025221120",
+            "score": {
+                "num_solved": 0,
+                "total_time": 0
+            },
+            "problems": [
+                {
+                    "label": "AkuKamudanTangga",
+                    "problem_id": "AkuKamudanTangga",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "DC",
+                    "problem_id": "DC",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "Terkunci",
+                    "problem_id": "Terkunci",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "UJN-EZ",
+                    "problem_id": "UJN-EZ",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                }
+            ]
+        },
+        {
+            "rank": 24,
+            "team_id": "5025221010",
+            "score": {
+                "num_solved": 0,
+                "total_time": 0
+            },
+            "problems": [
+                {
+                    "label": "AkuKamudanTangga",
+                    "problem_id": "AkuKamudanTangga",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "DC",
+                    "problem_id": "DC",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "Terkunci",
+                    "problem_id": "Terkunci",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "UJN-EZ",
+                    "problem_id": "UJN-EZ",
+                    "num_judged": 3,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                }
+            ]
+        },
+        {
+            "rank": 24,
+            "team_id": "5025221220",
+            "score": {
+                "num_solved": 0,
+                "total_time": 0
+            },
+            "problems": [
+                {
+                    "label": "AkuKamudanTangga",
+                    "problem_id": "AkuKamudanTangga",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "DC",
+                    "problem_id": "DC",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "Terkunci",
+                    "problem_id": "Terkunci",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "UJN-EZ",
+                    "problem_id": "UJN-EZ",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                }
+            ]
+        },
+        {
+            "rank": 24,
+            "team_id": "5025221248",
+            "score": {
+                "num_solved": 0,
+                "total_time": 0
+            },
+            "problems": [
+                {
+                    "label": "AkuKamudanTangga",
+                    "problem_id": "AkuKamudanTangga",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "DC",
+                    "problem_id": "DC",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "Terkunci",
+                    "problem_id": "Terkunci",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "UJN-EZ",
+                    "problem_id": "UJN-EZ",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                }
+            ]
+        }
+    ]
+}

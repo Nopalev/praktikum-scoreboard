@@ -1,0 +1,1700 @@
+{
+    "event_id": "91532",
+    "time": "2022-10-10T21:57:36.547+07:00",
+    "contest_time": "60:57:36.546",
+    "state": {
+        "started": "2022-10-08T09:00:00.000+07:00",
+        "ended": "2022-10-08T11:20:00.000+07:00",
+        "frozen": null,
+        "thawed": null,
+        "finalized": "2022-10-09T12:50:47.667+07:00",
+        "end_of_updates": "2022-10-09T12:50:47.667+07:00"
+    },
+    "rows": [
+        {
+            "rank": 1,
+            "team_id": "5025221163",
+            "score": {
+                "num_solved": 4,
+                "total_time": 355
+            },
+            "problems": [
+                {
+                    "label": "2ndModule_CharlieWantsSomeDrips",
+                    "problem_id": "2ndModule_CharlieWantsSomeDrips",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": true,
+                    "time": 32
+                },
+                {
+                    "label": "ArraySenilai",
+                    "problem_id": "ArraySenilai",
+                    "num_judged": 2,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": true,
+                    "time": 79
+                },
+                {
+                    "label": "Meitantei",
+                    "problem_id": "Meitantei",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": true,
+                    "time": 121
+                },
+                {
+                    "label": "TLE",
+                    "problem_id": "TLE",
+                    "num_judged": 3,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": true,
+                    "time": 63
+                }
+            ]
+        },
+        {
+            "rank": 2,
+            "team_id": "5025221156",
+            "score": {
+                "num_solved": 1,
+                "total_time": 64
+            },
+            "problems": [
+                {
+                    "label": "2ndModule_CharlieWantsSomeDrips",
+                    "problem_id": "2ndModule_CharlieWantsSomeDrips",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 64
+                },
+                {
+                    "label": "ArraySenilai",
+                    "problem_id": "ArraySenilai",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "Meitantei",
+                    "problem_id": "Meitantei",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "TLE",
+                    "problem_id": "TLE",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                }
+            ]
+        },
+        {
+            "rank": 3,
+            "team_id": "5025221191",
+            "score": {
+                "num_solved": 0,
+                "total_time": 0
+            },
+            "problems": [
+                {
+                    "label": "2ndModule_CharlieWantsSomeDrips",
+                    "problem_id": "2ndModule_CharlieWantsSomeDrips",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "ArraySenilai",
+                    "problem_id": "ArraySenilai",
+                    "num_judged": 3,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "Meitantei",
+                    "problem_id": "Meitantei",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "TLE",
+                    "problem_id": "TLE",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                }
+            ]
+        },
+        {
+            "rank": 3,
+            "team_id": "5025221254",
+            "score": {
+                "num_solved": 0,
+                "total_time": 0
+            },
+            "problems": [
+                {
+                    "label": "2ndModule_CharlieWantsSomeDrips",
+                    "problem_id": "2ndModule_CharlieWantsSomeDrips",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "ArraySenilai",
+                    "problem_id": "ArraySenilai",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "Meitantei",
+                    "problem_id": "Meitantei",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "TLE",
+                    "problem_id": "TLE",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                }
+            ]
+        },
+        {
+            "rank": 3,
+            "team_id": "5025221009",
+            "score": {
+                "num_solved": 0,
+                "total_time": 0
+            },
+            "problems": [
+                {
+                    "label": "2ndModule_CharlieWantsSomeDrips",
+                    "problem_id": "2ndModule_CharlieWantsSomeDrips",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "ArraySenilai",
+                    "problem_id": "ArraySenilai",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "Meitantei",
+                    "problem_id": "Meitantei",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "TLE",
+                    "problem_id": "TLE",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                }
+            ]
+        },
+        {
+            "rank": 3,
+            "team_id": "5025221133",
+            "score": {
+                "num_solved": 0,
+                "total_time": 0
+            },
+            "problems": [
+                {
+                    "label": "2ndModule_CharlieWantsSomeDrips",
+                    "problem_id": "2ndModule_CharlieWantsSomeDrips",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "ArraySenilai",
+                    "problem_id": "ArraySenilai",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "Meitantei",
+                    "problem_id": "Meitantei",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "TLE",
+                    "problem_id": "TLE",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                }
+            ]
+        },
+        {
+            "rank": 3,
+            "team_id": "5025221016",
+            "score": {
+                "num_solved": 0,
+                "total_time": 0
+            },
+            "problems": [
+                {
+                    "label": "2ndModule_CharlieWantsSomeDrips",
+                    "problem_id": "2ndModule_CharlieWantsSomeDrips",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "ArraySenilai",
+                    "problem_id": "ArraySenilai",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "Meitantei",
+                    "problem_id": "Meitantei",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "TLE",
+                    "problem_id": "TLE",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                }
+            ]
+        },
+        {
+            "rank": 3,
+            "team_id": "5025221140",
+            "score": {
+                "num_solved": 0,
+                "total_time": 0
+            },
+            "problems": [
+                {
+                    "label": "2ndModule_CharlieWantsSomeDrips",
+                    "problem_id": "2ndModule_CharlieWantsSomeDrips",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "ArraySenilai",
+                    "problem_id": "ArraySenilai",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "Meitantei",
+                    "problem_id": "Meitantei",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "TLE",
+                    "problem_id": "TLE",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                }
+            ]
+        },
+        {
+            "rank": 3,
+            "team_id": "5025221205",
+            "score": {
+                "num_solved": 0,
+                "total_time": 0
+            },
+            "problems": [
+                {
+                    "label": "2ndModule_CharlieWantsSomeDrips",
+                    "problem_id": "2ndModule_CharlieWantsSomeDrips",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "ArraySenilai",
+                    "problem_id": "ArraySenilai",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "Meitantei",
+                    "problem_id": "Meitantei",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "TLE",
+                    "problem_id": "TLE",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                }
+            ]
+        },
+        {
+            "rank": 3,
+            "team_id": "5025221126",
+            "score": {
+                "num_solved": 0,
+                "total_time": 0
+            },
+            "problems": [
+                {
+                    "label": "2ndModule_CharlieWantsSomeDrips",
+                    "problem_id": "2ndModule_CharlieWantsSomeDrips",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "ArraySenilai",
+                    "problem_id": "ArraySenilai",
+                    "num_judged": 6,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "Meitantei",
+                    "problem_id": "Meitantei",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "TLE",
+                    "problem_id": "TLE",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                }
+            ]
+        },
+        {
+            "rank": 3,
+            "team_id": "5025221184",
+            "score": {
+                "num_solved": 0,
+                "total_time": 0
+            },
+            "problems": [
+                {
+                    "label": "2ndModule_CharlieWantsSomeDrips",
+                    "problem_id": "2ndModule_CharlieWantsSomeDrips",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "ArraySenilai",
+                    "problem_id": "ArraySenilai",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "Meitantei",
+                    "problem_id": "Meitantei",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "TLE",
+                    "problem_id": "TLE",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                }
+            ]
+        },
+        {
+            "rank": 3,
+            "team_id": "5025221170",
+            "score": {
+                "num_solved": 0,
+                "total_time": 0
+            },
+            "problems": [
+                {
+                    "label": "2ndModule_CharlieWantsSomeDrips",
+                    "problem_id": "2ndModule_CharlieWantsSomeDrips",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "ArraySenilai",
+                    "problem_id": "ArraySenilai",
+                    "num_judged": 2,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "Meitantei",
+                    "problem_id": "Meitantei",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "TLE",
+                    "problem_id": "TLE",
+                    "num_judged": 5,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                }
+            ]
+        },
+        {
+            "rank": 3,
+            "team_id": "5025221177",
+            "score": {
+                "num_solved": 0,
+                "total_time": 0
+            },
+            "problems": [
+                {
+                    "label": "2ndModule_CharlieWantsSomeDrips",
+                    "problem_id": "2ndModule_CharlieWantsSomeDrips",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "ArraySenilai",
+                    "problem_id": "ArraySenilai",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "Meitantei",
+                    "problem_id": "Meitantei",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "TLE",
+                    "problem_id": "TLE",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                }
+            ]
+        },
+        {
+            "rank": 3,
+            "team_id": "5025221261",
+            "score": {
+                "num_solved": 0,
+                "total_time": 0
+            },
+            "problems": [
+                {
+                    "label": "2ndModule_CharlieWantsSomeDrips",
+                    "problem_id": "2ndModule_CharlieWantsSomeDrips",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "ArraySenilai",
+                    "problem_id": "ArraySenilai",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "Meitantei",
+                    "problem_id": "Meitantei",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "TLE",
+                    "problem_id": "TLE",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                }
+            ]
+        },
+        {
+            "rank": 3,
+            "team_id": "5025221282",
+            "score": {
+                "num_solved": 0,
+                "total_time": 0
+            },
+            "problems": [
+                {
+                    "label": "2ndModule_CharlieWantsSomeDrips",
+                    "problem_id": "2ndModule_CharlieWantsSomeDrips",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "ArraySenilai",
+                    "problem_id": "ArraySenilai",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "Meitantei",
+                    "problem_id": "Meitantei",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "TLE",
+                    "problem_id": "TLE",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                }
+            ]
+        },
+        {
+            "rank": 3,
+            "team_id": "5025221107",
+            "score": {
+                "num_solved": 0,
+                "total_time": 0
+            },
+            "problems": [
+                {
+                    "label": "2ndModule_CharlieWantsSomeDrips",
+                    "problem_id": "2ndModule_CharlieWantsSomeDrips",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "ArraySenilai",
+                    "problem_id": "ArraySenilai",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "Meitantei",
+                    "problem_id": "Meitantei",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "TLE",
+                    "problem_id": "TLE",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                }
+            ]
+        },
+        {
+            "rank": 3,
+            "team_id": "5025221219",
+            "score": {
+                "num_solved": 0,
+                "total_time": 0
+            },
+            "problems": [
+                {
+                    "label": "2ndModule_CharlieWantsSomeDrips",
+                    "problem_id": "2ndModule_CharlieWantsSomeDrips",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "ArraySenilai",
+                    "problem_id": "ArraySenilai",
+                    "num_judged": 3,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "Meitantei",
+                    "problem_id": "Meitantei",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "TLE",
+                    "problem_id": "TLE",
+                    "num_judged": 6,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                }
+            ]
+        },
+        {
+            "rank": 3,
+            "team_id": "5025221303",
+            "score": {
+                "num_solved": 0,
+                "total_time": 0
+            },
+            "problems": [
+                {
+                    "label": "2ndModule_CharlieWantsSomeDrips",
+                    "problem_id": "2ndModule_CharlieWantsSomeDrips",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "ArraySenilai",
+                    "problem_id": "ArraySenilai",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "Meitantei",
+                    "problem_id": "Meitantei",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "TLE",
+                    "problem_id": "TLE",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                }
+            ]
+        },
+        {
+            "rank": 3,
+            "team_id": "5025221023",
+            "score": {
+                "num_solved": 0,
+                "total_time": 0
+            },
+            "problems": [
+                {
+                    "label": "2ndModule_CharlieWantsSomeDrips",
+                    "problem_id": "2ndModule_CharlieWantsSomeDrips",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "ArraySenilai",
+                    "problem_id": "ArraySenilai",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "Meitantei",
+                    "problem_id": "Meitantei",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "TLE",
+                    "problem_id": "TLE",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                }
+            ]
+        },
+        {
+            "rank": 3,
+            "team_id": "5025221268",
+            "score": {
+                "num_solved": 0,
+                "total_time": 0
+            },
+            "problems": [
+                {
+                    "label": "2ndModule_CharlieWantsSomeDrips",
+                    "problem_id": "2ndModule_CharlieWantsSomeDrips",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "ArraySenilai",
+                    "problem_id": "ArraySenilai",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "Meitantei",
+                    "problem_id": "Meitantei",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "TLE",
+                    "problem_id": "TLE",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                }
+            ]
+        },
+        {
+            "rank": 3,
+            "team_id": "5025221247",
+            "score": {
+                "num_solved": 0,
+                "total_time": 0
+            },
+            "problems": [
+                {
+                    "label": "2ndModule_CharlieWantsSomeDrips",
+                    "problem_id": "2ndModule_CharlieWantsSomeDrips",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "ArraySenilai",
+                    "problem_id": "ArraySenilai",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "Meitantei",
+                    "problem_id": "Meitantei",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "TLE",
+                    "problem_id": "TLE",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                }
+            ]
+        },
+        {
+            "rank": 3,
+            "team_id": "5025221310",
+            "score": {
+                "num_solved": 0,
+                "total_time": 0
+            },
+            "problems": [
+                {
+                    "label": "2ndModule_CharlieWantsSomeDrips",
+                    "problem_id": "2ndModule_CharlieWantsSomeDrips",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "ArraySenilai",
+                    "problem_id": "ArraySenilai",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "Meitantei",
+                    "problem_id": "Meitantei",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "TLE",
+                    "problem_id": "TLE",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                }
+            ]
+        },
+        {
+            "rank": 3,
+            "team_id": "5025221002",
+            "score": {
+                "num_solved": 0,
+                "total_time": 0
+            },
+            "problems": [
+                {
+                    "label": "2ndModule_CharlieWantsSomeDrips",
+                    "problem_id": "2ndModule_CharlieWantsSomeDrips",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "ArraySenilai",
+                    "problem_id": "ArraySenilai",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "Meitantei",
+                    "problem_id": "Meitantei",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "TLE",
+                    "problem_id": "TLE",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                }
+            ]
+        },
+        {
+            "rank": 3,
+            "team_id": "5025221317",
+            "score": {
+                "num_solved": 0,
+                "total_time": 0
+            },
+            "problems": [
+                {
+                    "label": "2ndModule_CharlieWantsSomeDrips",
+                    "problem_id": "2ndModule_CharlieWantsSomeDrips",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "ArraySenilai",
+                    "problem_id": "ArraySenilai",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "Meitantei",
+                    "problem_id": "Meitantei",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "TLE",
+                    "problem_id": "TLE",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                }
+            ]
+        },
+        {
+            "rank": 3,
+            "team_id": "5025221119",
+            "score": {
+                "num_solved": 0,
+                "total_time": 0
+            },
+            "problems": [
+                {
+                    "label": "2ndModule_CharlieWantsSomeDrips",
+                    "problem_id": "2ndModule_CharlieWantsSomeDrips",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "ArraySenilai",
+                    "problem_id": "ArraySenilai",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "Meitantei",
+                    "problem_id": "Meitantei",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "TLE",
+                    "problem_id": "TLE",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                }
+            ]
+        },
+        {
+            "rank": 3,
+            "team_id": "5025221037",
+            "score": {
+                "num_solved": 0,
+                "total_time": 0
+            },
+            "problems": [
+                {
+                    "label": "2ndModule_CharlieWantsSomeDrips",
+                    "problem_id": "2ndModule_CharlieWantsSomeDrips",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "ArraySenilai",
+                    "problem_id": "ArraySenilai",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "Meitantei",
+                    "problem_id": "Meitantei",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "TLE",
+                    "problem_id": "TLE",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                }
+            ]
+        },
+        {
+            "rank": 3,
+            "team_id": "5025221058",
+            "score": {
+                "num_solved": 0,
+                "total_time": 0
+            },
+            "problems": [
+                {
+                    "label": "2ndModule_CharlieWantsSomeDrips",
+                    "problem_id": "2ndModule_CharlieWantsSomeDrips",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "ArraySenilai",
+                    "problem_id": "ArraySenilai",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "Meitantei",
+                    "problem_id": "Meitantei",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "TLE",
+                    "problem_id": "TLE",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                }
+            ]
+        },
+        {
+            "rank": 3,
+            "team_id": "5025221275",
+            "score": {
+                "num_solved": 0,
+                "total_time": 0
+            },
+            "problems": [
+                {
+                    "label": "2ndModule_CharlieWantsSomeDrips",
+                    "problem_id": "2ndModule_CharlieWantsSomeDrips",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "ArraySenilai",
+                    "problem_id": "ArraySenilai",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "Meitantei",
+                    "problem_id": "Meitantei",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "TLE",
+                    "problem_id": "TLE",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                }
+            ]
+        },
+        {
+            "rank": 3,
+            "team_id": "5025221030",
+            "score": {
+                "num_solved": 0,
+                "total_time": 0
+            },
+            "problems": [
+                {
+                    "label": "2ndModule_CharlieWantsSomeDrips",
+                    "problem_id": "2ndModule_CharlieWantsSomeDrips",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "ArraySenilai",
+                    "problem_id": "ArraySenilai",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "Meitantei",
+                    "problem_id": "Meitantei",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "TLE",
+                    "problem_id": "TLE",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                }
+            ]
+        },
+        {
+            "rank": 3,
+            "team_id": "5025221240",
+            "score": {
+                "num_solved": 0,
+                "total_time": 0
+            },
+            "problems": [
+                {
+                    "label": "2ndModule_CharlieWantsSomeDrips",
+                    "problem_id": "2ndModule_CharlieWantsSomeDrips",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "ArraySenilai",
+                    "problem_id": "ArraySenilai",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "Meitantei",
+                    "problem_id": "Meitantei",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "TLE",
+                    "problem_id": "TLE",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                }
+            ]
+        },
+        {
+            "rank": 3,
+            "team_id": "5025221289",
+            "score": {
+                "num_solved": 0,
+                "total_time": 0
+            },
+            "problems": [
+                {
+                    "label": "2ndModule_CharlieWantsSomeDrips",
+                    "problem_id": "2ndModule_CharlieWantsSomeDrips",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "ArraySenilai",
+                    "problem_id": "ArraySenilai",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "Meitantei",
+                    "problem_id": "Meitantei",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "TLE",
+                    "problem_id": "TLE",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                }
+            ]
+        },
+        {
+            "rank": 3,
+            "team_id": "5025221296",
+            "score": {
+                "num_solved": 0,
+                "total_time": 0
+            },
+            "problems": [
+                {
+                    "label": "2ndModule_CharlieWantsSomeDrips",
+                    "problem_id": "2ndModule_CharlieWantsSomeDrips",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "ArraySenilai",
+                    "problem_id": "ArraySenilai",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "Meitantei",
+                    "problem_id": "Meitantei",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "TLE",
+                    "problem_id": "TLE",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                }
+            ]
+        },
+        {
+            "rank": 3,
+            "team_id": "5025221051",
+            "score": {
+                "num_solved": 0,
+                "total_time": 0
+            },
+            "problems": [
+                {
+                    "label": "2ndModule_CharlieWantsSomeDrips",
+                    "problem_id": "2ndModule_CharlieWantsSomeDrips",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "ArraySenilai",
+                    "problem_id": "ArraySenilai",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "Meitantei",
+                    "problem_id": "Meitantei",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "TLE",
+                    "problem_id": "TLE",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                }
+            ]
+        },
+        {
+            "rank": 3,
+            "team_id": "5025221148",
+            "score": {
+                "num_solved": 0,
+                "total_time": 0
+            },
+            "problems": [
+                {
+                    "label": "2ndModule_CharlieWantsSomeDrips",
+                    "problem_id": "2ndModule_CharlieWantsSomeDrips",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "ArraySenilai",
+                    "problem_id": "ArraySenilai",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "Meitantei",
+                    "problem_id": "Meitantei",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "TLE",
+                    "problem_id": "TLE",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                }
+            ]
+        },
+        {
+            "rank": 3,
+            "team_id": "5025221100",
+            "score": {
+                "num_solved": 0,
+                "total_time": 0
+            },
+            "problems": [
+                {
+                    "label": "2ndModule_CharlieWantsSomeDrips",
+                    "problem_id": "2ndModule_CharlieWantsSomeDrips",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "ArraySenilai",
+                    "problem_id": "ArraySenilai",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "Meitantei",
+                    "problem_id": "Meitantei",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "TLE",
+                    "problem_id": "TLE",
+                    "num_judged": 7,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                }
+            ]
+        },
+        {
+            "rank": 3,
+            "team_id": "5025221233",
+            "score": {
+                "num_solved": 0,
+                "total_time": 0
+            },
+            "problems": [
+                {
+                    "label": "2ndModule_CharlieWantsSomeDrips",
+                    "problem_id": "2ndModule_CharlieWantsSomeDrips",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "ArraySenilai",
+                    "problem_id": "ArraySenilai",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "Meitantei",
+                    "problem_id": "Meitantei",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "TLE",
+                    "problem_id": "TLE",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                }
+            ]
+        },
+        {
+            "rank": 3,
+            "team_id": "5025221198",
+            "score": {
+                "num_solved": 0,
+                "total_time": 0
+            },
+            "problems": [
+                {
+                    "label": "2ndModule_CharlieWantsSomeDrips",
+                    "problem_id": "2ndModule_CharlieWantsSomeDrips",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "ArraySenilai",
+                    "problem_id": "ArraySenilai",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "Meitantei",
+                    "problem_id": "Meitantei",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "TLE",
+                    "problem_id": "TLE",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                }
+            ]
+        },
+        {
+            "rank": 3,
+            "team_id": "5025221044",
+            "score": {
+                "num_solved": 0,
+                "total_time": 0
+            },
+            "problems": [
+                {
+                    "label": "2ndModule_CharlieWantsSomeDrips",
+                    "problem_id": "2ndModule_CharlieWantsSomeDrips",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "ArraySenilai",
+                    "problem_id": "ArraySenilai",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "Meitantei",
+                    "problem_id": "Meitantei",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "TLE",
+                    "problem_id": "TLE",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                }
+            ]
+        },
+        {
+            "rank": 3,
+            "team_id": "5025221212",
+            "score": {
+                "num_solved": 0,
+                "total_time": 0
+            },
+            "problems": [
+                {
+                    "label": "2ndModule_CharlieWantsSomeDrips",
+                    "problem_id": "2ndModule_CharlieWantsSomeDrips",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "ArraySenilai",
+                    "problem_id": "ArraySenilai",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "Meitantei",
+                    "problem_id": "Meitantei",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "TLE",
+                    "problem_id": "TLE",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                }
+            ]
+        },
+        {
+            "rank": 3,
+            "team_id": "5025221226",
+            "score": {
+                "num_solved": 0,
+                "total_time": 0
+            },
+            "problems": [
+                {
+                    "label": "2ndModule_CharlieWantsSomeDrips",
+                    "problem_id": "2ndModule_CharlieWantsSomeDrips",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "ArraySenilai",
+                    "problem_id": "ArraySenilai",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "Meitantei",
+                    "problem_id": "Meitantei",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "TLE",
+                    "problem_id": "TLE",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                }
+            ]
+        }
+    ]
+}

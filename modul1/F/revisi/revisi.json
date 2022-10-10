@@ -1,0 +1,1848 @@
+{
+    "event_id": "91532",
+    "time": "2022-10-10T21:57:36.547+07:00",
+    "contest_time": "386:57:36.546",
+    "state": {
+        "started": "2022-09-24T19:00:00.000+07:00",
+        "ended": "2022-09-29T19:00:00.000+07:00",
+        "frozen": null,
+        "thawed": null,
+        "finalized": "2022-10-03T13:31:23.572+07:00",
+        "end_of_updates": "2022-10-03T13:31:23.572+07:00"
+    },
+    "rows": [
+        {
+            "rank": 1,
+            "team_id": "5025221013",
+            "score": {
+                "num_solved": 4,
+                "total_time": 18068
+            },
+            "problems": [
+                {
+                    "label": "DAYAT1",
+                    "problem_id": "DAYAT1",
+                    "num_judged": 5,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 253
+                },
+                {
+                    "label": "Gacha",
+                    "problem_id": "gacha",
+                    "num_judged": 6,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 6774
+                },
+                {
+                    "label": "PERANG",
+                    "problem_id": "PERANG",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 4164
+                },
+                {
+                    "label": "Pengampunan",
+                    "problem_id": "Pengampunan",
+                    "num_judged": 2,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 6677
+                }
+            ]
+        },
+        {
+            "rank": 2,
+            "team_id": "5025221202",
+            "score": {
+                "num_solved": 4,
+                "total_time": 18451
+            },
+            "problems": [
+                {
+                    "label": "DAYAT1",
+                    "problem_id": "DAYAT1",
+                    "num_judged": 24,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 4569
+                },
+                {
+                    "label": "Gacha",
+                    "problem_id": "gacha",
+                    "num_judged": 3,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 7182
+                },
+                {
+                    "label": "PERANG",
+                    "problem_id": "PERANG",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": true,
+                    "time": 328
+                },
+                {
+                    "label": "Pengampunan",
+                    "problem_id": "Pengampunan",
+                    "num_judged": 2,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 5852
+                }
+            ]
+        },
+        {
+            "rank": 3,
+            "team_id": "5025221041",
+            "score": {
+                "num_solved": 4,
+                "total_time": 20189
+            },
+            "problems": [
+                {
+                    "label": "DAYAT1",
+                    "problem_id": "DAYAT1",
+                    "num_judged": 4,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 3841
+                },
+                {
+                    "label": "Gacha",
+                    "problem_id": "gacha",
+                    "num_judged": 2,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": true,
+                    "time": 5501
+                },
+                {
+                    "label": "PERANG",
+                    "problem_id": "PERANG",
+                    "num_judged": 3,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 6651
+                },
+                {
+                    "label": "Pengampunan",
+                    "problem_id": "Pengampunan",
+                    "num_judged": 2,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": true,
+                    "time": 4056
+                }
+            ]
+        },
+        {
+            "rank": 4,
+            "team_id": "5025221116",
+            "score": {
+                "num_solved": 4,
+                "total_time": 22245
+            },
+            "problems": [
+                {
+                    "label": "DAYAT1",
+                    "problem_id": "DAYAT1",
+                    "num_judged": 6,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 4178
+                },
+                {
+                    "label": "Gacha",
+                    "problem_id": "gacha",
+                    "num_judged": 12,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 7020
+                },
+                {
+                    "label": "PERANG",
+                    "problem_id": "PERANG",
+                    "num_judged": 4,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 5317
+                },
+                {
+                    "label": "Pengampunan",
+                    "problem_id": "Pengampunan",
+                    "num_judged": 3,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 5310
+                }
+            ]
+        },
+        {
+            "rank": 5,
+            "team_id": "5025221160",
+            "score": {
+                "num_solved": 4,
+                "total_time": 23328
+            },
+            "problems": [
+                {
+                    "label": "DAYAT1",
+                    "problem_id": "DAYAT1",
+                    "num_judged": 6,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 7058
+                },
+                {
+                    "label": "Gacha",
+                    "problem_id": "gacha",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 7188
+                },
+                {
+                    "label": "PERANG",
+                    "problem_id": "PERANG",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 3831
+                },
+                {
+                    "label": "Pengampunan",
+                    "problem_id": "Pengampunan",
+                    "num_judged": 7,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 5031
+                }
+            ]
+        },
+        {
+            "rank": 6,
+            "team_id": "5025221055",
+            "score": {
+                "num_solved": 4,
+                "total_time": 24850
+            },
+            "problems": [
+                {
+                    "label": "DAYAT1",
+                    "problem_id": "DAYAT1",
+                    "num_judged": 3,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 5584
+                },
+                {
+                    "label": "Gacha",
+                    "problem_id": "gacha",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 6785
+                },
+                {
+                    "label": "PERANG",
+                    "problem_id": "PERANG",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 5676
+                },
+                {
+                    "label": "Pengampunan",
+                    "problem_id": "Pengampunan",
+                    "num_judged": 2,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 6745
+                }
+            ]
+        },
+        {
+            "rank": 7,
+            "team_id": "5025221006",
+            "score": {
+                "num_solved": 4,
+                "total_time": 25887
+            },
+            "problems": [
+                {
+                    "label": "DAYAT1",
+                    "problem_id": "DAYAT1",
+                    "num_judged": 5,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 5926
+                },
+                {
+                    "label": "Gacha",
+                    "problem_id": "gacha",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 7186
+                },
+                {
+                    "label": "PERANG",
+                    "problem_id": "PERANG",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 5949
+                },
+                {
+                    "label": "Pengampunan",
+                    "problem_id": "Pengampunan",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 6746
+                }
+            ]
+        },
+        {
+            "rank": 8,
+            "team_id": "5025221062",
+            "score": {
+                "num_solved": 4,
+                "total_time": 26506
+            },
+            "problems": [
+                {
+                    "label": "DAYAT1",
+                    "problem_id": "DAYAT1",
+                    "num_judged": 3,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 6656
+                },
+                {
+                    "label": "Gacha",
+                    "problem_id": "gacha",
+                    "num_judged": 3,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 6717
+                },
+                {
+                    "label": "PERANG",
+                    "problem_id": "PERANG",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 6366
+                },
+                {
+                    "label": "Pengampunan",
+                    "problem_id": "Pengampunan",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 6687
+                }
+            ]
+        },
+        {
+            "rank": 9,
+            "team_id": "5025221130",
+            "score": {
+                "num_solved": 4,
+                "total_time": 26895
+            },
+            "problems": [
+                {
+                    "label": "DAYAT1",
+                    "problem_id": "DAYAT1",
+                    "num_judged": 3,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 6650
+                },
+                {
+                    "label": "Gacha",
+                    "problem_id": "gacha",
+                    "num_judged": 4,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 6776
+                },
+                {
+                    "label": "PERANG",
+                    "problem_id": "PERANG",
+                    "num_judged": 3,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 6625
+                },
+                {
+                    "label": "Pengampunan",
+                    "problem_id": "Pengampunan",
+                    "num_judged": 4,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 6644
+                }
+            ]
+        },
+        {
+            "rank": 10,
+            "team_id": "5025221216",
+            "score": {
+                "num_solved": 4,
+                "total_time": 26961
+            },
+            "problems": [
+                {
+                    "label": "DAYAT1",
+                    "problem_id": "DAYAT1",
+                    "num_judged": 8,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 6397
+                },
+                {
+                    "label": "Gacha",
+                    "problem_id": "gacha",
+                    "num_judged": 10,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 7196
+                },
+                {
+                    "label": "PERANG",
+                    "problem_id": "PERANG",
+                    "num_judged": 5,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 5635
+                },
+                {
+                    "label": "Pengampunan",
+                    "problem_id": "Pengampunan",
+                    "num_judged": 12,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 7113
+                }
+            ]
+        },
+        {
+            "rank": 11,
+            "team_id": "5025221265",
+            "score": {
+                "num_solved": 4,
+                "total_time": 27368
+            },
+            "problems": [
+                {
+                    "label": "DAYAT1",
+                    "problem_id": "DAYAT1",
+                    "num_judged": 2,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 6763
+                },
+                {
+                    "label": "Gacha",
+                    "problem_id": "gacha",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 6897
+                },
+                {
+                    "label": "PERANG",
+                    "problem_id": "PERANG",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 6729
+                },
+                {
+                    "label": "Pengampunan",
+                    "problem_id": "Pengampunan",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 6959
+                }
+            ]
+        },
+        {
+            "rank": 12,
+            "team_id": "5025221272",
+            "score": {
+                "num_solved": 4,
+                "total_time": 27577
+            },
+            "problems": [
+                {
+                    "label": "DAYAT1",
+                    "problem_id": "DAYAT1",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 6777
+                },
+                {
+                    "label": "Gacha",
+                    "problem_id": "gacha",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 7119
+                },
+                {
+                    "label": "PERANG",
+                    "problem_id": "PERANG",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 6794
+                },
+                {
+                    "label": "Pengampunan",
+                    "problem_id": "Pengampunan",
+                    "num_judged": 2,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 6867
+                }
+            ]
+        },
+        {
+            "rank": 13,
+            "team_id": "5025221027",
+            "score": {
+                "num_solved": 4,
+                "total_time": 27774
+            },
+            "problems": [
+                {
+                    "label": "DAYAT1",
+                    "problem_id": "DAYAT1",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 6826
+                },
+                {
+                    "label": "Gacha",
+                    "problem_id": "gacha",
+                    "num_judged": 2,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 7180
+                },
+                {
+                    "label": "PERANG",
+                    "problem_id": "PERANG",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 6826
+                },
+                {
+                    "label": "Pengampunan",
+                    "problem_id": "Pengampunan",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 6922
+                }
+            ]
+        },
+        {
+            "rank": 14,
+            "team_id": "5025221286",
+            "score": {
+                "num_solved": 4,
+                "total_time": 27842
+            },
+            "problems": [
+                {
+                    "label": "DAYAT1",
+                    "problem_id": "DAYAT1",
+                    "num_judged": 4,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 6884
+                },
+                {
+                    "label": "Gacha",
+                    "problem_id": "gacha",
+                    "num_judged": 6,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 7152
+                },
+                {
+                    "label": "PERANG",
+                    "problem_id": "PERANG",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 6807
+                },
+                {
+                    "label": "Pengampunan",
+                    "problem_id": "Pengampunan",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 6839
+                }
+            ]
+        },
+        {
+            "rank": 15,
+            "team_id": "5025221048",
+            "score": {
+                "num_solved": 4,
+                "total_time": 27926
+            },
+            "problems": [
+                {
+                    "label": "DAYAT1",
+                    "problem_id": "DAYAT1",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 6806
+                },
+                {
+                    "label": "Gacha",
+                    "problem_id": "gacha",
+                    "num_judged": 6,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 7170
+                },
+                {
+                    "label": "PERANG",
+                    "problem_id": "PERANG",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 6943
+                },
+                {
+                    "label": "Pengampunan",
+                    "problem_id": "Pengampunan",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 6907
+                }
+            ]
+        },
+        {
+            "rank": 16,
+            "team_id": "5025221195",
+            "score": {
+                "num_solved": 4,
+                "total_time": 27999
+            },
+            "problems": [
+                {
+                    "label": "DAYAT1",
+                    "problem_id": "DAYAT1",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 6865
+                },
+                {
+                    "label": "Gacha",
+                    "problem_id": "gacha",
+                    "num_judged": 2,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 7141
+                },
+                {
+                    "label": "PERANG",
+                    "problem_id": "PERANG",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 6860
+                },
+                {
+                    "label": "Pengampunan",
+                    "problem_id": "Pengampunan",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 7113
+                }
+            ]
+        },
+        {
+            "rank": 17,
+            "team_id": "5025221137",
+            "score": {
+                "num_solved": 4,
+                "total_time": 28089
+            },
+            "problems": [
+                {
+                    "label": "DAYAT1",
+                    "problem_id": "DAYAT1",
+                    "num_judged": 2,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 6862
+                },
+                {
+                    "label": "Gacha",
+                    "problem_id": "gacha",
+                    "num_judged": 2,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 7198
+                },
+                {
+                    "label": "PERANG",
+                    "problem_id": "PERANG",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 6870
+                },
+                {
+                    "label": "Pengampunan",
+                    "problem_id": "Pengampunan",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 7119
+                }
+            ]
+        },
+        {
+            "rank": 18,
+            "team_id": "5025221167",
+            "score": {
+                "num_solved": 4,
+                "total_time": 28241
+            },
+            "problems": [
+                {
+                    "label": "DAYAT1",
+                    "problem_id": "DAYAT1",
+                    "num_judged": 3,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 6902
+                },
+                {
+                    "label": "Gacha",
+                    "problem_id": "gacha",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 7197
+                },
+                {
+                    "label": "PERANG",
+                    "problem_id": "PERANG",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 6914
+                },
+                {
+                    "label": "Pengampunan",
+                    "problem_id": "Pengampunan",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 7188
+                }
+            ]
+        },
+        {
+            "rank": 19,
+            "team_id": "5025221230",
+            "score": {
+                "num_solved": 4,
+                "total_time": 28498
+            },
+            "problems": [
+                {
+                    "label": "DAYAT1",
+                    "problem_id": "DAYAT1",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 7134
+                },
+                {
+                    "label": "Gacha",
+                    "problem_id": "gacha",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 7140
+                },
+                {
+                    "label": "PERANG",
+                    "problem_id": "PERANG",
+                    "num_judged": 3,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 7029
+                },
+                {
+                    "label": "Pengampunan",
+                    "problem_id": "Pengampunan",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 7155
+                }
+            ]
+        },
+        {
+            "rank": 20,
+            "team_id": "5025221104",
+            "score": {
+                "num_solved": 4,
+                "total_time": 28558
+            },
+            "problems": [
+                {
+                    "label": "DAYAT1",
+                    "problem_id": "DAYAT1",
+                    "num_judged": 3,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 7144
+                },
+                {
+                    "label": "Gacha",
+                    "problem_id": "gacha",
+                    "num_judged": 2,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 7132
+                },
+                {
+                    "label": "PERANG",
+                    "problem_id": "PERANG",
+                    "num_judged": 5,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 6992
+                },
+                {
+                    "label": "Pengampunan",
+                    "problem_id": "Pengampunan",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 7150
+                }
+            ]
+        },
+        {
+            "rank": 21,
+            "team_id": "5025221123",
+            "score": {
+                "num_solved": 4,
+                "total_time": 28597
+            },
+            "problems": [
+                {
+                    "label": "DAYAT1",
+                    "problem_id": "DAYAT1",
+                    "num_judged": 7,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 7089
+                },
+                {
+                    "label": "Gacha",
+                    "problem_id": "gacha",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 7128
+                },
+                {
+                    "label": "PERANG",
+                    "problem_id": "PERANG",
+                    "num_judged": 5,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 6990
+                },
+                {
+                    "label": "Pengampunan",
+                    "problem_id": "Pengampunan",
+                    "num_judged": 2,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 7170
+                }
+            ]
+        },
+        {
+            "rank": 22,
+            "team_id": "5025221244",
+            "score": {
+                "num_solved": 4,
+                "total_time": 28696
+            },
+            "problems": [
+                {
+                    "label": "DAYAT1",
+                    "problem_id": "DAYAT1",
+                    "num_judged": 5,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 7162
+                },
+                {
+                    "label": "Gacha",
+                    "problem_id": "gacha",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 7149
+                },
+                {
+                    "label": "PERANG",
+                    "problem_id": "PERANG",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 7137
+                },
+                {
+                    "label": "Pengampunan",
+                    "problem_id": "Pengampunan",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 7168
+                }
+            ]
+        },
+        {
+            "rank": 23,
+            "team_id": "5025221258",
+            "score": {
+                "num_solved": 3,
+                "total_time": 10373
+            },
+            "problems": [
+                {
+                    "label": "DAYAT1",
+                    "problem_id": "DAYAT1",
+                    "num_judged": 3,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": true,
+                    "time": 183
+                },
+                {
+                    "label": "Gacha",
+                    "problem_id": "gacha",
+                    "num_judged": 2,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "PERANG",
+                    "problem_id": "PERANG",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 4176
+                },
+                {
+                    "label": "Pengampunan",
+                    "problem_id": "Pengampunan",
+                    "num_judged": 4,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 5914
+                }
+            ]
+        },
+        {
+            "rank": 24,
+            "team_id": "5025221209",
+            "score": {
+                "num_solved": 3,
+                "total_time": 18641
+            },
+            "problems": [
+                {
+                    "label": "DAYAT1",
+                    "problem_id": "DAYAT1",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 6653
+                },
+                {
+                    "label": "Gacha",
+                    "problem_id": "gacha",
+                    "num_judged": 4,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "PERANG",
+                    "problem_id": "PERANG",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 5994
+                },
+                {
+                    "label": "Pengampunan",
+                    "problem_id": "Pengampunan",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 5994
+                }
+            ]
+        },
+        {
+            "rank": 25,
+            "team_id": "5025221188",
+            "score": {
+                "num_solved": 3,
+                "total_time": 19211
+            },
+            "problems": [
+                {
+                    "label": "DAYAT1",
+                    "problem_id": "DAYAT1",
+                    "num_judged": 5,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 5557
+                },
+                {
+                    "label": "Gacha",
+                    "problem_id": "gacha",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "PERANG",
+                    "problem_id": "PERANG",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 6683
+                },
+                {
+                    "label": "Pengampunan",
+                    "problem_id": "Pengampunan",
+                    "num_judged": 2,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 6871
+                }
+            ]
+        },
+        {
+            "rank": 26,
+            "team_id": "5025221144",
+            "score": {
+                "num_solved": 3,
+                "total_time": 20054
+            },
+            "problems": [
+                {
+                    "label": "DAYAT1",
+                    "problem_id": "DAYAT1",
+                    "num_judged": 5,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 6677
+                },
+                {
+                    "label": "Gacha",
+                    "problem_id": "gacha",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "PERANG",
+                    "problem_id": "PERANG",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 6687
+                },
+                {
+                    "label": "Pengampunan",
+                    "problem_id": "Pengampunan",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 6610
+                }
+            ]
+        },
+        {
+            "rank": 27,
+            "team_id": "5025221200",
+            "score": {
+                "num_solved": 3,
+                "total_time": 21274
+            },
+            "problems": [
+                {
+                    "label": "DAYAT1",
+                    "problem_id": "DAYAT1",
+                    "num_judged": 4,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 7128
+                },
+                {
+                    "label": "Gacha",
+                    "problem_id": "gacha",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 7138
+                },
+                {
+                    "label": "PERANG",
+                    "problem_id": "PERANG",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 6948
+                },
+                {
+                    "label": "Pengampunan",
+                    "problem_id": "Pengampunan",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                }
+            ]
+        },
+        {
+            "rank": 28,
+            "team_id": "5025221307",
+            "score": {
+                "num_solved": 3,
+                "total_time": 21350
+            },
+            "problems": [
+                {
+                    "label": "DAYAT1",
+                    "problem_id": "DAYAT1",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 7109
+                },
+                {
+                    "label": "Gacha",
+                    "problem_id": "gacha",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "PERANG",
+                    "problem_id": "PERANG",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 7110
+                },
+                {
+                    "label": "Pengampunan",
+                    "problem_id": "Pengampunan",
+                    "num_judged": 2,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 7111
+                }
+            ]
+        },
+        {
+            "rank": 29,
+            "team_id": "5025221251",
+            "score": {
+                "num_solved": 2,
+                "total_time": 14105
+            },
+            "problems": [
+                {
+                    "label": "DAYAT1",
+                    "problem_id": "DAYAT1",
+                    "num_judged": 9,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 6978
+                },
+                {
+                    "label": "Gacha",
+                    "problem_id": "gacha",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "PERANG",
+                    "problem_id": "PERANG",
+                    "num_judged": 5,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 6887
+                },
+                {
+                    "label": "Pengampunan",
+                    "problem_id": "Pengampunan",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                }
+            ]
+        },
+        {
+            "rank": 30,
+            "team_id": "5025221237",
+            "score": {
+                "num_solved": 1,
+                "total_time": 6856
+            },
+            "problems": [
+                {
+                    "label": "DAYAT1",
+                    "problem_id": "DAYAT1",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "Gacha",
+                    "problem_id": "gacha",
+                    "num_judged": 4,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "PERANG",
+                    "problem_id": "PERANG",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 6856
+                },
+                {
+                    "label": "Pengampunan",
+                    "problem_id": "Pengampunan",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                }
+            ]
+        },
+        {
+            "rank": 31,
+            "team_id": "5025221293",
+            "score": {
+                "num_solved": 1,
+                "total_time": 7197
+            },
+            "problems": [
+                {
+                    "label": "DAYAT1",
+                    "problem_id": "DAYAT1",
+                    "num_judged": 3,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "Gacha",
+                    "problem_id": "gacha",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "PERANG",
+                    "problem_id": "PERANG",
+                    "num_judged": 4,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 7137
+                },
+                {
+                    "label": "Pengampunan",
+                    "problem_id": "Pengampunan",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                }
+            ]
+        },
+        {
+            "rank": 32,
+            "team_id": "5025221279",
+            "score": {
+                "num_solved": 1,
+                "total_time": 7335
+            },
+            "problems": [
+                {
+                    "label": "DAYAT1",
+                    "problem_id": "DAYAT1",
+                    "num_judged": 10,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 7155
+                },
+                {
+                    "label": "Gacha",
+                    "problem_id": "gacha",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "PERANG",
+                    "problem_id": "PERANG",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "Pengampunan",
+                    "problem_id": "Pengampunan",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                }
+            ]
+        },
+        {
+            "rank": 33,
+            "team_id": "5025221174",
+            "score": {
+                "num_solved": 0,
+                "total_time": 0
+            },
+            "problems": [
+                {
+                    "label": "DAYAT1",
+                    "problem_id": "DAYAT1",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "Gacha",
+                    "problem_id": "gacha",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "PERANG",
+                    "problem_id": "PERANG",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "Pengampunan",
+                    "problem_id": "Pengampunan",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                }
+            ]
+        },
+        {
+            "rank": 33,
+            "team_id": "5025221020",
+            "score": {
+                "num_solved": 0,
+                "total_time": 0
+            },
+            "problems": [
+                {
+                    "label": "DAYAT1",
+                    "problem_id": "DAYAT1",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "Gacha",
+                    "problem_id": "gacha",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "PERANG",
+                    "problem_id": "PERANG",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "Pengampunan",
+                    "problem_id": "Pengampunan",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                }
+            ]
+        },
+        {
+            "rank": 33,
+            "team_id": "5025221034",
+            "score": {
+                "num_solved": 0,
+                "total_time": 0
+            },
+            "problems": [
+                {
+                    "label": "DAYAT1",
+                    "problem_id": "DAYAT1",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "Gacha",
+                    "problem_id": "gacha",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "PERANG",
+                    "problem_id": "PERANG",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "Pengampunan",
+                    "problem_id": "Pengampunan",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                }
+            ]
+        },
+        {
+            "rank": 33,
+            "team_id": "5025221223",
+            "score": {
+                "num_solved": 0,
+                "total_time": 0
+            },
+            "problems": [
+                {
+                    "label": "DAYAT1",
+                    "problem_id": "DAYAT1",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "Gacha",
+                    "problem_id": "gacha",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "PERANG",
+                    "problem_id": "PERANG",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "Pengampunan",
+                    "problem_id": "Pengampunan",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                }
+            ]
+        },
+        {
+            "rank": 33,
+            "team_id": "5025221300",
+            "score": {
+                "num_solved": 0,
+                "total_time": 0
+            },
+            "problems": [
+                {
+                    "label": "DAYAT1",
+                    "problem_id": "DAYAT1",
+                    "num_judged": 4,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "Gacha",
+                    "problem_id": "gacha",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "PERANG",
+                    "problem_id": "PERANG",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "Pengampunan",
+                    "problem_id": "Pengampunan",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                }
+            ]
+        },
+        {
+            "rank": 33,
+            "team_id": "5025221181",
+            "score": {
+                "num_solved": 0,
+                "total_time": 0
+            },
+            "problems": [
+                {
+                    "label": "DAYAT1",
+                    "problem_id": "DAYAT1",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "Gacha",
+                    "problem_id": "gacha",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "PERANG",
+                    "problem_id": "PERANG",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "Pengampunan",
+                    "problem_id": "Pengampunan",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                }
+            ]
+        },
+        {
+            "rank": 33,
+            "team_id": "5025221314",
+            "score": {
+                "num_solved": 0,
+                "total_time": 0
+            },
+            "problems": [
+                {
+                    "label": "DAYAT1",
+                    "problem_id": "DAYAT1",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "Gacha",
+                    "problem_id": "gacha",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "PERANG",
+                    "problem_id": "PERANG",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "Pengampunan",
+                    "problem_id": "Pengampunan",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                }
+            ]
+        },
+        {
+            "rank": 33,
+            "team_id": "5025221153",
+            "score": {
+                "num_solved": 0,
+                "total_time": 0
+            },
+            "problems": [
+                {
+                    "label": "DAYAT1",
+                    "problem_id": "DAYAT1",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "Gacha",
+                    "problem_id": "gacha",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "PERANG",
+                    "problem_id": "PERANG",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "Pengampunan",
+                    "problem_id": "Pengampunan",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                }
+            ]
+        },
+        {
+            "rank": 33,
+            "team_id": "5025221312",
+            "score": {
+                "num_solved": 0,
+                "total_time": 0
+            },
+            "problems": [
+                {
+                    "label": "DAYAT1",
+                    "problem_id": "DAYAT1",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "Gacha",
+                    "problem_id": "gacha",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "PERANG",
+                    "problem_id": "PERANG",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "Pengampunan",
+                    "problem_id": "Pengampunan",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                }
+            ]
+        }
+    ]
+}

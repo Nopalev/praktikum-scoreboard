@@ -1,0 +1,1787 @@
+{
+    "event_id": "91532",
+    "time": "2022-10-10T21:57:36.547+07:00",
+    "contest_time": "386:57:36.546",
+    "state": {
+        "started": "2022-09-24T19:00:00.000+07:00",
+        "ended": "2022-09-29T19:00:00.000+07:00",
+        "frozen": null,
+        "thawed": null,
+        "finalized": "2022-10-03T13:31:18.037+07:00",
+        "end_of_updates": "2022-10-03T13:31:18.037+07:00"
+    },
+    "rows": [
+        {
+            "rank": 1,
+            "team_id": "5025221276",
+            "score": {
+                "num_solved": 4,
+                "total_time": 8053
+            },
+            "problems": [
+                {
+                    "label": "BerburuDiskon",
+                    "problem_id": "BerburuDiskon",
+                    "num_judged": 4,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": true,
+                    "time": 114
+                },
+                {
+                    "label": "OgitHunter",
+                    "problem_id": "OgitHunter",
+                    "num_judged": 3,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 96
+                },
+                {
+                    "label": "Ujana",
+                    "problem_id": "UJN",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 204
+                },
+                {
+                    "label": "______",
+                    "problem_id": "_____",
+                    "num_judged": 22,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 7119
+                }
+            ]
+        },
+        {
+            "rank": 2,
+            "team_id": "5025221220",
+            "score": {
+                "num_solved": 4,
+                "total_time": 16410
+            },
+            "problems": [
+                {
+                    "label": "BerburuDiskon",
+                    "problem_id": "BerburuDiskon",
+                    "num_judged": 4,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 145
+                },
+                {
+                    "label": "OgitHunter",
+                    "problem_id": "OgitHunter",
+                    "num_judged": 5,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 5803
+                },
+                {
+                    "label": "Ujana",
+                    "problem_id": "UJN",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 3838
+                },
+                {
+                    "label": "______",
+                    "problem_id": "_____",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 6484
+                }
+            ]
+        },
+        {
+            "rank": 3,
+            "team_id": "5025221164",
+            "score": {
+                "num_solved": 4,
+                "total_time": 19235
+            },
+            "problems": [
+                {
+                    "label": "BerburuDiskon",
+                    "problem_id": "BerburuDiskon",
+                    "num_judged": 7,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 3775
+                },
+                {
+                    "label": "OgitHunter",
+                    "problem_id": "OgitHunter",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 4218
+                },
+                {
+                    "label": "Ujana",
+                    "problem_id": "UJN",
+                    "num_judged": 3,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 3913
+                },
+                {
+                    "label": "______",
+                    "problem_id": "_____",
+                    "num_judged": 14,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 6909
+                }
+            ]
+        },
+        {
+            "rank": 4,
+            "team_id": "5025221206",
+            "score": {
+                "num_solved": 4,
+                "total_time": 19934
+            },
+            "problems": [
+                {
+                    "label": "BerburuDiskon",
+                    "problem_id": "BerburuDiskon",
+                    "num_judged": 14,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 819
+                },
+                {
+                    "label": "OgitHunter",
+                    "problem_id": "OgitHunter",
+                    "num_judged": 3,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 4779
+                },
+                {
+                    "label": "Ujana",
+                    "problem_id": "UJN",
+                    "num_judged": 2,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 7008
+                },
+                {
+                    "label": "______",
+                    "problem_id": "_____",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 7008
+                }
+            ]
+        },
+        {
+            "rank": 5,
+            "team_id": "5025221045",
+            "score": {
+                "num_solved": 4,
+                "total_time": 25011
+            },
+            "problems": [
+                {
+                    "label": "BerburuDiskon",
+                    "problem_id": "BerburuDiskon",
+                    "num_judged": 28,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 7094
+                },
+                {
+                    "label": "OgitHunter",
+                    "problem_id": "OgitHunter",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 5608
+                },
+                {
+                    "label": "Ujana",
+                    "problem_id": "UJN",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 5758
+                },
+                {
+                    "label": "______",
+                    "problem_id": "_____",
+                    "num_judged": 3,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 5971
+                }
+            ]
+        },
+        {
+            "rank": 6,
+            "team_id": "5025221113",
+            "score": {
+                "num_solved": 4,
+                "total_time": 25364
+            },
+            "problems": [
+                {
+                    "label": "BerburuDiskon",
+                    "problem_id": "BerburuDiskon",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 5515
+                },
+                {
+                    "label": "OgitHunter",
+                    "problem_id": "OgitHunter",
+                    "num_judged": 2,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 6775
+                },
+                {
+                    "label": "Ujana",
+                    "problem_id": "UJN",
+                    "num_judged": 4,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 5667
+                },
+                {
+                    "label": "______",
+                    "problem_id": "_____",
+                    "num_judged": 8,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 7187
+                }
+            ]
+        },
+        {
+            "rank": 7,
+            "team_id": "5025221024",
+            "score": {
+                "num_solved": 4,
+                "total_time": 27649
+            },
+            "problems": [
+                {
+                    "label": "BerburuDiskon",
+                    "problem_id": "BerburuDiskon",
+                    "num_judged": 22,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 6677
+                },
+                {
+                    "label": "OgitHunter",
+                    "problem_id": "OgitHunter",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 6848
+                },
+                {
+                    "label": "Ujana",
+                    "problem_id": "UJN",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 7196
+                },
+                {
+                    "label": "______",
+                    "problem_id": "_____",
+                    "num_judged": 17,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 6188
+                }
+            ]
+        },
+        {
+            "rank": 8,
+            "team_id": "5025221003",
+            "score": {
+                "num_solved": 3,
+                "total_time": 154
+            },
+            "problems": [
+                {
+                    "label": "BerburuDiskon",
+                    "problem_id": "BerburuDiskon",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "OgitHunter",
+                    "problem_id": "OgitHunter",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": true,
+                    "time": 47
+                },
+                {
+                    "label": "Ujana",
+                    "problem_id": "UJN",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": true,
+                    "time": 47
+                },
+                {
+                    "label": "______",
+                    "problem_id": "_____",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": true,
+                    "time": 60
+                }
+            ]
+        },
+        {
+            "rank": 9,
+            "team_id": "5025221171",
+            "score": {
+                "num_solved": 3,
+                "total_time": 14056
+            },
+            "problems": [
+                {
+                    "label": "BerburuDiskon",
+                    "problem_id": "BerburuDiskon",
+                    "num_judged": 7,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 3846
+                },
+                {
+                    "label": "OgitHunter",
+                    "problem_id": "OgitHunter",
+                    "num_judged": 8,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 5781
+                },
+                {
+                    "label": "Ujana",
+                    "problem_id": "UJN",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 4169
+                },
+                {
+                    "label": "______",
+                    "problem_id": "_____",
+                    "num_judged": 2,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                }
+            ]
+        },
+        {
+            "rank": 10,
+            "team_id": "5025221141",
+            "score": {
+                "num_solved": 3,
+                "total_time": 15130
+            },
+            "problems": [
+                {
+                    "label": "BerburuDiskon",
+                    "problem_id": "BerburuDiskon",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "OgitHunter",
+                    "problem_id": "OgitHunter",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 4043
+                },
+                {
+                    "label": "Ujana",
+                    "problem_id": "UJN",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 3914
+                },
+                {
+                    "label": "______",
+                    "problem_id": "_____",
+                    "num_judged": 25,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 6693
+                }
+            ]
+        },
+        {
+            "rank": 11,
+            "team_id": "5025221149",
+            "score": {
+                "num_solved": 3,
+                "total_time": 15397
+            },
+            "problems": [
+                {
+                    "label": "BerburuDiskon",
+                    "problem_id": "BerburuDiskon",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 5331
+                },
+                {
+                    "label": "OgitHunter",
+                    "problem_id": "OgitHunter",
+                    "num_judged": 5,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 5789
+                },
+                {
+                    "label": "Ujana",
+                    "problem_id": "UJN",
+                    "num_judged": 2,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 4177
+                },
+                {
+                    "label": "______",
+                    "problem_id": "_____",
+                    "num_judged": 2,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                }
+            ]
+        },
+        {
+            "rank": 12,
+            "team_id": "5025221199",
+            "score": {
+                "num_solved": 3,
+                "total_time": 15411
+            },
+            "problems": [
+                {
+                    "label": "BerburuDiskon",
+                    "problem_id": "BerburuDiskon",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 6865
+                },
+                {
+                    "label": "OgitHunter",
+                    "problem_id": "OgitHunter",
+                    "num_judged": 2,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 1644
+                },
+                {
+                    "label": "Ujana",
+                    "problem_id": "UJN",
+                    "num_judged": 3,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "______",
+                    "problem_id": "_____",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 6882
+                }
+            ]
+        },
+        {
+            "rank": 13,
+            "team_id": "5025221311",
+            "score": {
+                "num_solved": 3,
+                "total_time": 15786
+            },
+            "problems": [
+                {
+                    "label": "BerburuDiskon",
+                    "problem_id": "BerburuDiskon",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "OgitHunter",
+                    "problem_id": "OgitHunter",
+                    "num_judged": 2,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 4294
+                },
+                {
+                    "label": "Ujana",
+                    "problem_id": "UJN",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 7198
+                },
+                {
+                    "label": "______",
+                    "problem_id": "_____",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 4274
+                }
+            ]
+        },
+        {
+            "rank": 14,
+            "team_id": "5025221038",
+            "score": {
+                "num_solved": 3,
+                "total_time": 15881
+            },
+            "problems": [
+                {
+                    "label": "BerburuDiskon",
+                    "problem_id": "BerburuDiskon",
+                    "num_judged": 7,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 4278
+                },
+                {
+                    "label": "OgitHunter",
+                    "problem_id": "OgitHunter",
+                    "num_judged": 5,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 7006
+                },
+                {
+                    "label": "Ujana",
+                    "problem_id": "UJN",
+                    "num_judged": 2,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 4377
+                },
+                {
+                    "label": "______",
+                    "problem_id": "_____",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                }
+            ]
+        },
+        {
+            "rank": 15,
+            "team_id": "5025221227",
+            "score": {
+                "num_solved": 3,
+                "total_time": 16276
+            },
+            "problems": [
+                {
+                    "label": "BerburuDiskon",
+                    "problem_id": "BerburuDiskon",
+                    "num_judged": 3,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 4382
+                },
+                {
+                    "label": "OgitHunter",
+                    "problem_id": "OgitHunter",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "Ujana",
+                    "problem_id": "UJN",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 4648
+                },
+                {
+                    "label": "______",
+                    "problem_id": "_____",
+                    "num_judged": 4,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 7146
+                }
+            ]
+        },
+        {
+            "rank": 16,
+            "team_id": "5025221017",
+            "score": {
+                "num_solved": 3,
+                "total_time": 16361
+            },
+            "problems": [
+                {
+                    "label": "BerburuDiskon",
+                    "problem_id": "BerburuDiskon",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 5358
+                },
+                {
+                    "label": "OgitHunter",
+                    "problem_id": "OgitHunter",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 5369
+                },
+                {
+                    "label": "Ujana",
+                    "problem_id": "UJN",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 5634
+                },
+                {
+                    "label": "______",
+                    "problem_id": "_____",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                }
+            ]
+        },
+        {
+            "rank": 17,
+            "team_id": "5025221052",
+            "score": {
+                "num_solved": 3,
+                "total_time": 16766
+            },
+            "problems": [
+                {
+                    "label": "BerburuDiskon",
+                    "problem_id": "BerburuDiskon",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "OgitHunter",
+                    "problem_id": "OgitHunter",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 5581
+                },
+                {
+                    "label": "Ujana",
+                    "problem_id": "UJN",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 5579
+                },
+                {
+                    "label": "______",
+                    "problem_id": "_____",
+                    "num_judged": 2,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 5586
+                }
+            ]
+        },
+        {
+            "rank": 18,
+            "team_id": "5025221010",
+            "score": {
+                "num_solved": 3,
+                "total_time": 17726
+            },
+            "problems": [
+                {
+                    "label": "BerburuDiskon",
+                    "problem_id": "BerburuDiskon",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 3913
+                },
+                {
+                    "label": "OgitHunter",
+                    "problem_id": "OgitHunter",
+                    "num_judged": 2,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 6668
+                },
+                {
+                    "label": "Ujana",
+                    "problem_id": "UJN",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 7125
+                },
+                {
+                    "label": "______",
+                    "problem_id": "_____",
+                    "num_judged": 5,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                }
+            ]
+        },
+        {
+            "rank": 19,
+            "team_id": "5025221297",
+            "score": {
+                "num_solved": 3,
+                "total_time": 20323
+            },
+            "problems": [
+                {
+                    "label": "BerburuDiskon",
+                    "problem_id": "BerburuDiskon",
+                    "num_judged": 11,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 5934
+                },
+                {
+                    "label": "OgitHunter",
+                    "problem_id": "OgitHunter",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 7143
+                },
+                {
+                    "label": "Ujana",
+                    "problem_id": "UJN",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "______",
+                    "problem_id": "_____",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 7046
+                }
+            ]
+        },
+        {
+            "rank": 20,
+            "team_id": "5025221101",
+            "score": {
+                "num_solved": 3,
+                "total_time": 20439
+            },
+            "problems": [
+                {
+                    "label": "BerburuDiskon",
+                    "problem_id": "BerburuDiskon",
+                    "num_judged": 4,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 6717
+                },
+                {
+                    "label": "OgitHunter",
+                    "problem_id": "OgitHunter",
+                    "num_judged": 7,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 6778
+                },
+                {
+                    "label": "Ujana",
+                    "problem_id": "UJN",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "______",
+                    "problem_id": "_____",
+                    "num_judged": 2,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 6744
+                }
+            ]
+        },
+        {
+            "rank": 21,
+            "team_id": "5025221213",
+            "score": {
+                "num_solved": 3,
+                "total_time": 20642
+            },
+            "problems": [
+                {
+                    "label": "BerburuDiskon",
+                    "problem_id": "BerburuDiskon",
+                    "num_judged": 2,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 6704
+                },
+                {
+                    "label": "OgitHunter",
+                    "problem_id": "OgitHunter",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 6974
+                },
+                {
+                    "label": "Ujana",
+                    "problem_id": "UJN",
+                    "num_judged": 5,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 6864
+                },
+                {
+                    "label": "______",
+                    "problem_id": "_____",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                }
+            ]
+        },
+        {
+            "rank": 22,
+            "team_id": "5025221127",
+            "score": {
+                "num_solved": 3,
+                "total_time": 20719
+            },
+            "problems": [
+                {
+                    "label": "BerburuDiskon",
+                    "problem_id": "BerburuDiskon",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "OgitHunter",
+                    "problem_id": "OgitHunter",
+                    "num_judged": 10,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 6765
+                },
+                {
+                    "label": "Ujana",
+                    "problem_id": "UJN",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 7041
+                },
+                {
+                    "label": "______",
+                    "problem_id": "_____",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 6733
+                }
+            ]
+        },
+        {
+            "rank": 23,
+            "team_id": "5025221059",
+            "score": {
+                "num_solved": 3,
+                "total_time": 21480
+            },
+            "problems": [
+                {
+                    "label": "BerburuDiskon",
+                    "problem_id": "BerburuDiskon",
+                    "num_judged": 14,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 7131
+                },
+                {
+                    "label": "OgitHunter",
+                    "problem_id": "OgitHunter",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 7190
+                },
+                {
+                    "label": "Ujana",
+                    "problem_id": "UJN",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 6899
+                },
+                {
+                    "label": "______",
+                    "problem_id": "_____",
+                    "num_judged": 2,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                }
+            ]
+        },
+        {
+            "rank": 24,
+            "team_id": "5025221269",
+            "score": {
+                "num_solved": 2,
+                "total_time": 4573
+            },
+            "problems": [
+                {
+                    "label": "BerburuDiskon",
+                    "problem_id": "BerburuDiskon",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 126
+                },
+                {
+                    "label": "OgitHunter",
+                    "problem_id": "OgitHunter",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "Ujana",
+                    "problem_id": "UJN",
+                    "num_judged": 2,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 4427
+                },
+                {
+                    "label": "______",
+                    "problem_id": "_____",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                }
+            ]
+        },
+        {
+            "rank": 25,
+            "team_id": "5025221290",
+            "score": {
+                "num_solved": 2,
+                "total_time": 10156
+            },
+            "problems": [
+                {
+                    "label": "BerburuDiskon",
+                    "problem_id": "BerburuDiskon",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "OgitHunter",
+                    "problem_id": "OgitHunter",
+                    "num_judged": 4,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 5645
+                },
+                {
+                    "label": "Ujana",
+                    "problem_id": "UJN",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 4451
+                },
+                {
+                    "label": "______",
+                    "problem_id": "_____",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                }
+            ]
+        },
+        {
+            "rank": 26,
+            "team_id": "5025221234",
+            "score": {
+                "num_solved": 2,
+                "total_time": 12193
+            },
+            "problems": [
+                {
+                    "label": "BerburuDiskon",
+                    "problem_id": "BerburuDiskon",
+                    "num_judged": 6,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 5321
+                },
+                {
+                    "label": "OgitHunter",
+                    "problem_id": "OgitHunter",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "Ujana",
+                    "problem_id": "UJN",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 6772
+                },
+                {
+                    "label": "______",
+                    "problem_id": "_____",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                }
+            ]
+        },
+        {
+            "rank": 27,
+            "team_id": "5025221031",
+            "score": {
+                "num_solved": 2,
+                "total_time": 13802
+            },
+            "problems": [
+                {
+                    "label": "BerburuDiskon",
+                    "problem_id": "BerburuDiskon",
+                    "num_judged": 5,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 6701
+                },
+                {
+                    "label": "OgitHunter",
+                    "problem_id": "OgitHunter",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "Ujana",
+                    "problem_id": "UJN",
+                    "num_judged": 6,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 6921
+                },
+                {
+                    "label": "______",
+                    "problem_id": "_____",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                }
+            ]
+        },
+        {
+            "rank": 28,
+            "team_id": "5025221255",
+            "score": {
+                "num_solved": 2,
+                "total_time": 14181
+            },
+            "problems": [
+                {
+                    "label": "BerburuDiskon",
+                    "problem_id": "BerburuDiskon",
+                    "num_judged": 7,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 6826
+                },
+                {
+                    "label": "OgitHunter",
+                    "problem_id": "OgitHunter",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "Ujana",
+                    "problem_id": "UJN",
+                    "num_judged": 3,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 7195
+                },
+                {
+                    "label": "______",
+                    "problem_id": "_____",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                }
+            ]
+        },
+        {
+            "rank": 29,
+            "team_id": "5025221262",
+            "score": {
+                "num_solved": 2,
+                "total_time": 14183
+            },
+            "problems": [
+                {
+                    "label": "BerburuDiskon",
+                    "problem_id": "BerburuDiskon",
+                    "num_judged": 8,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 6848
+                },
+                {
+                    "label": "OgitHunter",
+                    "problem_id": "OgitHunter",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "Ujana",
+                    "problem_id": "UJN",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 7195
+                },
+                {
+                    "label": "______",
+                    "problem_id": "_____",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                }
+            ]
+        },
+        {
+            "rank": 30,
+            "team_id": "5025221178",
+            "score": {
+                "num_solved": 1,
+                "total_time": 3771
+            },
+            "problems": [
+                {
+                    "label": "BerburuDiskon",
+                    "problem_id": "BerburuDiskon",
+                    "num_judged": 2,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 3751
+                },
+                {
+                    "label": "OgitHunter",
+                    "problem_id": "OgitHunter",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "Ujana",
+                    "problem_id": "UJN",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "______",
+                    "problem_id": "_____",
+                    "num_judged": 3,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                }
+            ]
+        },
+        {
+            "rank": 31,
+            "team_id": "5025221304",
+            "score": {
+                "num_solved": 1,
+                "total_time": 5917
+            },
+            "problems": [
+                {
+                    "label": "BerburuDiskon",
+                    "problem_id": "BerburuDiskon",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 5917
+                },
+                {
+                    "label": "OgitHunter",
+                    "problem_id": "OgitHunter",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "Ujana",
+                    "problem_id": "UJN",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "______",
+                    "problem_id": "_____",
+                    "num_judged": 6,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                }
+            ]
+        },
+        {
+            "rank": 32,
+            "team_id": "5025221248",
+            "score": {
+                "num_solved": 1,
+                "total_time": 5949
+            },
+            "problems": [
+                {
+                    "label": "BerburuDiskon",
+                    "problem_id": "BerburuDiskon",
+                    "num_judged": 2,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 5929
+                },
+                {
+                    "label": "OgitHunter",
+                    "problem_id": "OgitHunter",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "Ujana",
+                    "problem_id": "UJN",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "______",
+                    "problem_id": "_____",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                }
+            ]
+        },
+        {
+            "rank": 33,
+            "team_id": "5025221283",
+            "score": {
+                "num_solved": 1,
+                "total_time": 7227
+            },
+            "problems": [
+                {
+                    "label": "BerburuDiskon",
+                    "problem_id": "BerburuDiskon",
+                    "num_judged": 3,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 7187
+                },
+                {
+                    "label": "OgitHunter",
+                    "problem_id": "OgitHunter",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "Ujana",
+                    "problem_id": "UJN",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "______",
+                    "problem_id": "_____",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                }
+            ]
+        },
+        {
+            "rank": 34,
+            "team_id": "5025221320",
+            "score": {
+                "num_solved": 0,
+                "total_time": 0
+            },
+            "problems": [
+                {
+                    "label": "BerburuDiskon",
+                    "problem_id": "BerburuDiskon",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "OgitHunter",
+                    "problem_id": "OgitHunter",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "Ujana",
+                    "problem_id": "UJN",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "______",
+                    "problem_id": "_____",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                }
+            ]
+        },
+        {
+            "rank": 34,
+            "team_id": "5025221241",
+            "score": {
+                "num_solved": 0,
+                "total_time": 0
+            },
+            "problems": [
+                {
+                    "label": "BerburuDiskon",
+                    "problem_id": "BerburuDiskon",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "OgitHunter",
+                    "problem_id": "OgitHunter",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "Ujana",
+                    "problem_id": "UJN",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "______",
+                    "problem_id": "_____",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                }
+            ]
+        },
+        {
+            "rank": 34,
+            "team_id": "5025221134",
+            "score": {
+                "num_solved": 0,
+                "total_time": 0
+            },
+            "problems": [
+                {
+                    "label": "BerburuDiskon",
+                    "problem_id": "BerburuDiskon",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "OgitHunter",
+                    "problem_id": "OgitHunter",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "Ujana",
+                    "problem_id": "UJN",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "______",
+                    "problem_id": "_____",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                }
+            ]
+        },
+        {
+            "rank": 34,
+            "team_id": "5025221192",
+            "score": {
+                "num_solved": 0,
+                "total_time": 0
+            },
+            "problems": [
+                {
+                    "label": "BerburuDiskon",
+                    "problem_id": "BerburuDiskon",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "OgitHunter",
+                    "problem_id": "OgitHunter",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "Ujana",
+                    "problem_id": "UJN",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "______",
+                    "problem_id": "_____",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                }
+            ]
+        },
+        {
+            "rank": 34,
+            "team_id": "5025221157",
+            "score": {
+                "num_solved": 0,
+                "total_time": 0
+            },
+            "problems": [
+                {
+                    "label": "BerburuDiskon",
+                    "problem_id": "BerburuDiskon",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "OgitHunter",
+                    "problem_id": "OgitHunter",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "Ujana",
+                    "problem_id": "UJN",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "______",
+                    "problem_id": "_____",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                }
+            ]
+        },
+        {
+            "rank": 34,
+            "team_id": "5025221120",
+            "score": {
+                "num_solved": 0,
+                "total_time": 0
+            },
+            "problems": [
+                {
+                    "label": "BerburuDiskon",
+                    "problem_id": "BerburuDiskon",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "OgitHunter",
+                    "problem_id": "OgitHunter",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "Ujana",
+                    "problem_id": "UJN",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "______",
+                    "problem_id": "_____",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                }
+            ]
+        },
+        {
+            "rank": 34,
+            "team_id": "5025221185",
+            "score": {
+                "num_solved": 0,
+                "total_time": 0
+            },
+            "problems": [
+                {
+                    "label": "BerburuDiskon",
+                    "problem_id": "BerburuDiskon",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "OgitHunter",
+                    "problem_id": "OgitHunter",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "Ujana",
+                    "problem_id": "UJN",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "______",
+                    "problem_id": "_____",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                }
+            ]
+        }
+    ]
+}

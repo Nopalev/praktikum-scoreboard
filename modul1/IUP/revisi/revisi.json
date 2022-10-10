@@ -1,0 +1,1863 @@
+{
+    "event_id": "91532",
+    "time": "2022-10-10T21:57:36.547+07:00",
+    "contest_time": "410:57:36.546",
+    "state": {
+        "started": "2022-09-23T19:00:00.000+07:00",
+        "ended": "2022-09-28T19:00:00.000+07:00",
+        "frozen": null,
+        "thawed": null,
+        "finalized": "2022-10-03T13:30:51.135+07:00",
+        "end_of_updates": "2022-10-03T13:30:51.135+07:00"
+    },
+    "rows": [
+        {
+            "rank": 1,
+            "team_id": "5025221085",
+            "score": {
+                "num_solved": 4,
+                "total_time": 980
+            },
+            "problems": [
+                {
+                    "label": "CARDS",
+                    "problem_id": "CARDS",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 244
+                },
+                {
+                    "label": "HELP",
+                    "problem_id": "HELP",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 246
+                },
+                {
+                    "label": "SLEEP",
+                    "problem_id": "SLEEP",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 245
+                },
+                {
+                    "label": "kenjeran",
+                    "problem_id": "kenjeran",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 245
+                }
+            ]
+        },
+        {
+            "rank": 2,
+            "team_id": "5025221079",
+            "score": {
+                "num_solved": 4,
+                "total_time": 2579
+            },
+            "problems": [
+                {
+                    "label": "CARDS",
+                    "problem_id": "CARDS",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": true,
+                    "time": 61
+                },
+                {
+                    "label": "HELP",
+                    "problem_id": "HELP",
+                    "num_judged": 3,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 1081
+                },
+                {
+                    "label": "SLEEP",
+                    "problem_id": "SLEEP",
+                    "num_judged": 3,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 96
+                },
+                {
+                    "label": "kenjeran",
+                    "problem_id": "kenjeran",
+                    "num_judged": 2,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 1241
+                }
+            ]
+        },
+        {
+            "rank": 3,
+            "team_id": "5025221112",
+            "score": {
+                "num_solved": 4,
+                "total_time": 3469
+            },
+            "problems": [
+                {
+                    "label": "CARDS",
+                    "problem_id": "CARDS",
+                    "num_judged": 2,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 1156
+                },
+                {
+                    "label": "HELP",
+                    "problem_id": "HELP",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 1085
+                },
+                {
+                    "label": "SLEEP",
+                    "problem_id": "SLEEP",
+                    "num_judged": 3,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": true,
+                    "time": 82
+                },
+                {
+                    "label": "kenjeran",
+                    "problem_id": "kenjeran",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 1086
+                }
+            ]
+        },
+        {
+            "rank": 4,
+            "team_id": "5025221065",
+            "score": {
+                "num_solved": 4,
+                "total_time": 4501
+            },
+            "problems": [
+                {
+                    "label": "CARDS",
+                    "problem_id": "CARDS",
+                    "num_judged": 2,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 1101
+                },
+                {
+                    "label": "HELP",
+                    "problem_id": "HELP",
+                    "num_judged": 2,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 1124
+                },
+                {
+                    "label": "SLEEP",
+                    "problem_id": "SLEEP",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 1157
+                },
+                {
+                    "label": "kenjeran",
+                    "problem_id": "kenjeran",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 1079
+                }
+            ]
+        },
+        {
+            "rank": 5,
+            "team_id": "7221300092",
+            "score": {
+                "num_solved": 4,
+                "total_time": 4518
+            },
+            "problems": [
+                {
+                    "label": "CARDS",
+                    "problem_id": "CARDS",
+                    "num_judged": 2,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 1051
+                },
+                {
+                    "label": "HELP",
+                    "problem_id": "HELP",
+                    "num_judged": 2,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 1047
+                },
+                {
+                    "label": "SLEEP",
+                    "problem_id": "SLEEP",
+                    "num_judged": 8,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 1140
+                },
+                {
+                    "label": "kenjeran",
+                    "problem_id": "kenjeran",
+                    "num_judged": 3,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 1060
+                }
+            ]
+        },
+        {
+            "rank": 6,
+            "team_id": "5025221083",
+            "score": {
+                "num_solved": 4,
+                "total_time": 5047
+            },
+            "problems": [
+                {
+                    "label": "CARDS",
+                    "problem_id": "CARDS",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 3211
+                },
+                {
+                    "label": "HELP",
+                    "problem_id": "HELP",
+                    "num_judged": 2,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": true,
+                    "time": 7
+                },
+                {
+                    "label": "SLEEP",
+                    "problem_id": "SLEEP",
+                    "num_judged": 2,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 1778
+                },
+                {
+                    "label": "kenjeran",
+                    "problem_id": "kenjeran",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": true,
+                    "time": 11
+                }
+            ]
+        },
+        {
+            "rank": 7,
+            "team_id": "5025221077",
+            "score": {
+                "num_solved": 4,
+                "total_time": 5949
+            },
+            "problems": [
+                {
+                    "label": "CARDS",
+                    "problem_id": "CARDS",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 2417
+                },
+                {
+                    "label": "HELP",
+                    "problem_id": "HELP",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 229
+                },
+                {
+                    "label": "SLEEP",
+                    "problem_id": "SLEEP",
+                    "num_judged": 2,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 1588
+                },
+                {
+                    "label": "kenjeran",
+                    "problem_id": "kenjeran",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 1695
+                }
+            ]
+        },
+        {
+            "rank": 8,
+            "team_id": "5025221111",
+            "score": {
+                "num_solved": 4,
+                "total_time": 6758
+            },
+            "problems": [
+                {
+                    "label": "CARDS",
+                    "problem_id": "CARDS",
+                    "num_judged": 2,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 4087
+                },
+                {
+                    "label": "HELP",
+                    "problem_id": "HELP",
+                    "num_judged": 3,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 118
+                },
+                {
+                    "label": "SLEEP",
+                    "problem_id": "SLEEP",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 1242
+                },
+                {
+                    "label": "kenjeran",
+                    "problem_id": "kenjeran",
+                    "num_judged": 2,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 1231
+                }
+            ]
+        },
+        {
+            "rank": 9,
+            "team_id": "5025221074",
+            "score": {
+                "num_solved": 4,
+                "total_time": 9451
+            },
+            "problems": [
+                {
+                    "label": "CARDS",
+                    "problem_id": "CARDS",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 4044
+                },
+                {
+                    "label": "HELP",
+                    "problem_id": "HELP",
+                    "num_judged": 4,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 4017
+                },
+                {
+                    "label": "SLEEP",
+                    "problem_id": "SLEEP",
+                    "num_judged": 10,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 1092
+                },
+                {
+                    "label": "kenjeran",
+                    "problem_id": "kenjeran",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 58
+                }
+            ]
+        },
+        {
+            "rank": 10,
+            "team_id": "5025221069",
+            "score": {
+                "num_solved": 4,
+                "total_time": 10167
+            },
+            "problems": [
+                {
+                    "label": "CARDS",
+                    "problem_id": "CARDS",
+                    "num_judged": 5,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 2638
+                },
+                {
+                    "label": "HELP",
+                    "problem_id": "HELP",
+                    "num_judged": 2,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 2417
+                },
+                {
+                    "label": "SLEEP",
+                    "problem_id": "SLEEP",
+                    "num_judged": 4,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 2410
+                },
+                {
+                    "label": "kenjeran",
+                    "problem_id": "kenjeran",
+                    "num_judged": 3,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 2502
+                }
+            ]
+        },
+        {
+            "rank": 11,
+            "team_id": "5025221095",
+            "score": {
+                "num_solved": 4,
+                "total_time": 11166
+            },
+            "problems": [
+                {
+                    "label": "CARDS",
+                    "problem_id": "CARDS",
+                    "num_judged": 3,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 4511
+                },
+                {
+                    "label": "HELP",
+                    "problem_id": "HELP",
+                    "num_judged": 3,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 1674
+                },
+                {
+                    "label": "SLEEP",
+                    "problem_id": "SLEEP",
+                    "num_judged": 12,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 2813
+                },
+                {
+                    "label": "kenjeran",
+                    "problem_id": "kenjeran",
+                    "num_judged": 8,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 1728
+                }
+            ]
+        },
+        {
+            "rank": 12,
+            "team_id": "5025221081",
+            "score": {
+                "num_solved": 4,
+                "total_time": 12302
+            },
+            "problems": [
+                {
+                    "label": "CARDS",
+                    "problem_id": "CARDS",
+                    "num_judged": 2,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 3840
+                },
+                {
+                    "label": "HELP",
+                    "problem_id": "HELP",
+                    "num_judged": 2,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 2291
+                },
+                {
+                    "label": "SLEEP",
+                    "problem_id": "SLEEP",
+                    "num_judged": 3,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 2300
+                },
+                {
+                    "label": "kenjeran",
+                    "problem_id": "kenjeran",
+                    "num_judged": 2,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 3771
+                }
+            ]
+        },
+        {
+            "rank": 13,
+            "team_id": "5025221084",
+            "score": {
+                "num_solved": 4,
+                "total_time": 13576
+            },
+            "problems": [
+                {
+                    "label": "CARDS",
+                    "problem_id": "CARDS",
+                    "num_judged": 4,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 5728
+                },
+                {
+                    "label": "HELP",
+                    "problem_id": "HELP",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 5686
+                },
+                {
+                    "label": "SLEEP",
+                    "problem_id": "SLEEP",
+                    "num_judged": 10,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 959
+                },
+                {
+                    "label": "kenjeran",
+                    "problem_id": "kenjeran",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 963
+                }
+            ]
+        },
+        {
+            "rank": 14,
+            "team_id": "5025221094",
+            "score": {
+                "num_solved": 4,
+                "total_time": 14241
+            },
+            "problems": [
+                {
+                    "label": "CARDS",
+                    "problem_id": "CARDS",
+                    "num_judged": 6,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 7182
+                },
+                {
+                    "label": "HELP",
+                    "problem_id": "HELP",
+                    "num_judged": 5,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 1657
+                },
+                {
+                    "label": "SLEEP",
+                    "problem_id": "SLEEP",
+                    "num_judged": 14,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 3160
+                },
+                {
+                    "label": "kenjeran",
+                    "problem_id": "kenjeran",
+                    "num_judged": 4,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 1742
+                }
+            ]
+        },
+        {
+            "rank": 15,
+            "team_id": "5025221087",
+            "score": {
+                "num_solved": 4,
+                "total_time": 15360
+            },
+            "problems": [
+                {
+                    "label": "CARDS",
+                    "problem_id": "CARDS",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 3602
+                },
+                {
+                    "label": "HELP",
+                    "problem_id": "HELP",
+                    "num_judged": 2,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 4301
+                },
+                {
+                    "label": "SLEEP",
+                    "problem_id": "SLEEP",
+                    "num_judged": 2,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 3815
+                },
+                {
+                    "label": "kenjeran",
+                    "problem_id": "kenjeran",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 3602
+                }
+            ]
+        },
+        {
+            "rank": 16,
+            "team_id": "5025221318",
+            "score": {
+                "num_solved": 4,
+                "total_time": 15455
+            },
+            "problems": [
+                {
+                    "label": "CARDS",
+                    "problem_id": "CARDS",
+                    "num_judged": 5,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 4373
+                },
+                {
+                    "label": "HELP",
+                    "problem_id": "HELP",
+                    "num_judged": 2,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 4329
+                },
+                {
+                    "label": "SLEEP",
+                    "problem_id": "SLEEP",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 3181
+                },
+                {
+                    "label": "kenjeran",
+                    "problem_id": "kenjeran",
+                    "num_judged": 16,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 3172
+                }
+            ]
+        },
+        {
+            "rank": 17,
+            "team_id": "7221300231",
+            "score": {
+                "num_solved": 4,
+                "total_time": 16285
+            },
+            "problems": [
+                {
+                    "label": "CARDS",
+                    "problem_id": "CARDS",
+                    "num_judged": 9,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 5677
+                },
+                {
+                    "label": "HELP",
+                    "problem_id": "HELP",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 5716
+                },
+                {
+                    "label": "SLEEP",
+                    "problem_id": "SLEEP",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 2328
+                },
+                {
+                    "label": "kenjeran",
+                    "problem_id": "kenjeran",
+                    "num_judged": 3,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 2364
+                }
+            ]
+        },
+        {
+            "rank": 18,
+            "team_id": "5025221088",
+            "score": {
+                "num_solved": 4,
+                "total_time": 16491
+            },
+            "problems": [
+                {
+                    "label": "CARDS",
+                    "problem_id": "CARDS",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 7058
+                },
+                {
+                    "label": "HELP",
+                    "problem_id": "HELP",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 3099
+                },
+                {
+                    "label": "SLEEP",
+                    "problem_id": "SLEEP",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 3202
+                },
+                {
+                    "label": "kenjeran",
+                    "problem_id": "kenjeran",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 3132
+                }
+            ]
+        },
+        {
+            "rank": 19,
+            "team_id": "5025221096",
+            "score": {
+                "num_solved": 4,
+                "total_time": 16718
+            },
+            "problems": [
+                {
+                    "label": "CARDS",
+                    "problem_id": "CARDS",
+                    "num_judged": 3,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 4091
+                },
+                {
+                    "label": "HELP",
+                    "problem_id": "HELP",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 4062
+                },
+                {
+                    "label": "SLEEP",
+                    "problem_id": "SLEEP",
+                    "num_judged": 3,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 4421
+                },
+                {
+                    "label": "kenjeran",
+                    "problem_id": "kenjeran",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 4064
+                }
+            ]
+        },
+        {
+            "rank": 20,
+            "team_id": "5025221080",
+            "score": {
+                "num_solved": 4,
+                "total_time": 17355
+            },
+            "problems": [
+                {
+                    "label": "CARDS",
+                    "problem_id": "CARDS",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 7117
+                },
+                {
+                    "label": "HELP",
+                    "problem_id": "HELP",
+                    "num_judged": 3,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 1330
+                },
+                {
+                    "label": "SLEEP",
+                    "problem_id": "SLEEP",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 7117
+                },
+                {
+                    "label": "kenjeran",
+                    "problem_id": "kenjeran",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 1751
+                }
+            ]
+        },
+        {
+            "rank": 21,
+            "team_id": "5025221093",
+            "score": {
+                "num_solved": 4,
+                "total_time": 18276
+            },
+            "problems": [
+                {
+                    "label": "CARDS",
+                    "problem_id": "CARDS",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 3926
+                },
+                {
+                    "label": "HELP",
+                    "problem_id": "HELP",
+                    "num_judged": 4,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 5166
+                },
+                {
+                    "label": "SLEEP",
+                    "problem_id": "SLEEP",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 3937
+                },
+                {
+                    "label": "kenjeran",
+                    "problem_id": "kenjeran",
+                    "num_judged": 2,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 5167
+                }
+            ]
+        },
+        {
+            "rank": 22,
+            "team_id": "5025221109",
+            "score": {
+                "num_solved": 4,
+                "total_time": 18329
+            },
+            "problems": [
+                {
+                    "label": "CARDS",
+                    "problem_id": "CARDS",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 3998
+                },
+                {
+                    "label": "HELP",
+                    "problem_id": "HELP",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 5169
+                },
+                {
+                    "label": "SLEEP",
+                    "problem_id": "SLEEP",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 5177
+                },
+                {
+                    "label": "kenjeran",
+                    "problem_id": "kenjeran",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 3985
+                }
+            ]
+        },
+        {
+            "rank": 23,
+            "team_id": "5025221073",
+            "score": {
+                "num_solved": 4,
+                "total_time": 20160
+            },
+            "problems": [
+                {
+                    "label": "CARDS",
+                    "problem_id": "CARDS",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 5211
+                },
+                {
+                    "label": "HELP",
+                    "problem_id": "HELP",
+                    "num_judged": 15,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 4712
+                },
+                {
+                    "label": "SLEEP",
+                    "problem_id": "SLEEP",
+                    "num_judged": 3,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 4652
+                },
+                {
+                    "label": "kenjeran",
+                    "problem_id": "kenjeran",
+                    "num_judged": 2,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 5245
+                }
+            ]
+        },
+        {
+            "rank": 24,
+            "team_id": "5025221078",
+            "score": {
+                "num_solved": 4,
+                "total_time": 20831
+            },
+            "problems": [
+                {
+                    "label": "CARDS",
+                    "problem_id": "CARDS",
+                    "num_judged": 2,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 5178
+                },
+                {
+                    "label": "HELP",
+                    "problem_id": "HELP",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 5172
+                },
+                {
+                    "label": "SLEEP",
+                    "problem_id": "SLEEP",
+                    "num_judged": 5,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 5207
+                },
+                {
+                    "label": "kenjeran",
+                    "problem_id": "kenjeran",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 5174
+                }
+            ]
+        },
+        {
+            "rank": 25,
+            "team_id": "5025221067",
+            "score": {
+                "num_solved": 4,
+                "total_time": 26156
+            },
+            "problems": [
+                {
+                    "label": "CARDS",
+                    "problem_id": "CARDS",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 6542
+                },
+                {
+                    "label": "HELP",
+                    "problem_id": "HELP",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 6537
+                },
+                {
+                    "label": "SLEEP",
+                    "problem_id": "SLEEP",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 6538
+                },
+                {
+                    "label": "kenjeran",
+                    "problem_id": "kenjeran",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 6539
+                }
+            ]
+        },
+        {
+            "rank": 26,
+            "team_id": "5025221068",
+            "score": {
+                "num_solved": 4,
+                "total_time": 26157
+            },
+            "problems": [
+                {
+                    "label": "CARDS",
+                    "problem_id": "CARDS",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 6537
+                },
+                {
+                    "label": "HELP",
+                    "problem_id": "HELP",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 6540
+                },
+                {
+                    "label": "SLEEP",
+                    "problem_id": "SLEEP",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 6536
+                },
+                {
+                    "label": "kenjeran",
+                    "problem_id": "kenjeran",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 6544
+                }
+            ]
+        },
+        {
+            "rank": 27,
+            "team_id": "5025221319",
+            "score": {
+                "num_solved": 4,
+                "total_time": 28463
+            },
+            "problems": [
+                {
+                    "label": "CARDS",
+                    "problem_id": "CARDS",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 7115
+                },
+                {
+                    "label": "HELP",
+                    "problem_id": "HELP",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 7116
+                },
+                {
+                    "label": "SLEEP",
+                    "problem_id": "SLEEP",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 7116
+                },
+                {
+                    "label": "kenjeran",
+                    "problem_id": "kenjeran",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 7116
+                }
+            ]
+        },
+        {
+            "rank": 28,
+            "team_id": "5025221066",
+            "score": {
+                "num_solved": 3,
+                "total_time": 3293
+            },
+            "problems": [
+                {
+                    "label": "CARDS",
+                    "problem_id": "CARDS",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 991
+                },
+                {
+                    "label": "HELP",
+                    "problem_id": "HELP",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 977
+                },
+                {
+                    "label": "SLEEP",
+                    "problem_id": "SLEEP",
+                    "num_judged": 6,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 1225
+                },
+                {
+                    "label": "kenjeran",
+                    "problem_id": "kenjeran",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                }
+            ]
+        },
+        {
+            "rank": 29,
+            "team_id": "5025221089",
+            "score": {
+                "num_solved": 3,
+                "total_time": 11380
+            },
+            "problems": [
+                {
+                    "label": "CARDS",
+                    "problem_id": "CARDS",
+                    "num_judged": 2,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 4301
+                },
+                {
+                    "label": "HELP",
+                    "problem_id": "HELP",
+                    "num_judged": 3,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 2833
+                },
+                {
+                    "label": "SLEEP",
+                    "problem_id": "SLEEP",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "kenjeran",
+                    "problem_id": "kenjeran",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 4186
+                }
+            ]
+        },
+        {
+            "rank": 30,
+            "team_id": "5025221092",
+            "score": {
+                "num_solved": 3,
+                "total_time": 16163
+            },
+            "problems": [
+                {
+                    "label": "CARDS",
+                    "problem_id": "CARDS",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "HELP",
+                    "problem_id": "HELP",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 5386
+                },
+                {
+                    "label": "SLEEP",
+                    "problem_id": "SLEEP",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 5390
+                },
+                {
+                    "label": "kenjeran",
+                    "problem_id": "kenjeran",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 5387
+                }
+            ]
+        },
+        {
+            "rank": 31,
+            "team_id": "5025221076",
+            "score": {
+                "num_solved": 3,
+                "total_time": 19657
+            },
+            "problems": [
+                {
+                    "label": "CARDS",
+                    "problem_id": "CARDS",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 6512
+                },
+                {
+                    "label": "HELP",
+                    "problem_id": "HELP",
+                    "num_judged": 3,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 6582
+                },
+                {
+                    "label": "SLEEP",
+                    "problem_id": "SLEEP",
+                    "num_judged": 5,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "kenjeran",
+                    "problem_id": "kenjeran",
+                    "num_judged": 2,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 6503
+                }
+            ]
+        },
+        {
+            "rank": 32,
+            "team_id": "5025221098",
+            "score": {
+                "num_solved": 2,
+                "total_time": 10855
+            },
+            "problems": [
+                {
+                    "label": "CARDS",
+                    "problem_id": "CARDS",
+                    "num_judged": 5,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "HELP",
+                    "problem_id": "HELP",
+                    "num_judged": 2,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "SLEEP",
+                    "problem_id": "SLEEP",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 5294
+                },
+                {
+                    "label": "kenjeran",
+                    "problem_id": "kenjeran",
+                    "num_judged": 9,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 5401
+                }
+            ]
+        },
+        {
+            "rank": 33,
+            "team_id": "5025221110",
+            "score": {
+                "num_solved": 2,
+                "total_time": 13374
+            },
+            "problems": [
+                {
+                    "label": "CARDS",
+                    "problem_id": "CARDS",
+                    "num_judged": 3,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "HELP",
+                    "problem_id": "HELP",
+                    "num_judged": 4,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "SLEEP",
+                    "problem_id": "SLEEP",
+                    "num_judged": 11,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 6608
+                },
+                {
+                    "label": "kenjeran",
+                    "problem_id": "kenjeran",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 6566
+                }
+            ]
+        },
+        {
+            "rank": 34,
+            "team_id": "5025221099",
+            "score": {
+                "num_solved": 1,
+                "total_time": 4012
+            },
+            "problems": [
+                {
+                    "label": "CARDS",
+                    "problem_id": "CARDS",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "HELP",
+                    "problem_id": "HELP",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "SLEEP",
+                    "problem_id": "SLEEP",
+                    "num_judged": 7,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 3892
+                },
+                {
+                    "label": "kenjeran",
+                    "problem_id": "kenjeran",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                }
+            ]
+        },
+        {
+            "rank": 35,
+            "team_id": "5025221108",
+            "score": {
+                "num_solved": 1,
+                "total_time": 6537
+            },
+            "problems": [
+                {
+                    "label": "CARDS",
+                    "problem_id": "CARDS",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "HELP",
+                    "problem_id": "HELP",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 6537
+                },
+                {
+                    "label": "SLEEP",
+                    "problem_id": "SLEEP",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "kenjeran",
+                    "problem_id": "kenjeran",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                }
+            ]
+        },
+        {
+            "rank": 36,
+            "team_id": "7221300170",
+            "score": {
+                "num_solved": 0,
+                "total_time": 0
+            },
+            "problems": [
+                {
+                    "label": "CARDS",
+                    "problem_id": "CARDS",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "HELP",
+                    "problem_id": "HELP",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "SLEEP",
+                    "problem_id": "SLEEP",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "kenjeran",
+                    "problem_id": "kenjeran",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                }
+            ]
+        },
+        {
+            "rank": 36,
+            "team_id": "5025211264",
+            "score": {
+                "num_solved": 0,
+                "total_time": 0
+            },
+            "problems": [
+                {
+                    "label": "CARDS",
+                    "problem_id": "CARDS",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "HELP",
+                    "problem_id": "HELP",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "SLEEP",
+                    "problem_id": "SLEEP",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "kenjeran",
+                    "problem_id": "kenjeran",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                }
+            ]
+        },
+        {
+            "rank": 36,
+            "team_id": "5025221070",
+            "score": {
+                "num_solved": 0,
+                "total_time": 0
+            },
+            "problems": [
+                {
+                    "label": "CARDS",
+                    "problem_id": "CARDS",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "HELP",
+                    "problem_id": "HELP",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "SLEEP",
+                    "problem_id": "SLEEP",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "kenjeran",
+                    "problem_id": "kenjeran",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                }
+            ]
+        },
+        {
+            "rank": 36,
+            "team_id": "5025221071",
+            "score": {
+                "num_solved": 0,
+                "total_time": 0
+            },
+            "problems": [
+                {
+                    "label": "CARDS",
+                    "problem_id": "CARDS",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "HELP",
+                    "problem_id": "HELP",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "SLEEP",
+                    "problem_id": "SLEEP",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "kenjeran",
+                    "problem_id": "kenjeran",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                }
+            ]
+        },
+        {
+            "rank": 36,
+            "team_id": "5025221091",
+            "score": {
+                "num_solved": 0,
+                "total_time": 0
+            },
+            "problems": [
+                {
+                    "label": "CARDS",
+                    "problem_id": "CARDS",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "HELP",
+                    "problem_id": "HELP",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "SLEEP",
+                    "problem_id": "SLEEP",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "kenjeran",
+                    "problem_id": "kenjeran",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                }
+            ]
+        },
+        {
+            "rank": 36,
+            "team_id": "7221300048",
+            "score": {
+                "num_solved": 0,
+                "total_time": 0
+            },
+            "problems": [
+                {
+                    "label": "CARDS",
+                    "problem_id": "CARDS",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "HELP",
+                    "problem_id": "HELP",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "SLEEP",
+                    "problem_id": "SLEEP",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "kenjeran",
+                    "problem_id": "kenjeran",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                }
+            ]
+        }
+    ]
+}

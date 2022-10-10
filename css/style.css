@@ -5,9 +5,9 @@
     position: relative;
 }
 body {
-    background: #FFFFFF;
+    background: #ffffff;
     font-family: 'Ubuntu', 'Oxygen', sans-serif;
-    color: #08354f;
+    color: #000000;
 }
 header {
     display: flex;
@@ -15,10 +15,12 @@ header {
     align-items: center;
 }
 table, th, td{
-    border: 3px groove #08354f;
+    border: 3px groove #000000;
     border-collapse: collapse;
-    padding: 2px 3px;
+    padding: 10px;
     text-align: center;
+    font-size: large;
+    width: fit-content;
 }
 .HeaderText{
     font-size: 20px;
@@ -27,6 +29,26 @@ table, th, td{
     position: inherit;
 }
 .Center{
-    margin: 15vh auto;
-    width: 50%;
+    margin: 15vh 0;
+    display: flex;
+    justify-content: center;
+}
+.ScoreText{
+    font-size: x-large;
+    font-weight: bolder;
+}
+.PenaltyText{
+    font-size: small;
+}
+.TimeText{
+    font-weight: 800;
+}
+.TryText{
+    font-size: smaller;
+}
+.AC{
+    background-color: #60e760;
+}
+.WA{
+    background-color: #e87272;
 }

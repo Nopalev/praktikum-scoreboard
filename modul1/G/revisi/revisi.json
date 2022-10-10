@@ -1,0 +1,1747 @@
+{
+    "event_id": "91532",
+    "time": "2022-10-10T21:57:36.547+07:00",
+    "contest_time": "386:57:36.546",
+    "state": {
+        "started": "2022-09-24T19:00:00.000+07:00",
+        "ended": "2022-09-29T19:00:00.000+07:00",
+        "frozen": null,
+        "thawed": null,
+        "finalized": "2022-10-03T13:31:27.278+07:00",
+        "end_of_updates": "2022-10-03T13:31:27.278+07:00"
+    },
+    "rows": [
+        {
+            "rank": 1,
+            "team_id": "5025221028",
+            "score": {
+                "num_solved": 4,
+                "total_time": 7819
+            },
+            "problems": [
+                {
+                    "label": "DESIRE",
+                    "problem_id": "DESIRE",
+                    "num_judged": 7,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": true,
+                    "time": 794
+                },
+                {
+                    "label": "NABRAK",
+                    "problem_id": "NABRAK",
+                    "num_judged": 9,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 6649
+                },
+                {
+                    "label": "PerjalananDaniDimulai",
+                    "problem_id": "PDD",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": true,
+                    "time": 83
+                },
+                {
+                    "label": "SPS",
+                    "problem_id": "SPS",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": true,
+                    "time": 13
+                }
+            ]
+        },
+        {
+            "rank": 2,
+            "team_id": "5025221042",
+            "score": {
+                "num_solved": 4,
+                "total_time": 17903
+            },
+            "problems": [
+                {
+                    "label": "DESIRE",
+                    "problem_id": "DESIRE",
+                    "num_judged": 3,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 3081
+                },
+                {
+                    "label": "NABRAK",
+                    "problem_id": "NABRAK",
+                    "num_judged": 3,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": true,
+                    "time": 6465
+                },
+                {
+                    "label": "PerjalananDaniDimulai",
+                    "problem_id": "PDD",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 3029
+                },
+                {
+                    "label": "SPS",
+                    "problem_id": "SPS",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 5248
+                }
+            ]
+        },
+        {
+            "rank": 3,
+            "team_id": "5025221217",
+            "score": {
+                "num_solved": 3,
+                "total_time": 5111
+            },
+            "problems": [
+                {
+                    "label": "DESIRE",
+                    "problem_id": "DESIRE",
+                    "num_judged": 17,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 3711
+                },
+                {
+                    "label": "NABRAK",
+                    "problem_id": "NABRAK",
+                    "num_judged": 16,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "PerjalananDaniDimulai",
+                    "problem_id": "PDD",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 84
+                },
+                {
+                    "label": "SPS",
+                    "problem_id": "SPS",
+                    "num_judged": 2,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 976
+                }
+            ]
+        },
+        {
+            "rank": 4,
+            "team_id": "5025221117",
+            "score": {
+                "num_solved": 3,
+                "total_time": 7221
+            },
+            "problems": [
+                {
+                    "label": "DESIRE",
+                    "problem_id": "DESIRE",
+                    "num_judged": 8,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 3890
+                },
+                {
+                    "label": "NABRAK",
+                    "problem_id": "NABRAK",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "PerjalananDaniDimulai",
+                    "problem_id": "PDD",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 144
+                },
+                {
+                    "label": "SPS",
+                    "problem_id": "SPS",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 3047
+                }
+            ]
+        },
+        {
+            "rank": 5,
+            "team_id": "5025221203",
+            "score": {
+                "num_solved": 3,
+                "total_time": 7730
+            },
+            "problems": [
+                {
+                    "label": "DESIRE",
+                    "problem_id": "DESIRE",
+                    "num_judged": 8,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 3699
+                },
+                {
+                    "label": "NABRAK",
+                    "problem_id": "NABRAK",
+                    "num_judged": 3,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "PerjalananDaniDimulai",
+                    "problem_id": "PDD",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 3705
+                },
+                {
+                    "label": "SPS",
+                    "problem_id": "SPS",
+                    "num_judged": 4,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 126
+                }
+            ]
+        },
+        {
+            "rank": 6,
+            "team_id": "5025221252",
+            "score": {
+                "num_solved": 3,
+                "total_time": 9941
+            },
+            "problems": [
+                {
+                    "label": "DESIRE",
+                    "problem_id": "DESIRE",
+                    "num_judged": 12,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 4160
+                },
+                {
+                    "label": "NABRAK",
+                    "problem_id": "NABRAK",
+                    "num_judged": 6,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "PerjalananDaniDimulai",
+                    "problem_id": "PDD",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 1279
+                },
+                {
+                    "label": "SPS",
+                    "problem_id": "SPS",
+                    "num_judged": 3,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 4242
+                }
+            ]
+        },
+        {
+            "rank": 7,
+            "team_id": "5025221021",
+            "score": {
+                "num_solved": 3,
+                "total_time": 11293
+            },
+            "problems": [
+                {
+                    "label": "DESIRE",
+                    "problem_id": "DESIRE",
+                    "num_judged": 8,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 4070
+                },
+                {
+                    "label": "NABRAK",
+                    "problem_id": "NABRAK",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "PerjalananDaniDimulai",
+                    "problem_id": "PDD",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 3122
+                },
+                {
+                    "label": "SPS",
+                    "problem_id": "SPS",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 3961
+                }
+            ]
+        },
+        {
+            "rank": 8,
+            "team_id": "5025221014",
+            "score": {
+                "num_solved": 3,
+                "total_time": 12884
+            },
+            "problems": [
+                {
+                    "label": "DESIRE",
+                    "problem_id": "DESIRE",
+                    "num_judged": 3,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 5349
+                },
+                {
+                    "label": "NABRAK",
+                    "problem_id": "NABRAK",
+                    "num_judged": 3,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "PerjalananDaniDimulai",
+                    "problem_id": "PDD",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 3763
+                },
+                {
+                    "label": "SPS",
+                    "problem_id": "SPS",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 3732
+                }
+            ]
+        },
+        {
+            "rank": 9,
+            "team_id": "5025221168",
+            "score": {
+                "num_solved": 3,
+                "total_time": 14678
+            },
+            "problems": [
+                {
+                    "label": "DESIRE",
+                    "problem_id": "DESIRE",
+                    "num_judged": 2,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 3794
+                },
+                {
+                    "label": "NABRAK",
+                    "problem_id": "NABRAK",
+                    "num_judged": 4,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "PerjalananDaniDimulai",
+                    "problem_id": "PDD",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 3783
+                },
+                {
+                    "label": "SPS",
+                    "problem_id": "SPS",
+                    "num_judged": 6,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 6981
+                }
+            ]
+        },
+        {
+            "rank": 10,
+            "team_id": "5025221266",
+            "score": {
+                "num_solved": 3,
+                "total_time": 15088
+            },
+            "problems": [
+                {
+                    "label": "DESIRE",
+                    "problem_id": "DESIRE",
+                    "num_judged": 5,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 7040
+                },
+                {
+                    "label": "NABRAK",
+                    "problem_id": "NABRAK",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "PerjalananDaniDimulai",
+                    "problem_id": "PDD",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 3982
+                },
+                {
+                    "label": "SPS",
+                    "problem_id": "SPS",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 3986
+                }
+            ]
+        },
+        {
+            "rank": 11,
+            "team_id": "5025221146",
+            "score": {
+                "num_solved": 3,
+                "total_time": 16228
+            },
+            "problems": [
+                {
+                    "label": "DESIRE",
+                    "problem_id": "DESIRE",
+                    "num_judged": 11,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 6628
+                },
+                {
+                    "label": "NABRAK",
+                    "problem_id": "NABRAK",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "PerjalananDaniDimulai",
+                    "problem_id": "PDD",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 4027
+                },
+                {
+                    "label": "SPS",
+                    "problem_id": "SPS",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 5373
+                }
+            ]
+        },
+        {
+            "rank": 12,
+            "team_id": "5025221161",
+            "score": {
+                "num_solved": 3,
+                "total_time": 17167
+            },
+            "problems": [
+                {
+                    "label": "DESIRE",
+                    "problem_id": "DESIRE",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 6725
+                },
+                {
+                    "label": "NABRAK",
+                    "problem_id": "NABRAK",
+                    "num_judged": 9,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "PerjalananDaniDimulai",
+                    "problem_id": "PDD",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 5185
+                },
+                {
+                    "label": "SPS",
+                    "problem_id": "SPS",
+                    "num_judged": 3,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 5217
+                }
+            ]
+        },
+        {
+            "rank": 13,
+            "team_id": "5025221049",
+            "score": {
+                "num_solved": 3,
+                "total_time": 17562
+            },
+            "problems": [
+                {
+                    "label": "DESIRE",
+                    "problem_id": "DESIRE",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 5919
+                },
+                {
+                    "label": "NABRAK",
+                    "problem_id": "NABRAK",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "PerjalananDaniDimulai",
+                    "problem_id": "PDD",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 5723
+                },
+                {
+                    "label": "SPS",
+                    "problem_id": "SPS",
+                    "num_judged": 4,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 5860
+                }
+            ]
+        },
+        {
+            "rank": 14,
+            "team_id": "5025221231",
+            "score": {
+                "num_solved": 3,
+                "total_time": 17717
+            },
+            "problems": [
+                {
+                    "label": "DESIRE",
+                    "problem_id": "DESIRE",
+                    "num_judged": 7,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 6980
+                },
+                {
+                    "label": "NABRAK",
+                    "problem_id": "NABRAK",
+                    "num_judged": 2,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "PerjalananDaniDimulai",
+                    "problem_id": "PDD",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 5303
+                },
+                {
+                    "label": "SPS",
+                    "problem_id": "SPS",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 5314
+                }
+            ]
+        },
+        {
+            "rank": 15,
+            "team_id": "5025221131",
+            "score": {
+                "num_solved": 3,
+                "total_time": 17925
+            },
+            "problems": [
+                {
+                    "label": "DESIRE",
+                    "problem_id": "DESIRE",
+                    "num_judged": 13,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 6628
+                },
+                {
+                    "label": "NABRAK",
+                    "problem_id": "NABRAK",
+                    "num_judged": 4,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "PerjalananDaniDimulai",
+                    "problem_id": "PDD",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 5701
+                },
+                {
+                    "label": "SPS",
+                    "problem_id": "SPS",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 5356
+                }
+            ]
+        },
+        {
+            "rank": 16,
+            "team_id": "5025221035",
+            "score": {
+                "num_solved": 3,
+                "total_time": 18923
+            },
+            "problems": [
+                {
+                    "label": "DESIRE",
+                    "problem_id": "DESIRE",
+                    "num_judged": 14,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 7139
+                },
+                {
+                    "label": "NABRAK",
+                    "problem_id": "NABRAK",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "PerjalananDaniDimulai",
+                    "problem_id": "PDD",
+                    "num_judged": 4,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 4275
+                },
+                {
+                    "label": "SPS",
+                    "problem_id": "SPS",
+                    "num_judged": 2,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 7169
+                }
+            ]
+        },
+        {
+            "rank": 17,
+            "team_id": "5025221154",
+            "score": {
+                "num_solved": 3,
+                "total_time": 19285
+            },
+            "problems": [
+                {
+                    "label": "DESIRE",
+                    "problem_id": "DESIRE",
+                    "num_judged": 14,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 7080
+                },
+                {
+                    "label": "NABRAK",
+                    "problem_id": "NABRAK",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "PerjalananDaniDimulai",
+                    "problem_id": "PDD",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 5967
+                },
+                {
+                    "label": "SPS",
+                    "problem_id": "SPS",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 5978
+                }
+            ]
+        },
+        {
+            "rank": 18,
+            "team_id": "5025221138",
+            "score": {
+                "num_solved": 3,
+                "total_time": 19649
+            },
+            "problems": [
+                {
+                    "label": "DESIRE",
+                    "problem_id": "DESIRE",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 6572
+                },
+                {
+                    "label": "NABRAK",
+                    "problem_id": "NABRAK",
+                    "num_judged": 3,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "PerjalananDaniDimulai",
+                    "problem_id": "PDD",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 6540
+                },
+                {
+                    "label": "SPS",
+                    "problem_id": "SPS",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 6537
+                }
+            ]
+        },
+        {
+            "rank": 19,
+            "team_id": "5025221308",
+            "score": {
+                "num_solved": 3,
+                "total_time": 20213
+            },
+            "problems": [
+                {
+                    "label": "DESIRE",
+                    "problem_id": "DESIRE",
+                    "num_judged": 10,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 6605
+                },
+                {
+                    "label": "NABRAK",
+                    "problem_id": "NABRAK",
+                    "num_judged": 3,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "PerjalananDaniDimulai",
+                    "problem_id": "PDD",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 6613
+                },
+                {
+                    "label": "SPS",
+                    "problem_id": "SPS",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 6815
+                }
+            ]
+        },
+        {
+            "rank": 20,
+            "team_id": "5025221294",
+            "score": {
+                "num_solved": 3,
+                "total_time": 20307
+            },
+            "problems": [
+                {
+                    "label": "DESIRE",
+                    "problem_id": "DESIRE",
+                    "num_judged": 8,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 6984
+                },
+                {
+                    "label": "NABRAK",
+                    "problem_id": "NABRAK",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "PerjalananDaniDimulai",
+                    "problem_id": "PDD",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 6596
+                },
+                {
+                    "label": "SPS",
+                    "problem_id": "SPS",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 6587
+                }
+            ]
+        },
+        {
+            "rank": 21,
+            "team_id": "5025221273",
+            "score": {
+                "num_solved": 3,
+                "total_time": 20830
+            },
+            "problems": [
+                {
+                    "label": "DESIRE",
+                    "problem_id": "DESIRE",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 7065
+                },
+                {
+                    "label": "NABRAK",
+                    "problem_id": "NABRAK",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "PerjalananDaniDimulai",
+                    "problem_id": "PDD",
+                    "num_judged": 7,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 7088
+                },
+                {
+                    "label": "SPS",
+                    "problem_id": "SPS",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 6557
+                }
+            ]
+        },
+        {
+            "rank": 22,
+            "team_id": "5025221063",
+            "score": {
+                "num_solved": 3,
+                "total_time": 20945
+            },
+            "problems": [
+                {
+                    "label": "DESIRE",
+                    "problem_id": "DESIRE",
+                    "num_judged": 4,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 6866
+                },
+                {
+                    "label": "NABRAK",
+                    "problem_id": "NABRAK",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "PerjalananDaniDimulai",
+                    "problem_id": "PDD",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 6936
+                },
+                {
+                    "label": "SPS",
+                    "problem_id": "SPS",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 7083
+                }
+            ]
+        },
+        {
+            "rank": 23,
+            "team_id": "5025221056",
+            "score": {
+                "num_solved": 3,
+                "total_time": 21011
+            },
+            "problems": [
+                {
+                    "label": "DESIRE",
+                    "problem_id": "DESIRE",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 7040
+                },
+                {
+                    "label": "NABRAK",
+                    "problem_id": "NABRAK",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "PerjalananDaniDimulai",
+                    "problem_id": "PDD",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 6962
+                },
+                {
+                    "label": "SPS",
+                    "problem_id": "SPS",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 7009
+                }
+            ]
+        },
+        {
+            "rank": 24,
+            "team_id": "5025221189",
+            "score": {
+                "num_solved": 3,
+                "total_time": 21187
+            },
+            "problems": [
+                {
+                    "label": "DESIRE",
+                    "problem_id": "DESIRE",
+                    "num_judged": 12,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 7187
+                },
+                {
+                    "label": "NABRAK",
+                    "problem_id": "NABRAK",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "PerjalananDaniDimulai",
+                    "problem_id": "PDD",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 6734
+                },
+                {
+                    "label": "SPS",
+                    "problem_id": "SPS",
+                    "num_judged": 2,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 7026
+                }
+            ]
+        },
+        {
+            "rank": 25,
+            "team_id": "5025221301",
+            "score": {
+                "num_solved": 3,
+                "total_time": 21381
+            },
+            "problems": [
+                {
+                    "label": "DESIRE",
+                    "problem_id": "DESIRE",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 7146
+                },
+                {
+                    "label": "NABRAK",
+                    "problem_id": "NABRAK",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "PerjalananDaniDimulai",
+                    "problem_id": "PDD",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 7105
+                },
+                {
+                    "label": "SPS",
+                    "problem_id": "SPS",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 7130
+                }
+            ]
+        },
+        {
+            "rank": 26,
+            "team_id": "5025221224",
+            "score": {
+                "num_solved": 3,
+                "total_time": 21447
+            },
+            "problems": [
+                {
+                    "label": "DESIRE",
+                    "problem_id": "DESIRE",
+                    "num_judged": 2,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 7154
+                },
+                {
+                    "label": "NABRAK",
+                    "problem_id": "NABRAK",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "PerjalananDaniDimulai",
+                    "problem_id": "PDD",
+                    "num_judged": 5,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 7089
+                },
+                {
+                    "label": "SPS",
+                    "problem_id": "SPS",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 7104
+                }
+            ]
+        },
+        {
+            "rank": 27,
+            "team_id": "5025221175",
+            "score": {
+                "num_solved": 3,
+                "total_time": 21507
+            },
+            "problems": [
+                {
+                    "label": "DESIRE",
+                    "problem_id": "DESIRE",
+                    "num_judged": 2,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 7191
+                },
+                {
+                    "label": "NABRAK",
+                    "problem_id": "NABRAK",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "PerjalananDaniDimulai",
+                    "problem_id": "PDD",
+                    "num_judged": 4,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 7107
+                },
+                {
+                    "label": "SPS",
+                    "problem_id": "SPS",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 7129
+                }
+            ]
+        },
+        {
+            "rank": 28,
+            "team_id": "5025221196",
+            "score": {
+                "num_solved": 2,
+                "total_time": 10583
+            },
+            "problems": [
+                {
+                    "label": "DESIRE",
+                    "problem_id": "DESIRE",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "NABRAK",
+                    "problem_id": "NABRAK",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "PerjalananDaniDimulai",
+                    "problem_id": "PDD",
+                    "num_judged": 3,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 3914
+                },
+                {
+                    "label": "SPS",
+                    "problem_id": "SPS",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 6629
+                }
+            ]
+        },
+        {
+            "rank": 29,
+            "team_id": "5025221280",
+            "score": {
+                "num_solved": 2,
+                "total_time": 13849
+            },
+            "problems": [
+                {
+                    "label": "DESIRE",
+                    "problem_id": "DESIRE",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "NABRAK",
+                    "problem_id": "NABRAK",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "PerjalananDaniDimulai",
+                    "problem_id": "PDD",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 6732
+                },
+                {
+                    "label": "SPS",
+                    "problem_id": "SPS",
+                    "num_judged": 5,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 7037
+                }
+            ]
+        },
+        {
+            "rank": 30,
+            "team_id": "5025221259",
+            "score": {
+                "num_solved": 2,
+                "total_time": 14007
+            },
+            "problems": [
+                {
+                    "label": "DESIRE",
+                    "problem_id": "DESIRE",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "NABRAK",
+                    "problem_id": "NABRAK",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "PerjalananDaniDimulai",
+                    "problem_id": "PDD",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 6914
+                },
+                {
+                    "label": "SPS",
+                    "problem_id": "SPS",
+                    "num_judged": 9,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 6933
+                }
+            ]
+        },
+        {
+            "rank": 31,
+            "team_id": "5025221007",
+            "score": {
+                "num_solved": 2,
+                "total_time": 14365
+            },
+            "problems": [
+                {
+                    "label": "DESIRE",
+                    "problem_id": "DESIRE",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "NABRAK",
+                    "problem_id": "NABRAK",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "PerjalananDaniDimulai",
+                    "problem_id": "PDD",
+                    "num_judged": 2,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 7134
+                },
+                {
+                    "label": "SPS",
+                    "problem_id": "SPS",
+                    "num_judged": 5,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 7131
+                }
+            ]
+        },
+        {
+            "rank": 32,
+            "team_id": "5025221238",
+            "score": {
+                "num_solved": 1,
+                "total_time": 5969
+            },
+            "problems": [
+                {
+                    "label": "DESIRE",
+                    "problem_id": "DESIRE",
+                    "num_judged": 2,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "NABRAK",
+                    "problem_id": "NABRAK",
+                    "num_judged": 3,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "PerjalananDaniDimulai",
+                    "problem_id": "PDD",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 5969
+                },
+                {
+                    "label": "SPS",
+                    "problem_id": "SPS",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                }
+            ]
+        },
+        {
+            "rank": 33,
+            "team_id": "5025221210",
+            "score": {
+                "num_solved": 1,
+                "total_time": 6800
+            },
+            "problems": [
+                {
+                    "label": "DESIRE",
+                    "problem_id": "DESIRE",
+                    "num_judged": 3,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "NABRAK",
+                    "problem_id": "NABRAK",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "PerjalananDaniDimulai",
+                    "problem_id": "PDD",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 6800
+                },
+                {
+                    "label": "SPS",
+                    "problem_id": "SPS",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                }
+            ]
+        },
+        {
+            "rank": 34,
+            "team_id": "5025221315",
+            "score": {
+                "num_solved": 1,
+                "total_time": 7250
+            },
+            "problems": [
+                {
+                    "label": "DESIRE",
+                    "problem_id": "DESIRE",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "NABRAK",
+                    "problem_id": "NABRAK",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "PerjalananDaniDimulai",
+                    "problem_id": "PDD",
+                    "num_judged": 4,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 7190
+                },
+                {
+                    "label": "SPS",
+                    "problem_id": "SPS",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                }
+            ]
+        },
+        {
+            "rank": 35,
+            "team_id": "5025221105",
+            "score": {
+                "num_solved": 0,
+                "total_time": 0
+            },
+            "problems": [
+                {
+                    "label": "DESIRE",
+                    "problem_id": "DESIRE",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "NABRAK",
+                    "problem_id": "NABRAK",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "PerjalananDaniDimulai",
+                    "problem_id": "PDD",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "SPS",
+                    "problem_id": "SPS",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                }
+            ]
+        },
+        {
+            "rank": 35,
+            "team_id": "5025221287",
+            "score": {
+                "num_solved": 0,
+                "total_time": 0
+            },
+            "problems": [
+                {
+                    "label": "DESIRE",
+                    "problem_id": "DESIRE",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "NABRAK",
+                    "problem_id": "NABRAK",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "PerjalananDaniDimulai",
+                    "problem_id": "PDD",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "SPS",
+                    "problem_id": "SPS",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                }
+            ]
+        },
+        {
+            "rank": 35,
+            "team_id": "5025221245",
+            "score": {
+                "num_solved": 0,
+                "total_time": 0
+            },
+            "problems": [
+                {
+                    "label": "DESIRE",
+                    "problem_id": "DESIRE",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "NABRAK",
+                    "problem_id": "NABRAK",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "PerjalananDaniDimulai",
+                    "problem_id": "PDD",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "SPS",
+                    "problem_id": "SPS",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                }
+            ]
+        },
+        {
+            "rank": 35,
+            "team_id": "5025221182",
+            "score": {
+                "num_solved": 0,
+                "total_time": 0
+            },
+            "problems": [
+                {
+                    "label": "DESIRE",
+                    "problem_id": "DESIRE",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "NABRAK",
+                    "problem_id": "NABRAK",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "PerjalananDaniDimulai",
+                    "problem_id": "PDD",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "SPS",
+                    "problem_id": "SPS",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                }
+            ]
+        },
+        {
+            "rank": 35,
+            "team_id": "5025221124",
+            "score": {
+                "num_solved": 0,
+                "total_time": 0
+            },
+            "problems": [
+                {
+                    "label": "DESIRE",
+                    "problem_id": "DESIRE",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "NABRAK",
+                    "problem_id": "NABRAK",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "PerjalananDaniDimulai",
+                    "problem_id": "PDD",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "SPS",
+                    "problem_id": "SPS",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                }
+            ]
+        }
+    ]
+}
