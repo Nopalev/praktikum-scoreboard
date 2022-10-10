@@ -1,0 +1,32 @@
+* { 
+    margin:0; 
+    padding:0; 
+    box-sizing:border-box;
+    position: relative;
+}
+body {
+    background: #FFFFFF;
+    font-family: 'Ubuntu', 'Oxygen', sans-serif;
+    color: #08354f;
+}
+header {
+    display: flex;
+    height: 8vh;
+    align-items: center;
+}
+table, th, td{
+    border: 3px groove #08354f;
+    border-collapse: collapse;
+    padding: 2px 3px;
+    text-align: center;
+}
+.HeaderText{
+    font-size: 20px;
+    font-weight: bolder;
+    margin: 0 0 0 6vw;
+    position: inherit;
+}
+.Center{
+    margin: 15vh auto;
+    width: 50%;
+}

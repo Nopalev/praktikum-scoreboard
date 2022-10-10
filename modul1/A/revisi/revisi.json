@@ -1,0 +1,1827 @@
+{
+    "event_id": "80209",
+    "time": "2022-10-07T17:06:45.748+07:00",
+    "contest_time": "310:06:45.747",
+    "state": {
+        "started": "2022-09-24T19:00:00.000+07:00",
+        "ended": "2022-09-29T19:00:00.000+07:00",
+        "frozen": null,
+        "thawed": null,
+        "finalized": "2022-10-03T13:31:06.256+07:00",
+        "end_of_updates": "2022-10-03T13:31:06.256+07:00"
+    },
+    "rows": [
+        {
+            "rank": 1,
+            "team_id": "5025221001",
+            "score": {
+                "num_solved": 4,
+                "total_time": 5372
+            },
+            "problems": [
+                {
+                    "label": "DTS",
+                    "problem_id": "DTS",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": true,
+                    "time": 236
+                },
+                {
+                    "label": "DV",
+                    "problem_id": "DV",
+                    "num_judged": 29,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 4085
+                },
+                {
+                    "label": "SLMT",
+                    "problem_id": "Soulmate",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": true,
+                    "time": 236
+                },
+                {
+                    "label": "SS",
+                    "problem_id": "SS",
+                    "num_judged": 2,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": true,
+                    "time": 235
+                }
+            ]
+        },
+        {
+            "rank": 2,
+            "team_id": "5025221260",
+            "score": {
+                "num_solved": 4,
+                "total_time": 6823
+            },
+            "problems": [
+                {
+                    "label": "DTS",
+                    "problem_id": "DTS",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 742
+                },
+                {
+                    "label": "DV",
+                    "problem_id": "DV",
+                    "num_judged": 14,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 4280
+                },
+                {
+                    "label": "SLMT",
+                    "problem_id": "Soulmate",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 742
+                },
+                {
+                    "label": "SS",
+                    "problem_id": "SS",
+                    "num_judged": 3,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 759
+                }
+            ]
+        },
+        {
+            "rank": 3,
+            "team_id": "5025221288",
+            "score": {
+                "num_solved": 4,
+                "total_time": 9671
+            },
+            "problems": [
+                {
+                    "label": "DTS",
+                    "problem_id": "DTS",
+                    "num_judged": 8,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 3118
+                },
+                {
+                    "label": "DV",
+                    "problem_id": "DV",
+                    "num_judged": 8,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 4108
+                },
+                {
+                    "label": "SLMT",
+                    "problem_id": "Soulmate",
+                    "num_judged": 2,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 1057
+                },
+                {
+                    "label": "SS",
+                    "problem_id": "SS",
+                    "num_judged": 2,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 1068
+                }
+            ]
+        },
+        {
+            "rank": 4,
+            "team_id": "5025221125",
+            "score": {
+                "num_solved": 4,
+                "total_time": 15152
+            },
+            "problems": [
+                {
+                    "label": "DTS",
+                    "problem_id": "DTS",
+                    "num_judged": 7,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 4220
+                },
+                {
+                    "label": "DV",
+                    "problem_id": "DV",
+                    "num_judged": 4,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 6594
+                },
+                {
+                    "label": "SLMT",
+                    "problem_id": "Soulmate",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 3836
+                },
+                {
+                    "label": "SS",
+                    "problem_id": "SS",
+                    "num_judged": 2,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 302
+                }
+            ]
+        },
+        {
+            "rank": 5,
+            "team_id": "5025221155",
+            "score": {
+                "num_solved": 4,
+                "total_time": 15306
+            },
+            "problems": [
+                {
+                    "label": "DTS",
+                    "problem_id": "DTS",
+                    "num_judged": 2,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 3042
+                },
+                {
+                    "label": "DV",
+                    "problem_id": "DV",
+                    "num_judged": 10,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 5912
+                },
+                {
+                    "label": "SLMT",
+                    "problem_id": "Soulmate",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 3030
+                },
+                {
+                    "label": "SS",
+                    "problem_id": "SS",
+                    "num_judged": 3,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 3082
+                }
+            ]
+        },
+        {
+            "rank": 6,
+            "team_id": "5025221050",
+            "score": {
+                "num_solved": 4,
+                "total_time": 16056
+            },
+            "problems": [
+                {
+                    "label": "DTS",
+                    "problem_id": "DTS",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 3652
+                },
+                {
+                    "label": "DV",
+                    "problem_id": "DV",
+                    "num_judged": 8,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 5874
+                },
+                {
+                    "label": "SLMT",
+                    "problem_id": "Soulmate",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 3166
+                },
+                {
+                    "label": "SS",
+                    "problem_id": "SS",
+                    "num_judged": 4,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 3164
+                }
+            ]
+        },
+        {
+            "rank": 7,
+            "team_id": "5025221183",
+            "score": {
+                "num_solved": 4,
+                "total_time": 16403
+            },
+            "problems": [
+                {
+                    "label": "DTS",
+                    "problem_id": "DTS",
+                    "num_judged": 3,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 3101
+                },
+                {
+                    "label": "DV",
+                    "problem_id": "DV",
+                    "num_judged": 7,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 7003
+                },
+                {
+                    "label": "SLMT",
+                    "problem_id": "Soulmate",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 3032
+                },
+                {
+                    "label": "SS",
+                    "problem_id": "SS",
+                    "num_judged": 4,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 3047
+                }
+            ]
+        },
+        {
+            "rank": 8,
+            "team_id": "5025221190",
+            "score": {
+                "num_solved": 4,
+                "total_time": 17501
+            },
+            "problems": [
+                {
+                    "label": "DTS",
+                    "problem_id": "DTS",
+                    "num_judged": 4,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 4057
+                },
+                {
+                    "label": "DV",
+                    "problem_id": "DV",
+                    "num_judged": 13,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 6093
+                },
+                {
+                    "label": "SLMT",
+                    "problem_id": "Soulmate",
+                    "num_judged": 4,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 3892
+                },
+                {
+                    "label": "SS",
+                    "problem_id": "SS",
+                    "num_judged": 2,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 3079
+                }
+            ]
+        },
+        {
+            "rank": 9,
+            "team_id": "5025221267",
+            "score": {
+                "num_solved": 4,
+                "total_time": 18365
+            },
+            "problems": [
+                {
+                    "label": "DTS",
+                    "problem_id": "DTS",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 3740
+                },
+                {
+                    "label": "DV",
+                    "problem_id": "DV",
+                    "num_judged": 14,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 6834
+                },
+                {
+                    "label": "SLMT",
+                    "problem_id": "Soulmate",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 3740
+                },
+                {
+                    "label": "SS",
+                    "problem_id": "SS",
+                    "num_judged": 2,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 3771
+                }
+            ]
+        },
+        {
+            "rank": 10,
+            "team_id": "5025221132",
+            "score": {
+                "num_solved": 4,
+                "total_time": 19845
+            },
+            "problems": [
+                {
+                    "label": "DTS",
+                    "problem_id": "DTS",
+                    "num_judged": 4,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 4067
+                },
+                {
+                    "label": "DV",
+                    "problem_id": "DV",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 6085
+                },
+                {
+                    "label": "SLMT",
+                    "problem_id": "Soulmate",
+                    "num_judged": 3,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 3834
+                },
+                {
+                    "label": "SS",
+                    "problem_id": "SS",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 5759
+                }
+            ]
+        },
+        {
+            "rank": 11,
+            "team_id": "5025221197",
+            "score": {
+                "num_solved": 4,
+                "total_time": 20133
+            },
+            "problems": [
+                {
+                    "label": "DTS",
+                    "problem_id": "DTS",
+                    "num_judged": 3,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 5611
+                },
+                {
+                    "label": "DV",
+                    "problem_id": "DV",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 6757
+                },
+                {
+                    "label": "SLMT",
+                    "problem_id": "Soulmate",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 3855
+                },
+                {
+                    "label": "SS",
+                    "problem_id": "SS",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 3870
+                }
+            ]
+        },
+        {
+            "rank": 12,
+            "team_id": "5025221218",
+            "score": {
+                "num_solved": 4,
+                "total_time": 20212
+            },
+            "problems": [
+                {
+                    "label": "DTS",
+                    "problem_id": "DTS",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 5541
+                },
+                {
+                    "label": "DV",
+                    "problem_id": "DV",
+                    "num_judged": 11,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 6924
+                },
+                {
+                    "label": "SLMT",
+                    "problem_id": "Soulmate",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 3773
+                },
+                {
+                    "label": "SS",
+                    "problem_id": "SS",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 3774
+                }
+            ]
+        },
+        {
+            "rank": 13,
+            "team_id": "5025221015",
+            "score": {
+                "num_solved": 4,
+                "total_time": 21234
+            },
+            "problems": [
+                {
+                    "label": "DTS",
+                    "problem_id": "DTS",
+                    "num_judged": 4,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 6672
+                },
+                {
+                    "label": "DV",
+                    "problem_id": "DV",
+                    "num_judged": 10,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 6740
+                },
+                {
+                    "label": "SLMT",
+                    "problem_id": "Soulmate",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 3791
+                },
+                {
+                    "label": "SS",
+                    "problem_id": "SS",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 3791
+                }
+            ]
+        },
+        {
+            "rank": 14,
+            "team_id": "5025221274",
+            "score": {
+                "num_solved": 4,
+                "total_time": 21982
+            },
+            "problems": [
+                {
+                    "label": "DTS",
+                    "problem_id": "DTS",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 6738
+                },
+                {
+                    "label": "DV",
+                    "problem_id": "DV",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 6675
+                },
+                {
+                    "label": "SLMT",
+                    "problem_id": "Soulmate",
+                    "num_judged": 3,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 4448
+                },
+                {
+                    "label": "SS",
+                    "problem_id": "SS",
+                    "num_judged": 2,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 4061
+                }
+            ]
+        },
+        {
+            "rank": 15,
+            "team_id": "5025221057",
+            "score": {
+                "num_solved": 4,
+                "total_time": 23459
+            },
+            "problems": [
+                {
+                    "label": "DTS",
+                    "problem_id": "DTS",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 5659
+                },
+                {
+                    "label": "DV",
+                    "problem_id": "DV",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 6745
+                },
+                {
+                    "label": "SLMT",
+                    "problem_id": "Soulmate",
+                    "num_judged": 4,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 5385
+                },
+                {
+                    "label": "SS",
+                    "problem_id": "SS",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 5610
+                }
+            ]
+        },
+        {
+            "rank": 16,
+            "team_id": "5025221246",
+            "score": {
+                "num_solved": 4,
+                "total_time": 23490
+            },
+            "problems": [
+                {
+                    "label": "DTS",
+                    "problem_id": "DTS",
+                    "num_judged": 4,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 5599
+                },
+                {
+                    "label": "DV",
+                    "problem_id": "DV",
+                    "num_judged": 5,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 6730
+                },
+                {
+                    "label": "SLMT",
+                    "problem_id": "Soulmate",
+                    "num_judged": 4,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 5615
+                },
+                {
+                    "label": "SS",
+                    "problem_id": "SS",
+                    "num_judged": 2,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 5326
+                }
+            ]
+        },
+        {
+            "rank": 17,
+            "team_id": "5025221064",
+            "score": {
+                "num_solved": 4,
+                "total_time": 23854
+            },
+            "problems": [
+                {
+                    "label": "DTS",
+                    "problem_id": "DTS",
+                    "num_judged": 3,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 5956
+                },
+                {
+                    "label": "DV",
+                    "problem_id": "DV",
+                    "num_judged": 2,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 5949
+                },
+                {
+                    "label": "SLMT",
+                    "problem_id": "Soulmate",
+                    "num_judged": 6,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 5811
+                },
+                {
+                    "label": "SS",
+                    "problem_id": "SS",
+                    "num_judged": 2,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 5958
+                }
+            ]
+        },
+        {
+            "rank": 18,
+            "team_id": "5025221232",
+            "score": {
+                "num_solved": 4,
+                "total_time": 24000
+            },
+            "problems": [
+                {
+                    "label": "DTS",
+                    "problem_id": "DTS",
+                    "num_judged": 2,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 6585
+                },
+                {
+                    "label": "DV",
+                    "problem_id": "DV",
+                    "num_judged": 6,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 6881
+                },
+                {
+                    "label": "SLMT",
+                    "problem_id": "Soulmate",
+                    "num_judged": 2,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 3782
+                },
+                {
+                    "label": "SS",
+                    "problem_id": "SS",
+                    "num_judged": 2,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 6592
+                }
+            ]
+        },
+        {
+            "rank": 19,
+            "team_id": "5025221036",
+            "score": {
+                "num_solved": 4,
+                "total_time": 24177
+            },
+            "problems": [
+                {
+                    "label": "DTS",
+                    "problem_id": "DTS",
+                    "num_judged": 4,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 3907
+                },
+                {
+                    "label": "DV",
+                    "problem_id": "DV",
+                    "num_judged": 11,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 6738
+                },
+                {
+                    "label": "SLMT",
+                    "problem_id": "Soulmate",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 6636
+                },
+                {
+                    "label": "SS",
+                    "problem_id": "SS",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 6636
+                }
+            ]
+        },
+        {
+            "rank": 20,
+            "team_id": "5025221008",
+            "score": {
+                "num_solved": 4,
+                "total_time": 25196
+            },
+            "problems": [
+                {
+                    "label": "DTS",
+                    "problem_id": "DTS",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 7077
+                },
+                {
+                    "label": "DV",
+                    "problem_id": "DV",
+                    "num_judged": 3,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 7191
+                },
+                {
+                    "label": "SLMT",
+                    "problem_id": "Soulmate",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 3780
+                },
+                {
+                    "label": "SS",
+                    "problem_id": "SS",
+                    "num_judged": 2,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 7088
+                }
+            ]
+        },
+        {
+            "rank": 21,
+            "team_id": "5025221139",
+            "score": {
+                "num_solved": 4,
+                "total_time": 25392
+            },
+            "problems": [
+                {
+                    "label": "DTS",
+                    "problem_id": "DTS",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 7125
+                },
+                {
+                    "label": "DV",
+                    "problem_id": "DV",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 7103
+                },
+                {
+                    "label": "SLMT",
+                    "problem_id": "Soulmate",
+                    "num_judged": 2,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 4412
+                },
+                {
+                    "label": "SS",
+                    "problem_id": "SS",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 6732
+                }
+            ]
+        },
+        {
+            "rank": 22,
+            "team_id": "5025221281",
+            "score": {
+                "num_solved": 4,
+                "total_time": 25879
+            },
+            "problems": [
+                {
+                    "label": "DTS",
+                    "problem_id": "DTS",
+                    "num_judged": 6,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 6764
+                },
+                {
+                    "label": "DV",
+                    "problem_id": "DV",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 6723
+                },
+                {
+                    "label": "SLMT",
+                    "problem_id": "Soulmate",
+                    "num_judged": 2,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 5648
+                },
+                {
+                    "label": "SS",
+                    "problem_id": "SS",
+                    "num_judged": 3,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 6584
+                }
+            ]
+        },
+        {
+            "rank": 23,
+            "team_id": "5025221029",
+            "score": {
+                "num_solved": 4,
+                "total_time": 27044
+            },
+            "problems": [
+                {
+                    "label": "DTS",
+                    "problem_id": "DTS",
+                    "num_judged": 4,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 6745
+                },
+                {
+                    "label": "DV",
+                    "problem_id": "DV",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 6778
+                },
+                {
+                    "label": "SLMT",
+                    "problem_id": "Soulmate",
+                    "num_judged": 3,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 6684
+                },
+                {
+                    "label": "SS",
+                    "problem_id": "SS",
+                    "num_judged": 3,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 6697
+                }
+            ]
+        },
+        {
+            "rank": 24,
+            "team_id": "5025221295",
+            "score": {
+                "num_solved": 4,
+                "total_time": 27386
+            },
+            "problems": [
+                {
+                    "label": "DTS",
+                    "problem_id": "DTS",
+                    "num_judged": 2,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 6773
+                },
+                {
+                    "label": "DV",
+                    "problem_id": "DV",
+                    "num_judged": 4,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 6854
+                },
+                {
+                    "label": "SLMT",
+                    "problem_id": "Soulmate",
+                    "num_judged": 6,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 6806
+                },
+                {
+                    "label": "SS",
+                    "problem_id": "SS",
+                    "num_judged": 2,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 6753
+                }
+            ]
+        },
+        {
+            "rank": 25,
+            "team_id": "5025221239",
+            "score": {
+                "num_solved": 4,
+                "total_time": 27899
+            },
+            "problems": [
+                {
+                    "label": "DTS",
+                    "problem_id": "DTS",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 7088
+                },
+                {
+                    "label": "DV",
+                    "problem_id": "DV",
+                    "num_judged": 3,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 7193
+                },
+                {
+                    "label": "SLMT",
+                    "problem_id": "Soulmate",
+                    "num_judged": 6,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 6801
+                },
+                {
+                    "label": "SS",
+                    "problem_id": "SS",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 6677
+                }
+            ]
+        },
+        {
+            "rank": 26,
+            "team_id": "5025221316",
+            "score": {
+                "num_solved": 4,
+                "total_time": 28421
+            },
+            "problems": [
+                {
+                    "label": "DTS",
+                    "problem_id": "DTS",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 6940
+                },
+                {
+                    "label": "DV",
+                    "problem_id": "DV",
+                    "num_judged": 5,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 7196
+                },
+                {
+                    "label": "SLMT",
+                    "problem_id": "Soulmate",
+                    "num_judged": 7,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 6925
+                },
+                {
+                    "label": "SS",
+                    "problem_id": "SS",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 7160
+                }
+            ]
+        },
+        {
+            "rank": 27,
+            "team_id": "5025221162",
+            "score": {
+                "num_solved": 4,
+                "total_time": 28683
+            },
+            "problems": [
+                {
+                    "label": "DTS",
+                    "problem_id": "DTS",
+                    "num_judged": 3,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 7165
+                },
+                {
+                    "label": "DV",
+                    "problem_id": "DV",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 7160
+                },
+                {
+                    "label": "SLMT",
+                    "problem_id": "Soulmate",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 7158
+                },
+                {
+                    "label": "SS",
+                    "problem_id": "SS",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 7160
+                }
+            ]
+        },
+        {
+            "rank": 28,
+            "team_id": "5025221176",
+            "score": {
+                "num_solved": 3,
+                "total_time": 11660
+            },
+            "problems": [
+                {
+                    "label": "DTS",
+                    "problem_id": "DTS",
+                    "num_judged": 6,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 3917
+                },
+                {
+                    "label": "DV",
+                    "problem_id": "DV",
+                    "num_judged": 2,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "SLMT",
+                    "problem_id": "Soulmate",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 3845
+                },
+                {
+                    "label": "SS",
+                    "problem_id": "SS",
+                    "num_judged": 3,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 3758
+                }
+            ]
+        },
+        {
+            "rank": 29,
+            "team_id": "5025221204",
+            "score": {
+                "num_solved": 3,
+                "total_time": 17917
+            },
+            "problems": [
+                {
+                    "label": "DTS",
+                    "problem_id": "DTS",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 6106
+                },
+                {
+                    "label": "DV",
+                    "problem_id": "DV",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "SLMT",
+                    "problem_id": "Soulmate",
+                    "num_judged": 3,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 5844
+                },
+                {
+                    "label": "SS",
+                    "problem_id": "SS",
+                    "num_judged": 4,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 5867
+                }
+            ]
+        },
+        {
+            "rank": 30,
+            "team_id": "5025221211",
+            "score": {
+                "num_solved": 3,
+                "total_time": 18134
+            },
+            "problems": [
+                {
+                    "label": "DTS",
+                    "problem_id": "DTS",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "DV",
+                    "problem_id": "DV",
+                    "num_judged": 6,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 7137
+                },
+                {
+                    "label": "SLMT",
+                    "problem_id": "Soulmate",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 7083
+                },
+                {
+                    "label": "SS",
+                    "problem_id": "SS",
+                    "num_judged": 2,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 3794
+                }
+            ]
+        },
+        {
+            "rank": 31,
+            "team_id": "5025221302",
+            "score": {
+                "num_solved": 3,
+                "total_time": 18874
+            },
+            "problems": [
+                {
+                    "label": "DTS",
+                    "problem_id": "DTS",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 6900
+                },
+                {
+                    "label": "DV",
+                    "problem_id": "DV",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "SLMT",
+                    "problem_id": "Soulmate",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 5331
+                },
+                {
+                    "label": "SS",
+                    "problem_id": "SS",
+                    "num_judged": 4,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 6583
+                }
+            ]
+        },
+        {
+            "rank": 32,
+            "team_id": "5025221043",
+            "score": {
+                "num_solved": 2,
+                "total_time": 7698
+            },
+            "problems": [
+                {
+                    "label": "DTS",
+                    "problem_id": "DTS",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "DV",
+                    "problem_id": "DV",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "SLMT",
+                    "problem_id": "Soulmate",
+                    "num_judged": 4,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 3780
+                },
+                {
+                    "label": "SS",
+                    "problem_id": "SS",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 3858
+                }
+            ]
+        },
+        {
+            "rank": 33,
+            "team_id": "5025221022",
+            "score": {
+                "num_solved": 2,
+                "total_time": 7885
+            },
+            "problems": [
+                {
+                    "label": "DTS",
+                    "problem_id": "DTS",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "DV",
+                    "problem_id": "DV",
+                    "num_judged": 3,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": true,
+                    "time": 4049
+                },
+                {
+                    "label": "SLMT",
+                    "problem_id": "Soulmate",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "SS",
+                    "problem_id": "SS",
+                    "num_judged": 2,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 3776
+                }
+            ]
+        },
+        {
+            "rank": 34,
+            "team_id": "5025221106",
+            "score": {
+                "num_solved": 2,
+                "total_time": 8935
+            },
+            "problems": [
+                {
+                    "label": "DTS",
+                    "problem_id": "DTS",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "DV",
+                    "problem_id": "DV",
+                    "num_judged": 6,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 5856
+                },
+                {
+                    "label": "SLMT",
+                    "problem_id": "Soulmate",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "SS",
+                    "problem_id": "SS",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 2979
+                }
+            ]
+        },
+        {
+            "rank": 35,
+            "team_id": "5025221309",
+            "score": {
+                "num_solved": 2,
+                "total_time": 13699
+            },
+            "problems": [
+                {
+                    "label": "DTS",
+                    "problem_id": "DTS",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "DV",
+                    "problem_id": "DV",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "SLMT",
+                    "problem_id": "Soulmate",
+                    "num_judged": 6,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 6989
+                },
+                {
+                    "label": "SS",
+                    "problem_id": "SS",
+                    "num_judged": 4,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 6550
+                }
+            ]
+        },
+        {
+            "rank": 36,
+            "team_id": "5025221225",
+            "score": {
+                "num_solved": 2,
+                "total_time": 14416
+            },
+            "problems": [
+                {
+                    "label": "DTS",
+                    "problem_id": "DTS",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "DV",
+                    "problem_id": "DV",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "SLMT",
+                    "problem_id": "Soulmate",
+                    "num_judged": 4,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 7171
+                },
+                {
+                    "label": "SS",
+                    "problem_id": "SS",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 7185
+                }
+            ]
+        },
+        {
+            "rank": 37,
+            "team_id": "5025221253",
+            "score": {
+                "num_solved": 1,
+                "total_time": 7187
+            },
+            "problems": [
+                {
+                    "label": "DTS",
+                    "problem_id": "DTS",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "DV",
+                    "problem_id": "DV",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "SLMT",
+                    "problem_id": "Soulmate",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 7187
+                },
+                {
+                    "label": "SS",
+                    "problem_id": "SS",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                }
+            ]
+        },
+        {
+            "rank": 38,
+            "team_id": "5025221169",
+            "score": {
+                "num_solved": 1,
+                "total_time": 7200
+            },
+            "problems": [
+                {
+                    "label": "DTS",
+                    "problem_id": "DTS",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "DV",
+                    "problem_id": "DV",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "SLMT",
+                    "problem_id": "Soulmate",
+                    "num_judged": 3,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 7160
+                },
+                {
+                    "label": "SS",
+                    "problem_id": "SS",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                }
+            ]
+        },
+        {
+            "rank": 39,
+            "team_id": "5025221118",
+            "score": {
+                "num_solved": 0,
+                "total_time": 0
+            },
+            "problems": [
+                {
+                    "label": "DTS",
+                    "problem_id": "DTS",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "DV",
+                    "problem_id": "DV",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "SLMT",
+                    "problem_id": "Soulmate",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "SS",
+                    "problem_id": "SS",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                }
+            ]
+        },
+        {
+            "rank": 39,
+            "team_id": "5025221147",
+            "score": {
+                "num_solved": 0,
+                "total_time": 0
+            },
+            "problems": [
+                {
+                    "label": "DTS",
+                    "problem_id": "DTS",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "DV",
+                    "problem_id": "DV",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "SLMT",
+                    "problem_id": "Soulmate",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "SS",
+                    "problem_id": "SS",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                }
+            ]
+        }
+    ]
+}
