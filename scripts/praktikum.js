@@ -1,5 +1,5 @@
 async function TableLoader(){
-    const response1 = await fetch("praktikum.json");
+    const response1 = await fetch("praktikum/praktikum.json");
     const praktikumData = await response1.json();
     const table = document.createElement("table");
     const header = ["rank", "team", "score"];

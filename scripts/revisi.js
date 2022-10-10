@@ -1,5 +1,5 @@
 async function TableLoader(){
-    const response2 = await fetch("revisi.json");
+    const response2 = await fetch("revisi/revisi.json");
     const revisiData = await response2.json();
     const table = document.createElement("table");
     const header = ["rank", "team", "score"];
