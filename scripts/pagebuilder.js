@@ -1,12 +1,15 @@
+var directory;
+
 function AddTitleAndHeader(){
     const queryString = window.location.pathname;
     const arrayOfString = queryString.split("/");
-    const pageTitle =   arrayOfString[5][0].toUpperCase() + 
-                        arrayOfString[5].substring(1) + 
+    directory = arrayOfString[4];
+    const pageTitle =   arrayOfString[4][0].toUpperCase() + 
+                        arrayOfString[4].substring(1) + 
                         " Modul " + 
-                        arrayOfString[3] + 
+                        arrayOfString[2] + 
                         " Dasar Pemrograman " + 
-                        arrayOfString[4] + 
+                        arrayOfString[3] + 
                         " 2022/2023";
     document.title = pageTitle;
 
@@ -17,7 +20,7 @@ function AddTitleAndHeader(){
 }
 
 async function TableLoader(){
-    const response1 = await fetch("scoreboard.json");
+    const response1 = await fetch(directory + "scoreboard.json");
     const scoreboardData = await response1.json();
     const table = document.createElement("table");
     const header = ["rank", "team", "score"];
