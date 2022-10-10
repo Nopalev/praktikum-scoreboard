@@ -20,7 +20,7 @@ function AddTitleAndHeader(){
 }
 
 async function TableLoader(){
-    const response1 = await fetch(directory + "scoreboard.json");
+    const response1 = await fetch(directory + "/scoreboard.json");
     const scoreboardData = await response1.json();
     const table = document.createElement("table");
     const header = ["rank", "team", "score"];
