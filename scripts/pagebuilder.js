@@ -1,9 +1,11 @@
-var directory;
+var scoreboardDirectory;
+var teamsDirectory;
 
 function AddTitleAndHeader(){
     const queryString = window.location.pathname;
     const arrayOfString = queryString.split("/");
-    directory = arrayOfString[4];
+    scoreboardDirectory = arrayOfString[4];
+    teamsDirectory = arrayOfString[1] + "/" + arrayOfString[2] + "/" +  arrayOfString[3];
     const pageTitle =   arrayOfString[4][0].toUpperCase() + 
                         arrayOfString[4].substring(1) + 
                         " Modul " + 
@@ -20,9 +22,9 @@ function AddTitleAndHeader(){
 }
 
 async function TableLoaderAndLegendCreator(){
-    const response1 = await fetch(directory + "/scoreboard.json");
+    const response1 = await fetch(scoreboardDirectory + "/scoreboard.json");
     const scoreboardData = await response1.json();
-    const response2 = await fetch("teams.json");
+    const response2 = await fetch(teamsDirectory + "/teams.json");
     const teamsData = await response2.json();
     const table = document.createElement("table");
     const header = ["Rank", "Team", "Score", "A", "B", "C", "D"];
