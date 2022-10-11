@@ -24,7 +24,7 @@ function AddTitleAndHeader(){
 async function TableLoaderAndLegendCreator(){
     const response1 = await fetch(scoreboardDirectory + "/scoreboard.json");
     const scoreboardData = await response1.json();
-    const response2 = await fetch(teamsDirectory + "teams.json");
+    const response2 = await fetch("teams.json");
     const teamsData = await response2.json();
     const table = document.createElement("table");
     const header = ["Rank", "Team", "Score", "A", "B", "C", "D"];
