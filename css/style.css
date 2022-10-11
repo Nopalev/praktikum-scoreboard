@@ -19,8 +19,14 @@ table, th, td{
     border-collapse: collapse;
     padding: 10px;
     text-align: center;
-    font-size: large;
     width: fit-content;
+}
+table, td{
+    font-size: large;
+}
+th{
+    font-weight: bold;
+    font-size: x-large;
 }
 .HeaderText{
     font-size: 20px;
@@ -33,12 +39,26 @@ table, th, td{
     display: flex;
     justify-content: center;
 }
+.RankText{
+    font-size: x-large;
+    font-weight: bolder;
+}
+.TeamText{
+    text-align: left;
+}
+.TeamNameText{
+    font-size: larger;
+    font-weight: bold;
+}
+.TeamIdText{
+    font-size: medium;
+}
 .ScoreText{
     font-size: x-large;
     font-weight: bolder;
 }
 .PenaltyText{
-    font-size: small;
+    font-size: medium;
 }
 .TimeText{
     font-weight: 800;
@@ -46,9 +66,49 @@ table, th, td{
 .TryText{
     font-size: smaller;
 }
+.LegendText{
+    font-size: large;
+    font-weight: bolder;
+}
 .AC{
     background-color: #60e760;
 }
 .WA{
     background-color: #e87272;
+}
+@media only screen and (max-width: 768px){
+    table, th, td{
+        padding: 5px;
+    }
+    table, td{
+        font-size: small;
+    }
+    th{
+        font-size: large;
+    }
+    .HeaderText{
+        font-weight: bold;
+    }
+    .RankText{
+        font-size: larger;
+    }
+    .TeamNameText{
+        font-size: large;
+    }
+    .TeamIdText{
+        font-size: small;
+    }
+    .ScoreText{
+        font-size: larger;
+        font-weight: bold;
+    }
+    .PenaltyText{
+        font-size: small;
+    }
+    .TimeText{
+        font-weight: 600;
+    }
+    .TryText{
+        font-size: x-small;
+    }
 }
