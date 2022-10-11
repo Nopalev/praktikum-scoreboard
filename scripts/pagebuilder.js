@@ -1,11 +1,9 @@
 var scoreboardDirectory;
-var teamsDirectory;
 
 function AddTitleAndHeader(){
     const queryString = window.location.pathname;
     const arrayOfString = queryString.split("/");
     scoreboardDirectory = arrayOfString[4];
-    teamsDirectory = "/";
     const pageTitle =   arrayOfString[4][0].toUpperCase() + 
                         arrayOfString[4].substring(1) + 
                         " Modul " + 
