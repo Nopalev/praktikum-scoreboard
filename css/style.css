@@ -10,9 +10,7 @@ body {
     color: #000000;
 }
 header {
-    display: flex;
-    height: 8vh;
-    align-items: center;
+    margin: 25px 0;
 }
 table, th, td{
     border: 3px groove #000000;
@@ -29,7 +27,7 @@ table, th, td{
     position: inherit;
 }
 .Center{
-    margin: 15vh 0;
+    margin: 0 0;
     display: flex;
     justify-content: center;
 }
