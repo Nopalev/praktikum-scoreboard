@@ -1,0 +1,1761 @@
+{
+    "event_id": "112401",
+    "time": "2022-10-14T20:32:08.215+07:00",
+    "contest_time": "121:32:08.214",
+    "state": {
+        "started": "2022-10-09T19:00:00.000+07:00",
+        "ended": "2022-10-14T19:00:00.000+07:00",
+        "frozen": null,
+        "thawed": null,
+        "finalized": null,
+        "end_of_updates": null
+    },
+    "rows": [
+        {
+            "rank": 1,
+            "team_id": "5025221187",
+            "score": {
+                "num_solved": 4,
+                "total_time": 20698
+            },
+            "problems": [
+                {
+                    "label": "AMK",
+                    "problem_id": "AMK",
+                    "num_judged": 13,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 2773
+                },
+                {
+                    "label": "CUM",
+                    "problem_id": "CUM",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 7091
+                },
+                {
+                    "label": "PE",
+                    "problem_id": "PE",
+                    "num_judged": 23,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 7152
+                },
+                {
+                    "label": "T1",
+                    "problem_id": "T1",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 3002
+                }
+            ]
+        },
+        {
+            "rank": 2,
+            "team_id": "5025221173",
+            "score": {
+                "num_solved": 4,
+                "total_time": 28139
+            },
+            "problems": [
+                {
+                    "label": "AMK",
+                    "problem_id": "AMK",
+                    "num_judged": 2,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 6952
+                },
+                {
+                    "label": "CUM",
+                    "problem_id": "CUM",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 6953
+                },
+                {
+                    "label": "PE",
+                    "problem_id": "PE",
+                    "num_judged": 6,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 7199
+                },
+                {
+                    "label": "T1",
+                    "problem_id": "T1",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 6915
+                }
+            ]
+        },
+        {
+            "rank": 3,
+            "team_id": "5025221005",
+            "score": {
+                "num_solved": 4,
+                "total_time": 28668
+            },
+            "problems": [
+                {
+                    "label": "AMK",
+                    "problem_id": "AMK",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 7137
+                },
+                {
+                    "label": "CUM",
+                    "problem_id": "CUM",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 7162
+                },
+                {
+                    "label": "PE",
+                    "problem_id": "PE",
+                    "num_judged": 4,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 7172
+                },
+                {
+                    "label": "T1",
+                    "problem_id": "T1",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 7137
+                }
+            ]
+        },
+        {
+            "rank": 4,
+            "team_id": "5025221019",
+            "score": {
+                "num_solved": 3,
+                "total_time": 10189
+            },
+            "problems": [
+                {
+                    "label": "AMK",
+                    "problem_id": "AMK",
+                    "num_judged": 12,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 2967
+                },
+                {
+                    "label": "CUM",
+                    "problem_id": "CUM",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "PE",
+                    "problem_id": "PE",
+                    "num_judged": 7,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 4434
+                },
+                {
+                    "label": "T1",
+                    "problem_id": "T1",
+                    "num_judged": 2,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": true,
+                    "time": 2428
+                }
+            ]
+        },
+        {
+            "rank": 5,
+            "team_id": "5025221229",
+            "score": {
+                "num_solved": 3,
+                "total_time": 13106
+            },
+            "problems": [
+                {
+                    "label": "AMK",
+                    "problem_id": "AMK",
+                    "num_judged": 8,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 2788
+                },
+                {
+                    "label": "CUM",
+                    "problem_id": "CUM",
+                    "num_judged": 12,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 5174
+                },
+                {
+                    "label": "PE",
+                    "problem_id": "PE",
+                    "num_judged": 8,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "T1",
+                    "problem_id": "T1",
+                    "num_judged": 15,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 4504
+                }
+            ]
+        },
+        {
+            "rank": 6,
+            "team_id": "5025221129",
+            "score": {
+                "num_solved": 3,
+                "total_time": 13159
+            },
+            "problems": [
+                {
+                    "label": "AMK",
+                    "problem_id": "AMK",
+                    "num_judged": 6,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 5449
+                },
+                {
+                    "label": "CUM",
+                    "problem_id": "CUM",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": true,
+                    "time": 2977
+                },
+                {
+                    "label": "PE",
+                    "problem_id": "PE",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "T1",
+                    "problem_id": "T1",
+                    "num_judged": 13,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 4393
+                }
+            ]
+        },
+        {
+            "rank": 7,
+            "team_id": "5025221201",
+            "score": {
+                "num_solved": 3,
+                "total_time": 19159
+            },
+            "problems": [
+                {
+                    "label": "AMK",
+                    "problem_id": "AMK",
+                    "num_judged": 6,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 5996
+                },
+                {
+                    "label": "CUM",
+                    "problem_id": "CUM",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "PE",
+                    "problem_id": "PE",
+                    "num_judged": 9,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 7189
+                },
+                {
+                    "label": "T1",
+                    "problem_id": "T1",
+                    "num_judged": 7,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 5594
+                }
+            ]
+        },
+        {
+            "rank": 8,
+            "team_id": "5025221166",
+            "score": {
+                "num_solved": 3,
+                "total_time": 20206
+            },
+            "problems": [
+                {
+                    "label": "AMK",
+                    "problem_id": "AMK",
+                    "num_judged": 2,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 7183
+                },
+                {
+                    "label": "CUM",
+                    "problem_id": "CUM",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 5816
+                },
+                {
+                    "label": "PE",
+                    "problem_id": "PE",
+                    "num_judged": 2,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "T1",
+                    "problem_id": "T1",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 7187
+                }
+            ]
+        },
+        {
+            "rank": 9,
+            "team_id": "5025221285",
+            "score": {
+                "num_solved": 2,
+                "total_time": 7794
+            },
+            "problems": [
+                {
+                    "label": "AMK",
+                    "problem_id": "AMK",
+                    "num_judged": 6,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 4679
+                },
+                {
+                    "label": "CUM",
+                    "problem_id": "CUM",
+                    "num_judged": 2,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 2995
+                },
+                {
+                    "label": "PE",
+                    "problem_id": "PE",
+                    "num_judged": 4,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "T1",
+                    "problem_id": "T1",
+                    "num_judged": 4,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                }
+            ]
+        },
+        {
+            "rank": 10,
+            "team_id": "5025221143",
+            "score": {
+                "num_solved": 2,
+                "total_time": 8871
+            },
+            "problems": [
+                {
+                    "label": "AMK",
+                    "problem_id": "AMK",
+                    "num_judged": 6,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": true,
+                    "time": 1637
+                },
+                {
+                    "label": "CUM",
+                    "problem_id": "CUM",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "PE",
+                    "problem_id": "PE",
+                    "num_judged": 11,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "T1",
+                    "problem_id": "T1",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 7134
+                }
+            ]
+        },
+        {
+            "rank": 11,
+            "team_id": "5025221194",
+            "score": {
+                "num_solved": 2,
+                "total_time": 11305
+            },
+            "problems": [
+                {
+                    "label": "AMK",
+                    "problem_id": "AMK",
+                    "num_judged": 2,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 6898
+                },
+                {
+                    "label": "CUM",
+                    "problem_id": "CUM",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "PE",
+                    "problem_id": "PE",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "T1",
+                    "problem_id": "T1",
+                    "num_judged": 3,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 4347
+                }
+            ]
+        },
+        {
+            "rank": 12,
+            "team_id": "5025221054",
+            "score": {
+                "num_solved": 2,
+                "total_time": 11352
+            },
+            "problems": [
+                {
+                    "label": "AMK",
+                    "problem_id": "AMK",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 7160
+                },
+                {
+                    "label": "CUM",
+                    "problem_id": "CUM",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "PE",
+                    "problem_id": "PE",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "T1",
+                    "problem_id": "T1",
+                    "num_judged": 2,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 4172
+                }
+            ]
+        },
+        {
+            "rank": 13,
+            "team_id": "5025221215",
+            "score": {
+                "num_solved": 2,
+                "total_time": 11817
+            },
+            "problems": [
+                {
+                    "label": "AMK",
+                    "problem_id": "AMK",
+                    "num_judged": 2,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 5921
+                },
+                {
+                    "label": "CUM",
+                    "problem_id": "CUM",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "PE",
+                    "problem_id": "PE",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "T1",
+                    "problem_id": "T1",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 5876
+                }
+            ]
+        },
+        {
+            "rank": 14,
+            "team_id": "5025221313",
+            "score": {
+                "num_solved": 2,
+                "total_time": 12009
+            },
+            "problems": [
+                {
+                    "label": "AMK",
+                    "problem_id": "AMK",
+                    "num_judged": 4,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "CUM",
+                    "problem_id": "CUM",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 5343
+                },
+                {
+                    "label": "PE",
+                    "problem_id": "PE",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "T1",
+                    "problem_id": "T1",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 6666
+                }
+            ]
+        },
+        {
+            "rank": 15,
+            "team_id": "5025221033",
+            "score": {
+                "num_solved": 2,
+                "total_time": 12209
+            },
+            "problems": [
+                {
+                    "label": "AMK",
+                    "problem_id": "AMK",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 5007
+                },
+                {
+                    "label": "CUM",
+                    "problem_id": "CUM",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "PE",
+                    "problem_id": "PE",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "T1",
+                    "problem_id": "T1",
+                    "num_judged": 3,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 7162
+                }
+            ]
+        },
+        {
+            "rank": 16,
+            "team_id": "5025221012",
+            "score": {
+                "num_solved": 2,
+                "total_time": 13900
+            },
+            "problems": [
+                {
+                    "label": "AMK",
+                    "problem_id": "AMK",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 6954
+                },
+                {
+                    "label": "CUM",
+                    "problem_id": "CUM",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "PE",
+                    "problem_id": "PE",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "T1",
+                    "problem_id": "T1",
+                    "num_judged": 2,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 6926
+                }
+            ]
+        },
+        {
+            "rank": 17,
+            "team_id": "5025221250",
+            "score": {
+                "num_solved": 2,
+                "total_time": 14093
+            },
+            "problems": [
+                {
+                    "label": "AMK",
+                    "problem_id": "AMK",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "CUM",
+                    "problem_id": "CUM",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 6943
+                },
+                {
+                    "label": "PE",
+                    "problem_id": "PE",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "T1",
+                    "problem_id": "T1",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 7150
+                }
+            ]
+        },
+        {
+            "rank": 18,
+            "team_id": "5025221047",
+            "score": {
+                "num_solved": 2,
+                "total_time": 14103
+            },
+            "problems": [
+                {
+                    "label": "AMK",
+                    "problem_id": "AMK",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 7166
+                },
+                {
+                    "label": "CUM",
+                    "problem_id": "CUM",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "PE",
+                    "problem_id": "PE",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "T1",
+                    "problem_id": "T1",
+                    "num_judged": 6,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 6837
+                }
+            ]
+        },
+        {
+            "rank": 19,
+            "team_id": "5025221026",
+            "score": {
+                "num_solved": 2,
+                "total_time": 14135
+            },
+            "problems": [
+                {
+                    "label": "AMK",
+                    "problem_id": "AMK",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 7179
+                },
+                {
+                    "label": "CUM",
+                    "problem_id": "CUM",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "PE",
+                    "problem_id": "PE",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "T1",
+                    "problem_id": "T1",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 6956
+                }
+            ]
+        },
+        {
+            "rank": 20,
+            "team_id": "5025221278",
+            "score": {
+                "num_solved": 2,
+                "total_time": 14370
+            },
+            "problems": [
+                {
+                    "label": "AMK",
+                    "problem_id": "AMK",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 7184
+                },
+                {
+                    "label": "CUM",
+                    "problem_id": "CUM",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "PE",
+                    "problem_id": "PE",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "T1",
+                    "problem_id": "T1",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 7186
+                }
+            ]
+        },
+        {
+            "rank": 21,
+            "team_id": "5025221208",
+            "score": {
+                "num_solved": 2,
+                "total_time": 14446
+            },
+            "problems": [
+                {
+                    "label": "AMK",
+                    "problem_id": "AMK",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 7173
+                },
+                {
+                    "label": "CUM",
+                    "problem_id": "CUM",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "PE",
+                    "problem_id": "PE",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "T1",
+                    "problem_id": "T1",
+                    "num_judged": 5,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 7193
+                }
+            ]
+        },
+        {
+            "rank": 22,
+            "team_id": "5025221061",
+            "score": {
+                "num_solved": 1,
+                "total_time": 23
+            },
+            "problems": [
+                {
+                    "label": "AMK",
+                    "problem_id": "AMK",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "CUM",
+                    "problem_id": "CUM",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "PE",
+                    "problem_id": "PE",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": true,
+                    "time": 23
+                },
+                {
+                    "label": "T1",
+                    "problem_id": "T1",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                }
+            ]
+        },
+        {
+            "rank": 23,
+            "team_id": "5025221243",
+            "score": {
+                "num_solved": 1,
+                "total_time": 4144
+            },
+            "problems": [
+                {
+                    "label": "AMK",
+                    "problem_id": "AMK",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "CUM",
+                    "problem_id": "CUM",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 4144
+                },
+                {
+                    "label": "PE",
+                    "problem_id": "PE",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "T1",
+                    "problem_id": "T1",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                }
+            ]
+        },
+        {
+            "rank": 24,
+            "team_id": "5025221222",
+            "score": {
+                "num_solved": 1,
+                "total_time": 4358
+            },
+            "problems": [
+                {
+                    "label": "AMK",
+                    "problem_id": "AMK",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "CUM",
+                    "problem_id": "CUM",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 4358
+                },
+                {
+                    "label": "PE",
+                    "problem_id": "PE",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "T1",
+                    "problem_id": "T1",
+                    "num_judged": 2,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                }
+            ]
+        },
+        {
+            "rank": 25,
+            "team_id": "5025221159",
+            "score": {
+                "num_solved": 1,
+                "total_time": 5526
+            },
+            "problems": [
+                {
+                    "label": "AMK",
+                    "problem_id": "AMK",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "CUM",
+                    "problem_id": "CUM",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 5526
+                },
+                {
+                    "label": "PE",
+                    "problem_id": "PE",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "T1",
+                    "problem_id": "T1",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                }
+            ]
+        },
+        {
+            "rank": 26,
+            "team_id": "5025221292",
+            "score": {
+                "num_solved": 1,
+                "total_time": 5629
+            },
+            "problems": [
+                {
+                    "label": "AMK",
+                    "problem_id": "AMK",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "CUM",
+                    "problem_id": "CUM",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 5629
+                },
+                {
+                    "label": "PE",
+                    "problem_id": "PE",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "T1",
+                    "problem_id": "T1",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                }
+            ]
+        },
+        {
+            "rank": 27,
+            "team_id": "5025221271",
+            "score": {
+                "num_solved": 1,
+                "total_time": 6635
+            },
+            "problems": [
+                {
+                    "label": "AMK",
+                    "problem_id": "AMK",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "CUM",
+                    "problem_id": "CUM",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 6635
+                },
+                {
+                    "label": "PE",
+                    "problem_id": "PE",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "T1",
+                    "problem_id": "T1",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                }
+            ]
+        },
+        {
+            "rank": 28,
+            "team_id": "5025221257",
+            "score": {
+                "num_solved": 1,
+                "total_time": 6988
+            },
+            "problems": [
+                {
+                    "label": "AMK",
+                    "problem_id": "AMK",
+                    "num_judged": 3,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 6948
+                },
+                {
+                    "label": "CUM",
+                    "problem_id": "CUM",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "PE",
+                    "problem_id": "PE",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "T1",
+                    "problem_id": "T1",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                }
+            ]
+        },
+        {
+            "rank": 29,
+            "team_id": "5025221040",
+            "score": {
+                "num_solved": 1,
+                "total_time": 7091
+            },
+            "problems": [
+                {
+                    "label": "AMK",
+                    "problem_id": "AMK",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 7091
+                },
+                {
+                    "label": "CUM",
+                    "problem_id": "CUM",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "PE",
+                    "problem_id": "PE",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "T1",
+                    "problem_id": "T1",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                }
+            ]
+        },
+        {
+            "rank": 30,
+            "team_id": "5025221180",
+            "score": {
+                "num_solved": 1,
+                "total_time": 7123
+            },
+            "problems": [
+                {
+                    "label": "AMK",
+                    "problem_id": "AMK",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "CUM",
+                    "problem_id": "CUM",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 7123
+                },
+                {
+                    "label": "PE",
+                    "problem_id": "PE",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "T1",
+                    "problem_id": "T1",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                }
+            ]
+        },
+        {
+            "rank": 31,
+            "team_id": "5025221299",
+            "score": {
+                "num_solved": 1,
+                "total_time": 7183
+            },
+            "problems": [
+                {
+                    "label": "AMK",
+                    "problem_id": "AMK",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 7183
+                },
+                {
+                    "label": "CUM",
+                    "problem_id": "CUM",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "PE",
+                    "problem_id": "PE",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "T1",
+                    "problem_id": "T1",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                }
+            ]
+        },
+        {
+            "rank": 32,
+            "team_id": "5025221103",
+            "score": {
+                "num_solved": 1,
+                "total_time": 7187
+            },
+            "problems": [
+                {
+                    "label": "AMK",
+                    "problem_id": "AMK",
+                    "num_judged": 2,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "CUM",
+                    "problem_id": "CUM",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "PE",
+                    "problem_id": "PE",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "T1",
+                    "problem_id": "T1",
+                    "num_judged": 12,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 6967
+                }
+            ]
+        },
+        {
+            "rank": 33,
+            "team_id": "5025221306",
+            "score": {
+                "num_solved": 1,
+                "total_time": 7192
+            },
+            "problems": [
+                {
+                    "label": "AMK",
+                    "problem_id": "AMK",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 7192
+                },
+                {
+                    "label": "CUM",
+                    "problem_id": "CUM",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "PE",
+                    "problem_id": "PE",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "T1",
+                    "problem_id": "T1",
+                    "num_judged": 2,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                }
+            ]
+        },
+        {
+            "rank": 34,
+            "team_id": "5025221115",
+            "score": {
+                "num_solved": 1,
+                "total_time": 7671
+            },
+            "problems": [
+                {
+                    "label": "AMK",
+                    "problem_id": "AMK",
+                    "num_judged": 25,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 7191
+                },
+                {
+                    "label": "CUM",
+                    "problem_id": "CUM",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "PE",
+                    "problem_id": "PE",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "T1",
+                    "problem_id": "T1",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                }
+            ]
+        },
+        {
+            "rank": 35,
+            "team_id": "5025221151",
+            "score": {
+                "num_solved": 0,
+                "total_time": 0
+            },
+            "problems": [
+                {
+                    "label": "AMK",
+                    "problem_id": "AMK",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "CUM",
+                    "problem_id": "CUM",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "PE",
+                    "problem_id": "PE",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "T1",
+                    "problem_id": "T1",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                }
+            ]
+        },
+        {
+            "rank": 35,
+            "team_id": "5025201074",
+            "score": {
+                "num_solved": 0,
+                "total_time": 0
+            },
+            "problems": [
+                {
+                    "label": "AMK",
+                    "problem_id": "AMK",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "CUM",
+                    "problem_id": "CUM",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "PE",
+                    "problem_id": "PE",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "T1",
+                    "problem_id": "T1",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                }
+            ]
+        },
+        {
+            "rank": 35,
+            "team_id": "5025221122",
+            "score": {
+                "num_solved": 0,
+                "total_time": 0
+            },
+            "problems": [
+                {
+                    "label": "AMK",
+                    "problem_id": "AMK",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "CUM",
+                    "problem_id": "CUM",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "PE",
+                    "problem_id": "PE",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "T1",
+                    "problem_id": "T1",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                }
+            ]
+        },
+        {
+            "rank": 35,
+            "team_id": "5025221236",
+            "score": {
+                "num_solved": 0,
+                "total_time": 0
+            },
+            "problems": [
+                {
+                    "label": "AMK",
+                    "problem_id": "AMK",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "CUM",
+                    "problem_id": "CUM",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "PE",
+                    "problem_id": "PE",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "T1",
+                    "problem_id": "T1",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                }
+            ]
+        },
+        {
+            "rank": 35,
+            "team_id": "5025221264",
+            "score": {
+                "num_solved": 0,
+                "total_time": 0
+            },
+            "problems": [
+                {
+                    "label": "AMK",
+                    "problem_id": "AMK",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "CUM",
+                    "problem_id": "CUM",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "PE",
+                    "problem_id": "PE",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "T1",
+                    "problem_id": "T1",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                }
+            ]
+        },
+        {
+            "rank": 35,
+            "team_id": "5025221136",
+            "score": {
+                "num_solved": 0,
+                "total_time": 0
+            },
+            "problems": [
+                {
+                    "label": "AMK",
+                    "problem_id": "AMK",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "CUM",
+                    "problem_id": "CUM",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "PE",
+                    "problem_id": "PE",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "T1",
+                    "problem_id": "T1",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                }
+            ]
+        }
+    ]
+}

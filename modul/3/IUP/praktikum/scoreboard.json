@@ -1,0 +1,1743 @@
+{
+    "event_id": "91532",
+    "time": "2022-10-10T21:57:36.547+07:00",
+    "contest_time": "102:27:36.546",
+    "state": {
+        "started": "2022-10-06T15:30:00.000+07:00",
+        "ended": "2022-10-06T17:45:00.000+07:00",
+        "frozen": null,
+        "thawed": null,
+        "finalized": "2022-10-07T15:22:14.841+07:00",
+        "end_of_updates": "2022-10-07T15:22:14.841+07:00"
+    },
+    "rows": [
+        {
+            "rank": 1,
+            "team_id": "5025221085",
+            "score": {
+                "num_solved": 3,
+                "total_time": 241
+            },
+            "problems": [
+                {
+                    "label": "ASC",
+                    "problem_id": "ASC",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 87
+                },
+                {
+                    "label": "HELP2.0",
+                    "problem_id": "HELP20",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 109
+                },
+                {
+                    "label": "TCenayang",
+                    "problem_id": "TCenayang",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": true,
+                    "time": 45
+                },
+                {
+                    "label": "ZIMBABWE",
+                    "problem_id": "ZIMBABWE",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                }
+            ]
+        },
+        {
+            "rank": 2,
+            "team_id": "5025221081",
+            "score": {
+                "num_solved": 2,
+                "total_time": 222
+            },
+            "problems": [
+                {
+                    "label": "ASC",
+                    "problem_id": "ASC",
+                    "num_judged": 3,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 116
+                },
+                {
+                    "label": "HELP2.0",
+                    "problem_id": "HELP20",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": true,
+                    "time": 66
+                },
+                {
+                    "label": "TCenayang",
+                    "problem_id": "TCenayang",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "ZIMBABWE",
+                    "problem_id": "ZIMBABWE",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                }
+            ]
+        },
+        {
+            "rank": 3,
+            "team_id": "5025221079",
+            "score": {
+                "num_solved": 1,
+                "total_time": 82
+            },
+            "problems": [
+                {
+                    "label": "ASC",
+                    "problem_id": "ASC",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": true,
+                    "time": 82
+                },
+                {
+                    "label": "HELP2.0",
+                    "problem_id": "HELP20",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "TCenayang",
+                    "problem_id": "TCenayang",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "ZIMBABWE",
+                    "problem_id": "ZIMBABWE",
+                    "num_judged": 2,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                }
+            ]
+        },
+        {
+            "rank": 4,
+            "team_id": "5025221068",
+            "score": {
+                "num_solved": 0,
+                "total_time": 0
+            },
+            "problems": [
+                {
+                    "label": "ASC",
+                    "problem_id": "ASC",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "HELP2.0",
+                    "problem_id": "HELP20",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "TCenayang",
+                    "problem_id": "TCenayang",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "ZIMBABWE",
+                    "problem_id": "ZIMBABWE",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                }
+            ]
+        },
+        {
+            "rank": 4,
+            "team_id": "5025221319",
+            "score": {
+                "num_solved": 0,
+                "total_time": 0
+            },
+            "problems": [
+                {
+                    "label": "ASC",
+                    "problem_id": "ASC",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "HELP2.0",
+                    "problem_id": "HELP20",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "TCenayang",
+                    "problem_id": "TCenayang",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "ZIMBABWE",
+                    "problem_id": "ZIMBABWE",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                }
+            ]
+        },
+        {
+            "rank": 4,
+            "team_id": "7221300170",
+            "score": {
+                "num_solved": 0,
+                "total_time": 0
+            },
+            "problems": [
+                {
+                    "label": "ASC",
+                    "problem_id": "ASC",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "HELP2.0",
+                    "problem_id": "HELP20",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "TCenayang",
+                    "problem_id": "TCenayang",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "ZIMBABWE",
+                    "problem_id": "ZIMBABWE",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                }
+            ]
+        },
+        {
+            "rank": 4,
+            "team_id": "5025211264",
+            "score": {
+                "num_solved": 0,
+                "total_time": 0
+            },
+            "problems": [
+                {
+                    "label": "ASC",
+                    "problem_id": "ASC",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "HELP2.0",
+                    "problem_id": "HELP20",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "TCenayang",
+                    "problem_id": "TCenayang",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "ZIMBABWE",
+                    "problem_id": "ZIMBABWE",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                }
+            ]
+        },
+        {
+            "rank": 4,
+            "team_id": "7221300092",
+            "score": {
+                "num_solved": 0,
+                "total_time": 0
+            },
+            "problems": [
+                {
+                    "label": "ASC",
+                    "problem_id": "ASC",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "HELP2.0",
+                    "problem_id": "HELP20",
+                    "num_judged": 4,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "TCenayang",
+                    "problem_id": "TCenayang",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "ZIMBABWE",
+                    "problem_id": "ZIMBABWE",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                }
+            ]
+        },
+        {
+            "rank": 4,
+            "team_id": "5025221087",
+            "score": {
+                "num_solved": 0,
+                "total_time": 0
+            },
+            "problems": [
+                {
+                    "label": "ASC",
+                    "problem_id": "ASC",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "HELP2.0",
+                    "problem_id": "HELP20",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "TCenayang",
+                    "problem_id": "TCenayang",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "ZIMBABWE",
+                    "problem_id": "ZIMBABWE",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                }
+            ]
+        },
+        {
+            "rank": 4,
+            "team_id": "5025221110",
+            "score": {
+                "num_solved": 0,
+                "total_time": 0
+            },
+            "problems": [
+                {
+                    "label": "ASC",
+                    "problem_id": "ASC",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "HELP2.0",
+                    "problem_id": "HELP20",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "TCenayang",
+                    "problem_id": "TCenayang",
+                    "num_judged": 2,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "ZIMBABWE",
+                    "problem_id": "ZIMBABWE",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                }
+            ]
+        },
+        {
+            "rank": 4,
+            "team_id": "5025221083",
+            "score": {
+                "num_solved": 0,
+                "total_time": 0
+            },
+            "problems": [
+                {
+                    "label": "ASC",
+                    "problem_id": "ASC",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "HELP2.0",
+                    "problem_id": "HELP20",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "TCenayang",
+                    "problem_id": "TCenayang",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "ZIMBABWE",
+                    "problem_id": "ZIMBABWE",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                }
+            ]
+        },
+        {
+            "rank": 4,
+            "team_id": "5025221070",
+            "score": {
+                "num_solved": 0,
+                "total_time": 0
+            },
+            "problems": [
+                {
+                    "label": "ASC",
+                    "problem_id": "ASC",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "HELP2.0",
+                    "problem_id": "HELP20",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "TCenayang",
+                    "problem_id": "TCenayang",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "ZIMBABWE",
+                    "problem_id": "ZIMBABWE",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                }
+            ]
+        },
+        {
+            "rank": 4,
+            "team_id": "5025221094",
+            "score": {
+                "num_solved": 0,
+                "total_time": 0
+            },
+            "problems": [
+                {
+                    "label": "ASC",
+                    "problem_id": "ASC",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "HELP2.0",
+                    "problem_id": "HELP20",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "TCenayang",
+                    "problem_id": "TCenayang",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "ZIMBABWE",
+                    "problem_id": "ZIMBABWE",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                }
+            ]
+        },
+        {
+            "rank": 4,
+            "team_id": "5025221089",
+            "score": {
+                "num_solved": 0,
+                "total_time": 0
+            },
+            "problems": [
+                {
+                    "label": "ASC",
+                    "problem_id": "ASC",
+                    "num_judged": 8,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "HELP2.0",
+                    "problem_id": "HELP20",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "TCenayang",
+                    "problem_id": "TCenayang",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "ZIMBABWE",
+                    "problem_id": "ZIMBABWE",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                }
+            ]
+        },
+        {
+            "rank": 4,
+            "team_id": "5025221099",
+            "score": {
+                "num_solved": 0,
+                "total_time": 0
+            },
+            "problems": [
+                {
+                    "label": "ASC",
+                    "problem_id": "ASC",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "HELP2.0",
+                    "problem_id": "HELP20",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "TCenayang",
+                    "problem_id": "TCenayang",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "ZIMBABWE",
+                    "problem_id": "ZIMBABWE",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                }
+            ]
+        },
+        {
+            "rank": 4,
+            "team_id": "5025221071",
+            "score": {
+                "num_solved": 0,
+                "total_time": 0
+            },
+            "problems": [
+                {
+                    "label": "ASC",
+                    "problem_id": "ASC",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "HELP2.0",
+                    "problem_id": "HELP20",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "TCenayang",
+                    "problem_id": "TCenayang",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "ZIMBABWE",
+                    "problem_id": "ZIMBABWE",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                }
+            ]
+        },
+        {
+            "rank": 4,
+            "team_id": "5025221077",
+            "score": {
+                "num_solved": 0,
+                "total_time": 0
+            },
+            "problems": [
+                {
+                    "label": "ASC",
+                    "problem_id": "ASC",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "HELP2.0",
+                    "problem_id": "HELP20",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "TCenayang",
+                    "problem_id": "TCenayang",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "ZIMBABWE",
+                    "problem_id": "ZIMBABWE",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                }
+            ]
+        },
+        {
+            "rank": 4,
+            "team_id": "5025221080",
+            "score": {
+                "num_solved": 0,
+                "total_time": 0
+            },
+            "problems": [
+                {
+                    "label": "ASC",
+                    "problem_id": "ASC",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "HELP2.0",
+                    "problem_id": "HELP20",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "TCenayang",
+                    "problem_id": "TCenayang",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "ZIMBABWE",
+                    "problem_id": "ZIMBABWE",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                }
+            ]
+        },
+        {
+            "rank": 4,
+            "team_id": "5025221111",
+            "score": {
+                "num_solved": 0,
+                "total_time": 0
+            },
+            "problems": [
+                {
+                    "label": "ASC",
+                    "problem_id": "ASC",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "HELP2.0",
+                    "problem_id": "HELP20",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "TCenayang",
+                    "problem_id": "TCenayang",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "ZIMBABWE",
+                    "problem_id": "ZIMBABWE",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                }
+            ]
+        },
+        {
+            "rank": 4,
+            "team_id": "5025221096",
+            "score": {
+                "num_solved": 0,
+                "total_time": 0
+            },
+            "problems": [
+                {
+                    "label": "ASC",
+                    "problem_id": "ASC",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "HELP2.0",
+                    "problem_id": "HELP20",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "TCenayang",
+                    "problem_id": "TCenayang",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "ZIMBABWE",
+                    "problem_id": "ZIMBABWE",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                }
+            ]
+        },
+        {
+            "rank": 4,
+            "team_id": "5025221084",
+            "score": {
+                "num_solved": 0,
+                "total_time": 0
+            },
+            "problems": [
+                {
+                    "label": "ASC",
+                    "problem_id": "ASC",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "HELP2.0",
+                    "problem_id": "HELP20",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "TCenayang",
+                    "problem_id": "TCenayang",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "ZIMBABWE",
+                    "problem_id": "ZIMBABWE",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                }
+            ]
+        },
+        {
+            "rank": 4,
+            "team_id": "5025221066",
+            "score": {
+                "num_solved": 0,
+                "total_time": 0
+            },
+            "problems": [
+                {
+                    "label": "ASC",
+                    "problem_id": "ASC",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "HELP2.0",
+                    "problem_id": "HELP20",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "TCenayang",
+                    "problem_id": "TCenayang",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "ZIMBABWE",
+                    "problem_id": "ZIMBABWE",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                }
+            ]
+        },
+        {
+            "rank": 4,
+            "team_id": "5025221069",
+            "score": {
+                "num_solved": 0,
+                "total_time": 0
+            },
+            "problems": [
+                {
+                    "label": "ASC",
+                    "problem_id": "ASC",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "HELP2.0",
+                    "problem_id": "HELP20",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "TCenayang",
+                    "problem_id": "TCenayang",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "ZIMBABWE",
+                    "problem_id": "ZIMBABWE",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                }
+            ]
+        },
+        {
+            "rank": 4,
+            "team_id": "5025221093",
+            "score": {
+                "num_solved": 0,
+                "total_time": 0
+            },
+            "problems": [
+                {
+                    "label": "ASC",
+                    "problem_id": "ASC",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "HELP2.0",
+                    "problem_id": "HELP20",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "TCenayang",
+                    "problem_id": "TCenayang",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "ZIMBABWE",
+                    "problem_id": "ZIMBABWE",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                }
+            ]
+        },
+        {
+            "rank": 4,
+            "team_id": "5025221095",
+            "score": {
+                "num_solved": 0,
+                "total_time": 0
+            },
+            "problems": [
+                {
+                    "label": "ASC",
+                    "problem_id": "ASC",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "HELP2.0",
+                    "problem_id": "HELP20",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "TCenayang",
+                    "problem_id": "TCenayang",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "ZIMBABWE",
+                    "problem_id": "ZIMBABWE",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                }
+            ]
+        },
+        {
+            "rank": 4,
+            "team_id": "5025221074",
+            "score": {
+                "num_solved": 0,
+                "total_time": 0
+            },
+            "problems": [
+                {
+                    "label": "ASC",
+                    "problem_id": "ASC",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "HELP2.0",
+                    "problem_id": "HELP20",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "TCenayang",
+                    "problem_id": "TCenayang",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "ZIMBABWE",
+                    "problem_id": "ZIMBABWE",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                }
+            ]
+        },
+        {
+            "rank": 4,
+            "team_id": "5025221108",
+            "score": {
+                "num_solved": 0,
+                "total_time": 0
+            },
+            "problems": [
+                {
+                    "label": "ASC",
+                    "problem_id": "ASC",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "HELP2.0",
+                    "problem_id": "HELP20",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "TCenayang",
+                    "problem_id": "TCenayang",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "ZIMBABWE",
+                    "problem_id": "ZIMBABWE",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                }
+            ]
+        },
+        {
+            "rank": 4,
+            "team_id": "5025221098",
+            "score": {
+                "num_solved": 0,
+                "total_time": 0
+            },
+            "problems": [
+                {
+                    "label": "ASC",
+                    "problem_id": "ASC",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "HELP2.0",
+                    "problem_id": "HELP20",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "TCenayang",
+                    "problem_id": "TCenayang",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "ZIMBABWE",
+                    "problem_id": "ZIMBABWE",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                }
+            ]
+        },
+        {
+            "rank": 4,
+            "team_id": "7221300231",
+            "score": {
+                "num_solved": 0,
+                "total_time": 0
+            },
+            "problems": [
+                {
+                    "label": "ASC",
+                    "problem_id": "ASC",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "HELP2.0",
+                    "problem_id": "HELP20",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "TCenayang",
+                    "problem_id": "TCenayang",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "ZIMBABWE",
+                    "problem_id": "ZIMBABWE",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                }
+            ]
+        },
+        {
+            "rank": 4,
+            "team_id": "5025221091",
+            "score": {
+                "num_solved": 0,
+                "total_time": 0
+            },
+            "problems": [
+                {
+                    "label": "ASC",
+                    "problem_id": "ASC",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "HELP2.0",
+                    "problem_id": "HELP20",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "TCenayang",
+                    "problem_id": "TCenayang",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "ZIMBABWE",
+                    "problem_id": "ZIMBABWE",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                }
+            ]
+        },
+        {
+            "rank": 4,
+            "team_id": "5025221092",
+            "score": {
+                "num_solved": 0,
+                "total_time": 0
+            },
+            "problems": [
+                {
+                    "label": "ASC",
+                    "problem_id": "ASC",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "HELP2.0",
+                    "problem_id": "HELP20",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "TCenayang",
+                    "problem_id": "TCenayang",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "ZIMBABWE",
+                    "problem_id": "ZIMBABWE",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                }
+            ]
+        },
+        {
+            "rank": 4,
+            "team_id": "7221300048",
+            "score": {
+                "num_solved": 0,
+                "total_time": 0
+            },
+            "problems": [
+                {
+                    "label": "ASC",
+                    "problem_id": "ASC",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "HELP2.0",
+                    "problem_id": "HELP20",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "TCenayang",
+                    "problem_id": "TCenayang",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "ZIMBABWE",
+                    "problem_id": "ZIMBABWE",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                }
+            ]
+        },
+        {
+            "rank": 4,
+            "team_id": "5025221112",
+            "score": {
+                "num_solved": 0,
+                "total_time": 0
+            },
+            "problems": [
+                {
+                    "label": "ASC",
+                    "problem_id": "ASC",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "HELP2.0",
+                    "problem_id": "HELP20",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "TCenayang",
+                    "problem_id": "TCenayang",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "ZIMBABWE",
+                    "problem_id": "ZIMBABWE",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                }
+            ]
+        },
+        {
+            "rank": 4,
+            "team_id": "5025221109",
+            "score": {
+                "num_solved": 0,
+                "total_time": 0
+            },
+            "problems": [
+                {
+                    "label": "ASC",
+                    "problem_id": "ASC",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "HELP2.0",
+                    "problem_id": "HELP20",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "TCenayang",
+                    "problem_id": "TCenayang",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "ZIMBABWE",
+                    "problem_id": "ZIMBABWE",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                }
+            ]
+        },
+        {
+            "rank": 4,
+            "team_id": "5025221065",
+            "score": {
+                "num_solved": 0,
+                "total_time": 0
+            },
+            "problems": [
+                {
+                    "label": "ASC",
+                    "problem_id": "ASC",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "HELP2.0",
+                    "problem_id": "HELP20",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "TCenayang",
+                    "problem_id": "TCenayang",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "ZIMBABWE",
+                    "problem_id": "ZIMBABWE",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                }
+            ]
+        },
+        {
+            "rank": 4,
+            "team_id": "5025221078",
+            "score": {
+                "num_solved": 0,
+                "total_time": 0
+            },
+            "problems": [
+                {
+                    "label": "ASC",
+                    "problem_id": "ASC",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "HELP2.0",
+                    "problem_id": "HELP20",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "TCenayang",
+                    "problem_id": "TCenayang",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "ZIMBABWE",
+                    "problem_id": "ZIMBABWE",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                }
+            ]
+        },
+        {
+            "rank": 4,
+            "team_id": "5025221076",
+            "score": {
+                "num_solved": 0,
+                "total_time": 0
+            },
+            "problems": [
+                {
+                    "label": "ASC",
+                    "problem_id": "ASC",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "HELP2.0",
+                    "problem_id": "HELP20",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "TCenayang",
+                    "problem_id": "TCenayang",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "ZIMBABWE",
+                    "problem_id": "ZIMBABWE",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                }
+            ]
+        },
+        {
+            "rank": 4,
+            "team_id": "5025221067",
+            "score": {
+                "num_solved": 0,
+                "total_time": 0
+            },
+            "problems": [
+                {
+                    "label": "ASC",
+                    "problem_id": "ASC",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "HELP2.0",
+                    "problem_id": "HELP20",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "TCenayang",
+                    "problem_id": "TCenayang",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "ZIMBABWE",
+                    "problem_id": "ZIMBABWE",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                }
+            ]
+        },
+        {
+            "rank": 4,
+            "team_id": "5025221318",
+            "score": {
+                "num_solved": 0,
+                "total_time": 0
+            },
+            "problems": [
+                {
+                    "label": "ASC",
+                    "problem_id": "ASC",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "HELP2.0",
+                    "problem_id": "HELP20",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "TCenayang",
+                    "problem_id": "TCenayang",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "ZIMBABWE",
+                    "problem_id": "ZIMBABWE",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                }
+            ]
+        },
+        {
+            "rank": 4,
+            "team_id": "5025221088",
+            "score": {
+                "num_solved": 0,
+                "total_time": 0
+            },
+            "problems": [
+                {
+                    "label": "ASC",
+                    "problem_id": "ASC",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "HELP2.0",
+                    "problem_id": "HELP20",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "TCenayang",
+                    "problem_id": "TCenayang",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "ZIMBABWE",
+                    "problem_id": "ZIMBABWE",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                }
+            ]
+        },
+        {
+            "rank": 4,
+            "team_id": "5025221073",
+            "score": {
+                "num_solved": 0,
+                "total_time": 0
+            },
+            "problems": [
+                {
+                    "label": "ASC",
+                    "problem_id": "ASC",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "HELP2.0",
+                    "problem_id": "HELP20",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "TCenayang",
+                    "problem_id": "TCenayang",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "ZIMBABWE",
+                    "problem_id": "ZIMBABWE",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                }
+            ]
+        }
+    ]
+}

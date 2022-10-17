@@ -1,0 +1,1736 @@
+{
+    "event_id": "112401",
+    "time": "2022-10-14T20:32:08.215+07:00",
+    "contest_time": "121:32:08.214",
+    "state": {
+        "started": "2022-10-09T19:00:00.000+07:00",
+        "ended": "2022-10-14T19:00:00.000+07:00",
+        "frozen": null,
+        "thawed": null,
+        "finalized": null,
+        "end_of_updates": null
+    },
+    "rows": [
+        {
+            "rank": 1,
+            "team_id": "5025221028",
+            "score": {
+                "num_solved": 4,
+                "total_time": 162
+            },
+            "problems": [
+                {
+                    "label": "BukuIdamanDani",
+                    "problem_id": "BukuIdamanDani",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": true,
+                    "time": 0
+                },
+                {
+                    "label": "DEATH",
+                    "problem_id": "DEATH",
+                    "num_judged": 2,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": true,
+                    "time": 6
+                },
+                {
+                    "label": "KASUR",
+                    "problem_id": "KASUR",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": true,
+                    "time": 0
+                },
+                {
+                    "label": "SPE",
+                    "problem_id": "SPE",
+                    "num_judged": 7,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": true,
+                    "time": 16
+                }
+            ]
+        },
+        {
+            "rank": 2,
+            "team_id": "5025221042",
+            "score": {
+                "num_solved": 4,
+                "total_time": 16085
+            },
+            "problems": [
+                {
+                    "label": "BukuIdamanDani",
+                    "problem_id": "BukuIdamanDani",
+                    "num_judged": 2,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 4232
+                },
+                {
+                    "label": "DEATH",
+                    "problem_id": "DEATH",
+                    "num_judged": 4,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 3930
+                },
+                {
+                    "label": "KASUR",
+                    "problem_id": "KASUR",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 3921
+                },
+                {
+                    "label": "SPE",
+                    "problem_id": "SPE",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 3922
+                }
+            ]
+        },
+        {
+            "rank": 3,
+            "team_id": "5025221049",
+            "score": {
+                "num_solved": 4,
+                "total_time": 17422
+            },
+            "problems": [
+                {
+                    "label": "BukuIdamanDani",
+                    "problem_id": "BukuIdamanDani",
+                    "num_judged": 4,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 5871
+                },
+                {
+                    "label": "DEATH",
+                    "problem_id": "DEATH",
+                    "num_judged": 4,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 5527
+                },
+                {
+                    "label": "KASUR",
+                    "problem_id": "KASUR",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 10
+                },
+                {
+                    "label": "SPE",
+                    "problem_id": "SPE",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 5894
+                }
+            ]
+        },
+        {
+            "rank": 4,
+            "team_id": "5025221217",
+            "score": {
+                "num_solved": 3,
+                "total_time": 10064
+            },
+            "problems": [
+                {
+                    "label": "BukuIdamanDani",
+                    "problem_id": "BukuIdamanDani",
+                    "num_judged": 4,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 5610
+                },
+                {
+                    "label": "DEATH",
+                    "problem_id": "DEATH",
+                    "num_judged": 2,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 2921
+                },
+                {
+                    "label": "KASUR",
+                    "problem_id": "KASUR",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 1453
+                },
+                {
+                    "label": "SPE",
+                    "problem_id": "SPE",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                }
+            ]
+        },
+        {
+            "rank": 5,
+            "team_id": "5025221117",
+            "score": {
+                "num_solved": 3,
+                "total_time": 14144
+            },
+            "problems": [
+                {
+                    "label": "BukuIdamanDani",
+                    "problem_id": "BukuIdamanDani",
+                    "num_judged": 3,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 7141
+                },
+                {
+                    "label": "DEATH",
+                    "problem_id": "DEATH",
+                    "num_judged": 3,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 3911
+                },
+                {
+                    "label": "KASUR",
+                    "problem_id": "KASUR",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 3012
+                },
+                {
+                    "label": "SPE",
+                    "problem_id": "SPE",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                }
+            ]
+        },
+        {
+            "rank": 6,
+            "team_id": "5025221203",
+            "score": {
+                "num_solved": 3,
+                "total_time": 15072
+            },
+            "problems": [
+                {
+                    "label": "BukuIdamanDani",
+                    "problem_id": "BukuIdamanDani",
+                    "num_judged": 10,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 6533
+                },
+                {
+                    "label": "DEATH",
+                    "problem_id": "DEATH",
+                    "num_judged": 11,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 5668
+                },
+                {
+                    "label": "KASUR",
+                    "problem_id": "KASUR",
+                    "num_judged": 6,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 2391
+                },
+                {
+                    "label": "SPE",
+                    "problem_id": "SPE",
+                    "num_judged": 7,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                }
+            ]
+        },
+        {
+            "rank": 7,
+            "team_id": "5025221021",
+            "score": {
+                "num_solved": 3,
+                "total_time": 15350
+            },
+            "problems": [
+                {
+                    "label": "BukuIdamanDani",
+                    "problem_id": "BukuIdamanDani",
+                    "num_judged": 8,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 7198
+                },
+                {
+                    "label": "DEATH",
+                    "problem_id": "DEATH",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 5539
+                },
+                {
+                    "label": "KASUR",
+                    "problem_id": "KASUR",
+                    "num_judged": 2,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 2453
+                },
+                {
+                    "label": "SPE",
+                    "problem_id": "SPE",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                }
+            ]
+        },
+        {
+            "rank": 8,
+            "team_id": "5025221266",
+            "score": {
+                "num_solved": 3,
+                "total_time": 16817
+            },
+            "problems": [
+                {
+                    "label": "BukuIdamanDani",
+                    "problem_id": "BukuIdamanDani",
+                    "num_judged": 7,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 7187
+                },
+                {
+                    "label": "DEATH",
+                    "problem_id": "DEATH",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 6957
+                },
+                {
+                    "label": "KASUR",
+                    "problem_id": "KASUR",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 2553
+                },
+                {
+                    "label": "SPE",
+                    "problem_id": "SPE",
+                    "num_judged": 6,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                }
+            ]
+        },
+        {
+            "rank": 9,
+            "team_id": "5025221131",
+            "score": {
+                "num_solved": 3,
+                "total_time": 18492
+            },
+            "problems": [
+                {
+                    "label": "BukuIdamanDani",
+                    "problem_id": "BukuIdamanDani",
+                    "num_judged": 13,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 7194
+                },
+                {
+                    "label": "DEATH",
+                    "problem_id": "DEATH",
+                    "num_judged": 4,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 5593
+                },
+                {
+                    "label": "KASUR",
+                    "problem_id": "KASUR",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 5405
+                },
+                {
+                    "label": "SPE",
+                    "problem_id": "SPE",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                }
+            ]
+        },
+        {
+            "rank": 10,
+            "team_id": "5025221146",
+            "score": {
+                "num_solved": 3,
+                "total_time": 21308
+            },
+            "problems": [
+                {
+                    "label": "BukuIdamanDani",
+                    "problem_id": "BukuIdamanDani",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 7192
+                },
+                {
+                    "label": "DEATH",
+                    "problem_id": "DEATH",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 7058
+                },
+                {
+                    "label": "KASUR",
+                    "problem_id": "KASUR",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 7058
+                },
+                {
+                    "label": "SPE",
+                    "problem_id": "SPE",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                }
+            ]
+        },
+        {
+            "rank": 11,
+            "team_id": "5025221007",
+            "score": {
+                "num_solved": 3,
+                "total_time": 21399
+            },
+            "problems": [
+                {
+                    "label": "BukuIdamanDani",
+                    "problem_id": "BukuIdamanDani",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 7168
+                },
+                {
+                    "label": "DEATH",
+                    "problem_id": "DEATH",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 7103
+                },
+                {
+                    "label": "KASUR",
+                    "problem_id": "KASUR",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 7128
+                },
+                {
+                    "label": "SPE",
+                    "problem_id": "SPE",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                }
+            ]
+        },
+        {
+            "rank": 12,
+            "team_id": "5025221168",
+            "score": {
+                "num_solved": 3,
+                "total_time": 21520
+            },
+            "problems": [
+                {
+                    "label": "BukuIdamanDani",
+                    "problem_id": "BukuIdamanDani",
+                    "num_judged": 3,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 7194
+                },
+                {
+                    "label": "DEATH",
+                    "problem_id": "DEATH",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 7153
+                },
+                {
+                    "label": "KASUR",
+                    "problem_id": "KASUR",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 7133
+                },
+                {
+                    "label": "SPE",
+                    "problem_id": "SPE",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                }
+            ]
+        },
+        {
+            "rank": 13,
+            "team_id": "5025221063",
+            "score": {
+                "num_solved": 2,
+                "total_time": 7305
+            },
+            "problems": [
+                {
+                    "label": "BukuIdamanDani",
+                    "problem_id": "BukuIdamanDani",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "DEATH",
+                    "problem_id": "DEATH",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 7189
+                },
+                {
+                    "label": "KASUR",
+                    "problem_id": "KASUR",
+                    "num_judged": 4,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 56
+                },
+                {
+                    "label": "SPE",
+                    "problem_id": "SPE",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                }
+            ]
+        },
+        {
+            "rank": 14,
+            "team_id": "5025221014",
+            "score": {
+                "num_solved": 2,
+                "total_time": 9317
+            },
+            "problems": [
+                {
+                    "label": "BukuIdamanDani",
+                    "problem_id": "BukuIdamanDani",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "DEATH",
+                    "problem_id": "DEATH",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 6855
+                },
+                {
+                    "label": "KASUR",
+                    "problem_id": "KASUR",
+                    "num_judged": 5,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 2382
+                },
+                {
+                    "label": "SPE",
+                    "problem_id": "SPE",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                }
+            ]
+        },
+        {
+            "rank": 15,
+            "team_id": "5025221252",
+            "score": {
+                "num_solved": 2,
+                "total_time": 9375
+            },
+            "problems": [
+                {
+                    "label": "BukuIdamanDani",
+                    "problem_id": "BukuIdamanDani",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "DEATH",
+                    "problem_id": "DEATH",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 6845
+                },
+                {
+                    "label": "KASUR",
+                    "problem_id": "KASUR",
+                    "num_judged": 4,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 2470
+                },
+                {
+                    "label": "SPE",
+                    "problem_id": "SPE",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                }
+            ]
+        },
+        {
+            "rank": 16,
+            "team_id": "5025221161",
+            "score": {
+                "num_solved": 2,
+                "total_time": 11092
+            },
+            "problems": [
+                {
+                    "label": "BukuIdamanDani",
+                    "problem_id": "BukuIdamanDani",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "DEATH",
+                    "problem_id": "DEATH",
+                    "num_judged": 5,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 5600
+                },
+                {
+                    "label": "KASUR",
+                    "problem_id": "KASUR",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 5412
+                },
+                {
+                    "label": "SPE",
+                    "problem_id": "SPE",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                }
+            ]
+        },
+        {
+            "rank": 17,
+            "team_id": "5025221196",
+            "score": {
+                "num_solved": 2,
+                "total_time": 11444
+            },
+            "problems": [
+                {
+                    "label": "BukuIdamanDani",
+                    "problem_id": "BukuIdamanDani",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "DEATH",
+                    "problem_id": "DEATH",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 7121
+                },
+                {
+                    "label": "KASUR",
+                    "problem_id": "KASUR",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 4323
+                },
+                {
+                    "label": "SPE",
+                    "problem_id": "SPE",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                }
+            ]
+        },
+        {
+            "rank": 18,
+            "team_id": "5025221245",
+            "score": {
+                "num_solved": 2,
+                "total_time": 12347
+            },
+            "problems": [
+                {
+                    "label": "BukuIdamanDani",
+                    "problem_id": "BukuIdamanDani",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "DEATH",
+                    "problem_id": "DEATH",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 6583
+                },
+                {
+                    "label": "KASUR",
+                    "problem_id": "KASUR",
+                    "num_judged": 12,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 5544
+                },
+                {
+                    "label": "SPE",
+                    "problem_id": "SPE",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                }
+            ]
+        },
+        {
+            "rank": 19,
+            "team_id": "5025221231",
+            "score": {
+                "num_solved": 2,
+                "total_time": 12639
+            },
+            "problems": [
+                {
+                    "label": "BukuIdamanDani",
+                    "problem_id": "BukuIdamanDani",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "DEATH",
+                    "problem_id": "DEATH",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 7145
+                },
+                {
+                    "label": "KASUR",
+                    "problem_id": "KASUR",
+                    "num_judged": 2,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 5474
+                },
+                {
+                    "label": "SPE",
+                    "problem_id": "SPE",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                }
+            ]
+        },
+        {
+            "rank": 20,
+            "team_id": "5025221259",
+            "score": {
+                "num_solved": 2,
+                "total_time": 12983
+            },
+            "problems": [
+                {
+                    "label": "BukuIdamanDani",
+                    "problem_id": "BukuIdamanDani",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "DEATH",
+                    "problem_id": "DEATH",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 7154
+                },
+                {
+                    "label": "KASUR",
+                    "problem_id": "KASUR",
+                    "num_judged": 3,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 5789
+                },
+                {
+                    "label": "SPE",
+                    "problem_id": "SPE",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                }
+            ]
+        },
+        {
+            "rank": 21,
+            "team_id": "5025221210",
+            "score": {
+                "num_solved": 2,
+                "total_time": 13100
+            },
+            "problems": [
+                {
+                    "label": "BukuIdamanDani",
+                    "problem_id": "BukuIdamanDani",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "DEATH",
+                    "problem_id": "DEATH",
+                    "num_judged": 2,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 7113
+                },
+                {
+                    "label": "KASUR",
+                    "problem_id": "KASUR",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 5967
+                },
+                {
+                    "label": "SPE",
+                    "problem_id": "SPE",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                }
+            ]
+        },
+        {
+            "rank": 22,
+            "team_id": "5025221175",
+            "score": {
+                "num_solved": 2,
+                "total_time": 13700
+            },
+            "problems": [
+                {
+                    "label": "BukuIdamanDani",
+                    "problem_id": "BukuIdamanDani",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "DEATH",
+                    "problem_id": "DEATH",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 6844
+                },
+                {
+                    "label": "KASUR",
+                    "problem_id": "KASUR",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 6856
+                },
+                {
+                    "label": "SPE",
+                    "problem_id": "SPE",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                }
+            ]
+        },
+        {
+            "rank": 23,
+            "team_id": "5025221154",
+            "score": {
+                "num_solved": 2,
+                "total_time": 13701
+            },
+            "problems": [
+                {
+                    "label": "BukuIdamanDani",
+                    "problem_id": "BukuIdamanDani",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "DEATH",
+                    "problem_id": "DEATH",
+                    "num_judged": 3,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 6956
+                },
+                {
+                    "label": "KASUR",
+                    "problem_id": "KASUR",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 6705
+                },
+                {
+                    "label": "SPE",
+                    "problem_id": "SPE",
+                    "num_judged": 4,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                }
+            ]
+        },
+        {
+            "rank": 24,
+            "team_id": "5025221273",
+            "score": {
+                "num_solved": 2,
+                "total_time": 13768
+            },
+            "problems": [
+                {
+                    "label": "BukuIdamanDani",
+                    "problem_id": "BukuIdamanDani",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "DEATH",
+                    "problem_id": "DEATH",
+                    "num_judged": 2,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 6893
+                },
+                {
+                    "label": "KASUR",
+                    "problem_id": "KASUR",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 6855
+                },
+                {
+                    "label": "SPE",
+                    "problem_id": "SPE",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                }
+            ]
+        },
+        {
+            "rank": 25,
+            "team_id": "5025221280",
+            "score": {
+                "num_solved": 2,
+                "total_time": 13867
+            },
+            "problems": [
+                {
+                    "label": "BukuIdamanDani",
+                    "problem_id": "BukuIdamanDani",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "DEATH",
+                    "problem_id": "DEATH",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 7025
+                },
+                {
+                    "label": "KASUR",
+                    "problem_id": "KASUR",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 6842
+                },
+                {
+                    "label": "SPE",
+                    "problem_id": "SPE",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                }
+            ]
+        },
+        {
+            "rank": 26,
+            "team_id": "5025221301",
+            "score": {
+                "num_solved": 2,
+                "total_time": 13885
+            },
+            "problems": [
+                {
+                    "label": "BukuIdamanDani",
+                    "problem_id": "BukuIdamanDani",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "DEATH",
+                    "problem_id": "DEATH",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 7030
+                },
+                {
+                    "label": "KASUR",
+                    "problem_id": "KASUR",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 6855
+                },
+                {
+                    "label": "SPE",
+                    "problem_id": "SPE",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                }
+            ]
+        },
+        {
+            "rank": 27,
+            "team_id": "5025221056",
+            "score": {
+                "num_solved": 2,
+                "total_time": 13982
+            },
+            "problems": [
+                {
+                    "label": "BukuIdamanDani",
+                    "problem_id": "BukuIdamanDani",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "DEATH",
+                    "problem_id": "DEATH",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 7125
+                },
+                {
+                    "label": "KASUR",
+                    "problem_id": "KASUR",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 6857
+                },
+                {
+                    "label": "SPE",
+                    "problem_id": "SPE",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                }
+            ]
+        },
+        {
+            "rank": 28,
+            "team_id": "5025221224",
+            "score": {
+                "num_solved": 2,
+                "total_time": 13982
+            },
+            "problems": [
+                {
+                    "label": "BukuIdamanDani",
+                    "problem_id": "BukuIdamanDani",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "DEATH",
+                    "problem_id": "DEATH",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 7132
+                },
+                {
+                    "label": "KASUR",
+                    "problem_id": "KASUR",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 6850
+                },
+                {
+                    "label": "SPE",
+                    "problem_id": "SPE",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                }
+            ]
+        },
+        {
+            "rank": 29,
+            "team_id": "5025221308",
+            "score": {
+                "num_solved": 2,
+                "total_time": 14121
+            },
+            "problems": [
+                {
+                    "label": "BukuIdamanDani",
+                    "problem_id": "BukuIdamanDani",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "DEATH",
+                    "problem_id": "DEATH",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 7121
+                },
+                {
+                    "label": "KASUR",
+                    "problem_id": "KASUR",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 7000
+                },
+                {
+                    "label": "SPE",
+                    "problem_id": "SPE",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                }
+            ]
+        },
+        {
+            "rank": 30,
+            "team_id": "5025221294",
+            "score": {
+                "num_solved": 2,
+                "total_time": 14122
+            },
+            "problems": [
+                {
+                    "label": "BukuIdamanDani",
+                    "problem_id": "BukuIdamanDani",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "DEATH",
+                    "problem_id": "DEATH",
+                    "num_judged": 5,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 7106
+                },
+                {
+                    "label": "KASUR",
+                    "problem_id": "KASUR",
+                    "num_judged": 2,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 6916
+                },
+                {
+                    "label": "SPE",
+                    "problem_id": "SPE",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                }
+            ]
+        },
+        {
+            "rank": 31,
+            "team_id": "5025221287",
+            "score": {
+                "num_solved": 2,
+                "total_time": 14280
+            },
+            "problems": [
+                {
+                    "label": "BukuIdamanDani",
+                    "problem_id": "BukuIdamanDani",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "DEATH",
+                    "problem_id": "DEATH",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 7143
+                },
+                {
+                    "label": "KASUR",
+                    "problem_id": "KASUR",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 7137
+                },
+                {
+                    "label": "SPE",
+                    "problem_id": "SPE",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                }
+            ]
+        },
+        {
+            "rank": 32,
+            "team_id": "5025221138",
+            "score": {
+                "num_solved": 2,
+                "total_time": 14330
+            },
+            "problems": [
+                {
+                    "label": "BukuIdamanDani",
+                    "problem_id": "BukuIdamanDani",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "DEATH",
+                    "problem_id": "DEATH",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 7159
+                },
+                {
+                    "label": "KASUR",
+                    "problem_id": "KASUR",
+                    "num_judged": 3,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 7131
+                },
+                {
+                    "label": "SPE",
+                    "problem_id": "SPE",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                }
+            ]
+        },
+        {
+            "rank": 33,
+            "team_id": "5025221035",
+            "score": {
+                "num_solved": 2,
+                "total_time": 14336
+            },
+            "problems": [
+                {
+                    "label": "BukuIdamanDani",
+                    "problem_id": "BukuIdamanDani",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "DEATH",
+                    "problem_id": "DEATH",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 7169
+                },
+                {
+                    "label": "KASUR",
+                    "problem_id": "KASUR",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 7167
+                },
+                {
+                    "label": "SPE",
+                    "problem_id": "SPE",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                }
+            ]
+        },
+        {
+            "rank": 34,
+            "team_id": "5025221189",
+            "score": {
+                "num_solved": 2,
+                "total_time": 14365
+            },
+            "problems": [
+                {
+                    "label": "BukuIdamanDani",
+                    "problem_id": "BukuIdamanDani",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "DEATH",
+                    "problem_id": "DEATH",
+                    "num_judged": 3,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 7169
+                },
+                {
+                    "label": "KASUR",
+                    "problem_id": "KASUR",
+                    "num_judged": 3,
+                    "num_pending": 0,
+                    "solved": true,
+                    "first_to_solve": false,
+                    "time": 7116
+                },
+                {
+                    "label": "SPE",
+                    "problem_id": "SPE",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                }
+            ]
+        },
+        {
+            "rank": 35,
+            "team_id": "5025221105",
+            "score": {
+                "num_solved": 0,
+                "total_time": 0
+            },
+            "problems": [
+                {
+                    "label": "BukuIdamanDani",
+                    "problem_id": "BukuIdamanDani",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "DEATH",
+                    "problem_id": "DEATH",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "KASUR",
+                    "problem_id": "KASUR",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "SPE",
+                    "problem_id": "SPE",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                }
+            ]
+        },
+        {
+            "rank": 35,
+            "team_id": "5025221315",
+            "score": {
+                "num_solved": 0,
+                "total_time": 0
+            },
+            "problems": [
+                {
+                    "label": "BukuIdamanDani",
+                    "problem_id": "BukuIdamanDani",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "DEATH",
+                    "problem_id": "DEATH",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "KASUR",
+                    "problem_id": "KASUR",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "SPE",
+                    "problem_id": "SPE",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                }
+            ]
+        },
+        {
+            "rank": 35,
+            "team_id": "5025221182",
+            "score": {
+                "num_solved": 0,
+                "total_time": 0
+            },
+            "problems": [
+                {
+                    "label": "BukuIdamanDani",
+                    "problem_id": "BukuIdamanDani",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "DEATH",
+                    "problem_id": "DEATH",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "KASUR",
+                    "problem_id": "KASUR",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "SPE",
+                    "problem_id": "SPE",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                }
+            ]
+        },
+        {
+            "rank": 35,
+            "team_id": "5025221238",
+            "score": {
+                "num_solved": 0,
+                "total_time": 0
+            },
+            "problems": [
+                {
+                    "label": "BukuIdamanDani",
+                    "problem_id": "BukuIdamanDani",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "DEATH",
+                    "problem_id": "DEATH",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "KASUR",
+                    "problem_id": "KASUR",
+                    "num_judged": 1,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "SPE",
+                    "problem_id": "SPE",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                }
+            ]
+        },
+        {
+            "rank": 35,
+            "team_id": "5025221124",
+            "score": {
+                "num_solved": 0,
+                "total_time": 0
+            },
+            "problems": [
+                {
+                    "label": "BukuIdamanDani",
+                    "problem_id": "BukuIdamanDani",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "DEATH",
+                    "problem_id": "DEATH",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "KASUR",
+                    "problem_id": "KASUR",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                },
+                {
+                    "label": "SPE",
+                    "problem_id": "SPE",
+                    "num_judged": 0,
+                    "num_pending": 0,
+                    "solved": false,
+                    "first_to_solve": false
+                }
+            ]
+        }
+    ]
+}
