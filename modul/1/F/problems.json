@@ -1,44 +1,44 @@
 [
     {
         "ordinal": 0,
-        "id": "DAYAT2",
-        "short_name": "DAYAT2",
-        "label": "DAYAT2",
+        "id": "DAYAT1",
+        "short_name": "DAYAT1",
+        "label": "DAYAT1",
         "time_limit": 1.0,
-        "externalid": "DAYAT2",
-        "name": "Dayat Terjebak",
+        "externalid": "DAYAT1",
+        "name": "Dayat Terdampar",
         "rgb": "#0000FF",
         "color": "BLUE"
     },
     {
         "ordinal": 1,
-        "id": "PP",
-        "short_name": "PP",
-        "label": "PP",
-        "time_limit": 0.5,
-        "externalid": "PP",
-        "name": "Pembalasan Perang",
+        "id": "gacha",
+        "short_name": "gacha",
+        "label": "gacha",
+        "time_limit": 1.0,
+        "externalid": "gacha",
+        "name": "Gacha Mesin Waktu",
         "rgb": "#FF0000",
         "color": "red"
     },
     {
         "ordinal": 2,
-        "id": "s1Mp",
-        "short_name": "s1Mp",
-        "label": "s1Mp",
+        "id": "Pengampunan",
+        "short_name": "Pengampunan",
+        "label": "Pengampunan",
         "time_limit": 1.0,
-        "externalid": "s1Mp",
-        "name": "KoSimp Jaog Enkripsi",
-        "rgb": "#0000FF",
-        "color": "blue"
+        "externalid": "Pengampunan",
+        "name": "Pengampunan"
     },
     {
         "ordinal": 3,
-        "id": "Yunus",
-        "short_name": "Yunus",
-        "label": "Yunus",
+        "id": "PERANG",
+        "short_name": "PERANG",
+        "label": "PERANG",
         "time_limit": 1.0,
-        "externalid": "Yunus",
-        "name": "Yunus"
+        "externalid": "PERANG",
+        "name": "Perang Berdua",
+        "rgb": "#FFFF00",
+        "color": "yellow"
     }
 ]
