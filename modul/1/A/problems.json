@@ -1,0 +1,42 @@
+[
+    {
+        "ordinal": 0,
+        "id": "DTS",
+        "short_name": "DTS",
+        "label": "DTS",
+        "time_limit": 1.0,
+        "externalid": "DTS",
+        "name": "Djumanto the Savior",
+        "rgb": "#800000",
+        "color": "maroon"
+    },
+    {
+        "ordinal": 1,
+        "id": "DV",
+        "short_name": "DV",
+        "label": "DV",
+        "time_limit": 1.0,
+        "externalid": "DV",
+        "name": "Deja Vu"
+    },
+    {
+        "ordinal": 2,
+        "id": "Soulmate",
+        "short_name": "SLMT",
+        "label": "SLMT",
+        "time_limit": 1.0,
+        "externalid": "Soulmate",
+        "name": "Bilangan Mr.Nagnalib",
+        "rgb": "#008000",
+        "color": "green"
+    },
+    {
+        "ordinal": 3,
+        "id": "SS",
+        "short_name": "SS",
+        "label": "SS",
+        "time_limit": 1.0,
+        "externalid": "SS",
+        "name": "Soal Simpel"
+    }
+]

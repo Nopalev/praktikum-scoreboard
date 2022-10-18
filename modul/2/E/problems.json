@@ -1,0 +1,44 @@
+[
+    {
+        "ordinal": 0,
+        "id": "AMK",
+        "short_name": "AMK",
+        "label": "AMK",
+        "time_limit": 1.0,
+        "externalid": "AMK",
+        "name": "Aceng Menebak Kerbau",
+        "rgb": "#800080",
+        "color": "purple"
+    },
+    {
+        "ordinal": 1,
+        "id": "CUM",
+        "short_name": "CUM",
+        "label": "CUM",
+        "time_limit": 1.0,
+        "externalid": "CUM",
+        "name": "Cobaan Untuk Maput",
+        "rgb": "#c45422",
+        "color": "chocolate"
+    },
+    {
+        "ordinal": 2,
+        "id": "PE",
+        "short_name": "PE",
+        "label": "PE",
+        "time_limit": 5.0,
+        "externalid": "PE",
+        "name": "Pengen Es Krim"
+    },
+    {
+        "ordinal": 3,
+        "id": "T1",
+        "short_name": "T1",
+        "label": "T1",
+        "time_limit": 1.0,
+        "externalid": "T1",
+        "name": "Tangga Pertama",
+        "rgb": "#0aa1ff",
+        "color": "dodgerblue"
+    }
+]

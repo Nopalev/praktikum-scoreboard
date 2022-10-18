@@ -1,0 +1,46 @@
+[
+    {
+        "ordinal": 0,
+        "id": "_____",
+        "short_name": "_____",
+        "label": "_____",
+        "time_limit": 1.0,
+        "externalid": "_____",
+        "name": "0",
+        "rgb": "#FF0000",
+        "color": "red"
+    },
+    {
+        "ordinal": 1,
+        "id": "BerburuDiskon",
+        "short_name": "BerburuDiskon",
+        "label": "BerburuDiskon",
+        "time_limit": 1.0,
+        "externalid": "BerburuDiskon",
+        "name": "Berburu Diskon",
+        "rgb": "#FF0000",
+        "color": "red"
+    },
+    {
+        "ordinal": 2,
+        "id": "OgitHunter",
+        "short_name": "OgitHunter",
+        "label": "OgitHunter",
+        "time_limit": 1.0,
+        "externalid": "OgitHunter",
+        "name": "Ogit Hunter",
+        "rgb": "#FF0000",
+        "color": "red"
+    },
+    {
+        "ordinal": 3,
+        "id": "UJN",
+        "short_name": "Ujana",
+        "label": "Ujana",
+        "time_limit": 1.0,
+        "externalid": "UJN",
+        "name": "Ujana",
+        "rgb": "#f599ff",
+        "color": "violet"
+    }
+]

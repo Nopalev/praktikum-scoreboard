@@ -1,0 +1,46 @@
+[
+    {
+        "ordinal": 0,
+        "id": "AM",
+        "short_name": "AM",
+        "label": "AM",
+        "time_limit": 1.0,
+        "externalid": "AM",
+        "name": "Aceng Mengide",
+        "rgb": "#DC143C",
+        "color": "crimson"
+    },
+    {
+        "ordinal": 1,
+        "id": "JIMB",
+        "short_name": "JIMB",
+        "label": "JIMB",
+        "time_limit": 1.0,
+        "externalid": "JIMB",
+        "name": "Jok Ingin Menangkap Bjarkan",
+        "rgb": "#c45422",
+        "color": "chocolate"
+    },
+    {
+        "ordinal": 2,
+        "id": "LP",
+        "short_name": "LP",
+        "label": "LP",
+        "time_limit": 1.0,
+        "externalid": "LP",
+        "name": "Lupa Pin",
+        "rgb": "#ffd5e5",
+        "color": "mistyrose"
+    },
+    {
+        "ordinal": 3,
+        "id": "S1",
+        "short_name": "S1",
+        "label": "S1",
+        "time_limit": 1.0,
+        "externalid": "S1",
+        "name": "Soal Pertama",
+        "rgb": "#0000FF",
+        "color": "blue"
+    }
+]

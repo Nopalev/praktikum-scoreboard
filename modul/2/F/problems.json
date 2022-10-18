@@ -1,0 +1,44 @@
+[
+    {
+        "ordinal": 0,
+        "id": "DAYAT1",
+        "short_name": "DAYAT1",
+        "label": "DAYAT1",
+        "time_limit": 1.0,
+        "externalid": "DAYAT1",
+        "name": "Dayat Terdampar",
+        "rgb": "#0000FF",
+        "color": "BLUE"
+    },
+    {
+        "ordinal": 1,
+        "id": "gacha",
+        "short_name": "gacha",
+        "label": "gacha",
+        "time_limit": 1.0,
+        "externalid": "gacha",
+        "name": "Gacha Mesin Waktu",
+        "rgb": "#FF0000",
+        "color": "red"
+    },
+    {
+        "ordinal": 2,
+        "id": "Pengampunan",
+        "short_name": "Pengampunan",
+        "label": "Pengampunan",
+        "time_limit": 1.0,
+        "externalid": "Pengampunan",
+        "name": "Pengampunan"
+    },
+    {
+        "ordinal": 3,
+        "id": "PERANG",
+        "short_name": "PERANG",
+        "label": "PERANG",
+        "time_limit": 1.0,
+        "externalid": "PERANG",
+        "name": "Perang Berdua",
+        "rgb": "#FFFF00",
+        "color": "yellow"
+    }
+]

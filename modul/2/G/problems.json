@@ -1,0 +1,46 @@
+[
+    {
+        "ordinal": 0,
+        "id": "BukuIdamanDani",
+        "short_name": "BukuIdamanDani",
+        "label": "BukuIdamanDani",
+        "time_limit": 1.0,
+        "externalid": "BukuIdamanDani",
+        "name": "Buku Idaman Dani...",
+        "rgb": "#2dedcd",
+        "color": "turquoise"
+    },
+    {
+        "ordinal": 1,
+        "id": "DEATH",
+        "short_name": "DEATH",
+        "label": "DEATH",
+        "time_limit": 1.0,
+        "externalid": "DEATH",
+        "name": "Threat from Beyond Death",
+        "rgb": "#ab28fd",
+        "color": "blueviolet"
+    },
+    {
+        "ordinal": 2,
+        "id": "KASUR",
+        "short_name": "KASUR",
+        "label": "KASUR",
+        "time_limit": 1.0,
+        "externalid": "KASUR",
+        "name": "Kasur Bang",
+        "rgb": "#ffd90f",
+        "color": "gold"
+    },
+    {
+        "ordinal": 3,
+        "id": "SPE",
+        "short_name": "SPE",
+        "label": "SPE",
+        "time_limit": 4.0,
+        "externalid": "SPE",
+        "name": "Si Paling EZ",
+        "rgb": "#FF0000",
+        "color": "red"
+    }
+]

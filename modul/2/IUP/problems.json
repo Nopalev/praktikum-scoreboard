@@ -1,0 +1,46 @@
+[
+    {
+        "ordinal": 0,
+        "id": "ASC",
+        "short_name": "ASC",
+        "label": "ASC",
+        "time_limit": 1.0,
+        "externalid": "ASC",
+        "name": "ASC",
+        "rgb": "#FFA500",
+        "color": "orange"
+    },
+    {
+        "ordinal": 1,
+        "id": "HELP20",
+        "short_name": "HELP2.0",
+        "label": "HELP2.0",
+        "time_limit": 10.0,
+        "externalid": "HELP20",
+        "name": "HELP20",
+        "rgb": "#7752ab",
+        "color": "slateblue"
+    },
+    {
+        "ordinal": 2,
+        "id": "TCenayang",
+        "short_name": "TCenayang",
+        "label": "TCenayang",
+        "time_limit": 1.0,
+        "externalid": "TCenayang",
+        "name": "TCenayang",
+        "rgb": "#FF0000",
+        "color": "red"
+    },
+    {
+        "ordinal": 3,
+        "id": "ZIMBABWE",
+        "short_name": "ZIMBABWE",
+        "label": "ZIMBABWE",
+        "time_limit": 1.0,
+        "externalid": "ZIMBABWE",
+        "name": "Zimbabwe Casino",
+        "rgb": "#0000FF",
+        "color": "blue"
+    }
+]

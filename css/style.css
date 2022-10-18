@@ -53,9 +53,28 @@ table tr td:last-child, table tr th:last-child {
     display: flex;
     justify-content: center;
 }
+.TextCenter{
+    text-align: center !important;
+}
 .RankText{
     font-size: x-large;
     font-weight: bolder;
+}
+.ToolTip .ToolTipText{
+    visibility: hidden;
+    width: 100px;
+    font-size: small;
+    font-weight: normal;
+    text-align: center;
+    padding: 10px;
+    border-radius: 4px;
+    margin-left: -60px;
+    margin-top: -40%;
+    position: absolute;
+    z-index: 1;
+}
+.ToolTip:hover .ToolTipText{
+    visibility: visible;
 }
 .TeamText{
     text-align: left;

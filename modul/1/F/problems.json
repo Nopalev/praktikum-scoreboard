@@ -1,0 +1,44 @@
+[
+    {
+        "ordinal": 0,
+        "id": "DAYAT2",
+        "short_name": "DAYAT2",
+        "label": "DAYAT2",
+        "time_limit": 1.0,
+        "externalid": "DAYAT2",
+        "name": "Dayat Terjebak",
+        "rgb": "#0000FF",
+        "color": "BLUE"
+    },
+    {
+        "ordinal": 1,
+        "id": "PP",
+        "short_name": "PP",
+        "label": "PP",
+        "time_limit": 0.5,
+        "externalid": "PP",
+        "name": "Pembalasan Perang",
+        "rgb": "#FF0000",
+        "color": "red"
+    },
+    {
+        "ordinal": 2,
+        "id": "s1Mp",
+        "short_name": "s1Mp",
+        "label": "s1Mp",
+        "time_limit": 1.0,
+        "externalid": "s1Mp",
+        "name": "KoSimp Jaog Enkripsi",
+        "rgb": "#0000FF",
+        "color": "blue"
+    },
+    {
+        "ordinal": 3,
+        "id": "Yunus",
+        "short_name": "Yunus",
+        "label": "Yunus",
+        "time_limit": 1.0,
+        "externalid": "Yunus",
+        "name": "Yunus"
+    }
+]

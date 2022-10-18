@@ -1,0 +1,46 @@
+[
+    {
+        "ordinal": 0,
+        "id": "CARDS",
+        "short_name": "CARDS",
+        "label": "CARDS",
+        "time_limit": 1.0,
+        "externalid": "CARDS",
+        "name": "Choose The Cards",
+        "rgb": "#0000FF",
+        "color": "blue"
+    },
+    {
+        "ordinal": 1,
+        "id": "HELP",
+        "short_name": "HELP",
+        "label": "HELP",
+        "time_limit": 1.0,
+        "externalid": "HELP",
+        "name": "HELP",
+        "rgb": "#FF0000",
+        "color": "red"
+    },
+    {
+        "ordinal": 2,
+        "id": "kenjeran",
+        "short_name": "kenjeran",
+        "label": "kenjeran",
+        "time_limit": 1.0,
+        "externalid": "kenjeran",
+        "name": "KNJRN",
+        "rgb": "#FFFF00",
+        "color": "yellow"
+    },
+    {
+        "ordinal": 3,
+        "id": "SLEEP",
+        "short_name": "SLEEP",
+        "label": "SLEEP",
+        "time_limit": 1.0,
+        "externalid": "SLEEP",
+        "name": "Zoro Wants to Sleep Again",
+        "rgb": "#77c433",
+        "color": "yellowgreen"
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "ordinal": 0,
+        "id": "DESIRE",
+        "short_name": "DESIRE",
+        "label": "DESIRE",
+        "time_limit": 1.0,
+        "externalid": "DESIRE",
+        "name": "Desire for Treasure",
+        "rgb": "#ff1900",
+        "color": "red"
+    },
+    {
+        "ordinal": 1,
+        "id": "NABRAK",
+        "short_name": "NABRAK",
+        "label": "NABRAK",
+        "time_limit": 1.0,
+        "externalid": "NABRAK",
+        "name": "Nabrak Bang",
+        "rgb": "#da8ee7",
+        "color": "plum"
+    },
+    {
+        "ordinal": 2,
+        "id": "PDD",
+        "short_name": "PerjalananDaniDimulai",
+        "label": "PerjalananDaniDimulai",
+        "time_limit": 1.0,
+        "externalid": "PDD",
+        "name": "Perjalanan Dani Dimulai!",
+        "rgb": "#4DF5BF",
+        "color": "turquoise"
+    },
+    {
+        "ordinal": 3,
+        "id": "SPS",
+        "short_name": "SPS",
+        "label": "SPS",
+        "time_limit": 1.0,
+        "externalid": "SPS",
+        "name": "Si Paling Sombong",
+        "rgb": "#FF0000",
+        "color": "red"
+    }
+]

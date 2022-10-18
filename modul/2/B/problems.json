@@ -1,0 +1,40 @@
+[
+    {
+        "ordinal": 0,
+        "id": "2ndModule_CharlieWantsSomeDrips",
+        "short_name": "2ndModule_CharlieWantsSomeDrips",
+        "label": "2ndModule_CharlieWantsSomeDrips",
+        "time_limit": 1.0,
+        "externalid": "2ndModule_CharlieWantsSomeDrips",
+        "name": "CharlieWantsSomeDrips"
+    },
+    {
+        "ordinal": 1,
+        "id": "ArraySenilai",
+        "short_name": "ArraySenilai",
+        "label": "ArraySenilai",
+        "time_limit": 1.0,
+        "externalid": "ArraySenilai",
+        "name": "Array Senilai"
+    },
+    {
+        "ordinal": 2,
+        "id": "Meitantei",
+        "short_name": "Meitantei",
+        "label": "Meitantei",
+        "time_limit": 1.0,
+        "externalid": "Meitantei",
+        "name": "Meitantei"
+    },
+    {
+        "ordinal": 3,
+        "id": "TLE",
+        "short_name": "TLE",
+        "label": "TLE",
+        "time_limit": 1.0,
+        "externalid": "TLE",
+        "name": "Tower Level Elevation",
+        "rgb": "#FAF0E6",
+        "color": "linen"
+    }
+]

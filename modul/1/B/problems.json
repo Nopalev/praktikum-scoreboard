@@ -1,0 +1,38 @@
+[
+    {
+        "ordinal": 0,
+        "id": "Bits",
+        "short_name": "Bits",
+        "label": "Bits",
+        "time_limit": 1.0,
+        "externalid": "Bits",
+        "name": "Bits"
+    },
+    {
+        "ordinal": 1,
+        "id": "GrindTime",
+        "short_name": "GrindTime",
+        "label": "GrindTime",
+        "time_limit": 1.0,
+        "externalid": "GrindTime",
+        "name": "Grinding Time"
+    },
+    {
+        "ordinal": 2,
+        "id": "NilaiOwo",
+        "short_name": "NilaiOwo",
+        "label": "NilaiOwo",
+        "time_limit": 1.0,
+        "externalid": "NilaiOwo",
+        "name": "Nilai Owo"
+    },
+    {
+        "ordinal": 3,
+        "id": "Powerof2",
+        "short_name": "Powerof2",
+        "label": "Powerof2",
+        "time_limit": 1.0,
+        "externalid": "Powerof2",
+        "name": "Power of 2"
+    }
+]

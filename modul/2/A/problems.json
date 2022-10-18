@@ -1,0 +1,46 @@
+[
+    {
+        "ordinal": 0,
+        "id": "BS",
+        "short_name": "BS",
+        "label": "BS",
+        "time_limit": 1.0,
+        "externalid": "BS",
+        "name": "Bermain String",
+        "rgb": "#0000FF",
+        "color": "blue"
+    },
+    {
+        "ordinal": 1,
+        "id": "DK",
+        "short_name": "DK",
+        "label": "DK",
+        "time_limit": 1.0,
+        "externalid": "DK",
+        "name": "Djumanto Kebingungan",
+        "rgb": "#FFFF00",
+        "color": "yellow"
+    },
+    {
+        "ordinal": 2,
+        "id": "GMC",
+        "short_name": "GMC",
+        "label": "GMC",
+        "time_limit": 0.5,
+        "externalid": "GMC",
+        "name": "Gudang Mrs.Chemistrya",
+        "rgb": "#008000",
+        "color": "green"
+    },
+    {
+        "ordinal": 3,
+        "id": "SPP",
+        "short_name": "SPP",
+        "label": "SPP",
+        "time_limit": 1.0,
+        "externalid": "SPP",
+        "name": "Si Paling Prima",
+        "rgb": "#6900fc",
+        "color": "darkviolet"
+    }
+]
