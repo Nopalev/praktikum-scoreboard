@@ -24,7 +24,6 @@ function AddTitleAndHeader(){
 }
 
 async function TableLoader(){
-    console.log(scoreboardDirectory);
     const response1 = await fetch(scoreboardDirectory);
     const scoreboardData = await response1.json();
     const response2 = await fetch(teamsDirectory);
@@ -47,7 +46,10 @@ async function TableLoader(){
             th.classList.add("TextCenter");
             const problemName = document.createElement("span");
             problemName.classList.add("ToolTipText");
-            problemName.appendChild(document.createTextNode(problemsData[count].name));
+            const problemNameText = problemsData.find(index => 
+                index.id === scoreboardData.rows[0].problems[count].problem_id
+            );
+            problemName.appendChild(document.createTextNode(problemNameText.name));
             th.appendChild(problemName);
             count++;
         }
