@@ -1,0 +1,46 @@
+[
+  {
+    "ordinal": 0,
+    "id": "Binary_Recursion",
+    "short_name": "Binary_Recursion",
+    "label": "Binary_Recursion",
+    "time_limit": 1.0,
+    "externalid": "Binary_Recursion",
+    "name": "Binary_Recursion",
+    "rgb": "#0000FF",
+    "color": "blue"
+  },
+  {
+    "ordinal": 1,
+    "id": "HELP30",
+    "short_name": "HELP3.0",
+    "label": "HELP3.0",
+    "time_limit": 1.0,
+    "externalid": "HELP30",
+    "name": "HELP3.0",
+    "rgb": "#a091ab",
+    "color": "darkgray"
+  },
+  {
+    "ordinal": 2,
+    "id": "STRCOMPRESS",
+    "short_name": "STRCOMPRESS",
+    "label": "STRCOMPRESS",
+    "time_limit": 1.0,
+    "externalid": "STRCOMPRESS",
+    "name": "String Compression",
+    "rgb": "#f5c045",
+    "color": "sandybrown"
+  },
+  {
+    "ordinal": 3,
+    "id": "TCenayang2",
+    "short_name": "TCenayang2",
+    "label": "TCenayang2",
+    "time_limit": 1.0,
+    "externalid": "TCenayang2",
+    "name": "TCenayang2",
+    "rgb": "#FF0000",
+    "color": "red"
+  }
+]
