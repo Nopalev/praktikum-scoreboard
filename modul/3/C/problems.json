@@ -1,0 +1,46 @@
+[
+  {
+    "ordinal": 0,
+    "id": "Habis",
+    "short_name": "Habis",
+    "label": "Habis",
+    "time_limit": 10.0,
+    "externalid": "Habis",
+    "name": "Habis",
+    "rgb": "#008000",
+    "color": "green"
+  },
+  {
+    "ordinal": 1,
+    "id": "MikoMengurut",
+    "short_name": "MikoMengurut",
+    "label": "MikoMengurut",
+    "time_limit": 1.0,
+    "externalid": "MikoMengurut",
+    "name": "Miko Mengurut",
+    "rgb": "#FF0000",
+    "color": "red"
+  },
+  {
+    "ordinal": 2,
+    "id": "PerhitunganBangetSih",
+    "short_name": "PerhitunganBangetSih",
+    "label": "PerhitunganBangetSih",
+    "time_limit": 1.0,
+    "externalid": "PerhitunganBangetSih",
+    "name": "Perhitungan Banget Sih",
+    "rgb": "#FFC0CB",
+    "color": "Pink"
+  },
+  {
+    "ordinal": 3,
+    "id": "UJN3-EZ",
+    "short_name": "UJN3-EZ",
+    "label": "UJN3-EZ",
+    "time_limit": 10.0,
+    "externalid": "UJN3-EZ",
+    "name": "Ujana: Pintu Misterius (ez juga kok ini)",
+    "rgb": "#ff60c2",
+    "color": "hotpink"
+  }
+]

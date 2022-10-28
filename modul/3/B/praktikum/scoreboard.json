@@ -1,0 +1,1598 @@
+{
+  "event_id": "127145",
+  "time": "2022-10-28T15:20:33.784+07:00",
+  "contest_time": "2:20:33.783",
+  "state": {
+    "started": "2022-10-28T13:00:00.000+07:00",
+    "ended": "2022-10-28T15:20:00.000+07:00",
+    "frozen": null,
+    "thawed": null,
+    "finalized": null,
+    "end_of_updates": null
+  },
+  "rows": [
+    {
+      "rank": 1,
+      "team_id": "5025221163",
+      "score": { "num_solved": 3, "total_time": 150 },
+      "problems": [
+        {
+          "label": "Acak",
+          "problem_id": "Acak",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": true,
+          "time": 69
+        },
+        {
+          "label": "AlexandraThePro",
+          "problem_id": "AlexandraThePro",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 45
+        },
+        {
+          "label": "Base",
+          "problem_id": "Base",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "TO100",
+          "problem_id": "TO100",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": true,
+          "time": 36
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "team_id": "5025221156",
+      "score": { "num_solved": 2, "total_time": 114 },
+      "problems": [
+        {
+          "label": "Acak",
+          "problem_id": "Acak",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "AlexandraThePro",
+          "problem_id": "AlexandraThePro",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 62
+        },
+        {
+          "label": "Base",
+          "problem_id": "Base",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "TO100",
+          "problem_id": "TO100",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 52
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "team_id": "5025221289",
+      "score": { "num_solved": 2, "total_time": 133 },
+      "problems": [
+        {
+          "label": "Acak",
+          "problem_id": "Acak",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "AlexandraThePro",
+          "problem_id": "AlexandraThePro",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 61
+        },
+        {
+          "label": "Base",
+          "problem_id": "Base",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "TO100",
+          "problem_id": "TO100",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 72
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "team_id": "5025221233",
+      "score": { "num_solved": 2, "total_time": 154 },
+      "problems": [
+        {
+          "label": "Acak",
+          "problem_id": "Acak",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "AlexandraThePro",
+          "problem_id": "AlexandraThePro",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 74
+        },
+        {
+          "label": "Base",
+          "problem_id": "Base",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "TO100",
+          "problem_id": "TO100",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 80
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "team_id": "5025221177",
+      "score": { "num_solved": 2, "total_time": 158 },
+      "problems": [
+        {
+          "label": "Acak",
+          "problem_id": "Acak",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "AlexandraThePro",
+          "problem_id": "AlexandraThePro",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 70
+        },
+        {
+          "label": "Base",
+          "problem_id": "Base",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "TO100",
+          "problem_id": "TO100",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 88
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "team_id": "5025221023",
+      "score": { "num_solved": 2, "total_time": 158 },
+      "problems": [
+        {
+          "label": "Acak",
+          "problem_id": "Acak",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "AlexandraThePro",
+          "problem_id": "AlexandraThePro",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": true,
+          "time": 41
+        },
+        {
+          "label": "Base",
+          "problem_id": "Base",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "TO100",
+          "problem_id": "TO100",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 117
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "team_id": "5025221119",
+      "score": { "num_solved": 1, "total_time": 60 },
+      "problems": [
+        {
+          "label": "Acak",
+          "problem_id": "Acak",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "AlexandraThePro",
+          "problem_id": "AlexandraThePro",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 60
+        },
+        {
+          "label": "Base",
+          "problem_id": "Base",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "TO100",
+          "problem_id": "TO100",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "team_id": "5025221002",
+      "score": { "num_solved": 1, "total_time": 71 },
+      "problems": [
+        {
+          "label": "Acak",
+          "problem_id": "Acak",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "AlexandraThePro",
+          "problem_id": "AlexandraThePro",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 71
+        },
+        {
+          "label": "Base",
+          "problem_id": "Base",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "TO100",
+          "problem_id": "TO100",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "team_id": "5025221009",
+      "score": { "num_solved": 1, "total_time": 79 },
+      "problems": [
+        {
+          "label": "Acak",
+          "problem_id": "Acak",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "AlexandraThePro",
+          "problem_id": "AlexandraThePro",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 79
+        },
+        {
+          "label": "Base",
+          "problem_id": "Base",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "TO100",
+          "problem_id": "TO100",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "team_id": "5025221044",
+      "score": { "num_solved": 1, "total_time": 87 },
+      "problems": [
+        {
+          "label": "Acak",
+          "problem_id": "Acak",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "AlexandraThePro",
+          "problem_id": "AlexandraThePro",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 87
+        },
+        {
+          "label": "Base",
+          "problem_id": "Base",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "TO100",
+          "problem_id": "TO100",
+          "num_judged": 6,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        }
+      ]
+    },
+    {
+      "rank": 11,
+      "team_id": "5025221037",
+      "score": { "num_solved": 1, "total_time": 93 },
+      "problems": [
+        {
+          "label": "Acak",
+          "problem_id": "Acak",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "AlexandraThePro",
+          "problem_id": "AlexandraThePro",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 93
+        },
+        {
+          "label": "Base",
+          "problem_id": "Base",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "TO100",
+          "problem_id": "TO100",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        }
+      ]
+    },
+    {
+      "rank": 11,
+      "team_id": "5025221240",
+      "score": { "num_solved": 1, "total_time": 93 },
+      "problems": [
+        {
+          "label": "Acak",
+          "problem_id": "Acak",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 93
+        },
+        {
+          "label": "AlexandraThePro",
+          "problem_id": "AlexandraThePro",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "Base",
+          "problem_id": "Base",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "TO100",
+          "problem_id": "TO100",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        }
+      ]
+    },
+    {
+      "rank": 13,
+      "team_id": "5025221030",
+      "score": { "num_solved": 1, "total_time": 103 },
+      "problems": [
+        {
+          "label": "Acak",
+          "problem_id": "Acak",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "AlexandraThePro",
+          "problem_id": "AlexandraThePro",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 103
+        },
+        {
+          "label": "Base",
+          "problem_id": "Base",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "TO100",
+          "problem_id": "TO100",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        }
+      ]
+    },
+    {
+      "rank": 14,
+      "team_id": "5025221126",
+      "score": { "num_solved": 1, "total_time": 114 },
+      "problems": [
+        {
+          "label": "Acak",
+          "problem_id": "Acak",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "AlexandraThePro",
+          "problem_id": "AlexandraThePro",
+          "num_judged": 2,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 94
+        },
+        {
+          "label": "Base",
+          "problem_id": "Base",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "TO100",
+          "problem_id": "TO100",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        }
+      ]
+    },
+    {
+      "rank": 15,
+      "team_id": "5025221254",
+      "score": { "num_solved": 1, "total_time": 129 },
+      "problems": [
+        {
+          "label": "Acak",
+          "problem_id": "Acak",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "AlexandraThePro",
+          "problem_id": "AlexandraThePro",
+          "num_judged": 2,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 109
+        },
+        {
+          "label": "Base",
+          "problem_id": "Base",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "TO100",
+          "problem_id": "TO100",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        }
+      ]
+    },
+    {
+      "rank": 16,
+      "team_id": "5025221100",
+      "score": { "num_solved": 1, "total_time": 145 },
+      "problems": [
+        {
+          "label": "Acak",
+          "problem_id": "Acak",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "AlexandraThePro",
+          "problem_id": "AlexandraThePro",
+          "num_judged": 3,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 105
+        },
+        {
+          "label": "Base",
+          "problem_id": "Base",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "TO100",
+          "problem_id": "TO100",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        }
+      ]
+    },
+    {
+      "rank": 17,
+      "team_id": "5025221191",
+      "score": { "num_solved": 0, "total_time": 0 },
+      "problems": [
+        {
+          "label": "Acak",
+          "problem_id": "Acak",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "AlexandraThePro",
+          "problem_id": "AlexandraThePro",
+          "num_judged": 2,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "Base",
+          "problem_id": "Base",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "TO100",
+          "problem_id": "TO100",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        }
+      ]
+    },
+    {
+      "rank": 17,
+      "team_id": "5025221133",
+      "score": { "num_solved": 0, "total_time": 0 },
+      "problems": [
+        {
+          "label": "Acak",
+          "problem_id": "Acak",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "AlexandraThePro",
+          "problem_id": "AlexandraThePro",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "Base",
+          "problem_id": "Base",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "TO100",
+          "problem_id": "TO100",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        }
+      ]
+    },
+    {
+      "rank": 17,
+      "team_id": "5025221016",
+      "score": { "num_solved": 0, "total_time": 0 },
+      "problems": [
+        {
+          "label": "Acak",
+          "problem_id": "Acak",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "AlexandraThePro",
+          "problem_id": "AlexandraThePro",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "Base",
+          "problem_id": "Base",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "TO100",
+          "problem_id": "TO100",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        }
+      ]
+    },
+    {
+      "rank": 17,
+      "team_id": "5025221140",
+      "score": { "num_solved": 0, "total_time": 0 },
+      "problems": [
+        {
+          "label": "Acak",
+          "problem_id": "Acak",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "AlexandraThePro",
+          "problem_id": "AlexandraThePro",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "Base",
+          "problem_id": "Base",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "TO100",
+          "problem_id": "TO100",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        }
+      ]
+    },
+    {
+      "rank": 17,
+      "team_id": "5025221205",
+      "score": { "num_solved": 0, "total_time": 0 },
+      "problems": [
+        {
+          "label": "Acak",
+          "problem_id": "Acak",
+          "num_judged": 2,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "AlexandraThePro",
+          "problem_id": "AlexandraThePro",
+          "num_judged": 2,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "Base",
+          "problem_id": "Base",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "TO100",
+          "problem_id": "TO100",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        }
+      ]
+    },
+    {
+      "rank": 17,
+      "team_id": "5025221184",
+      "score": { "num_solved": 0, "total_time": 0 },
+      "problems": [
+        {
+          "label": "Acak",
+          "problem_id": "Acak",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "AlexandraThePro",
+          "problem_id": "AlexandraThePro",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "Base",
+          "problem_id": "Base",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "TO100",
+          "problem_id": "TO100",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        }
+      ]
+    },
+    {
+      "rank": 17,
+      "team_id": "5025221170",
+      "score": { "num_solved": 0, "total_time": 0 },
+      "problems": [
+        {
+          "label": "Acak",
+          "problem_id": "Acak",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "AlexandraThePro",
+          "problem_id": "AlexandraThePro",
+          "num_judged": 4,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "Base",
+          "problem_id": "Base",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "TO100",
+          "problem_id": "TO100",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        }
+      ]
+    },
+    {
+      "rank": 17,
+      "team_id": "5025221261",
+      "score": { "num_solved": 0, "total_time": 0 },
+      "problems": [
+        {
+          "label": "Acak",
+          "problem_id": "Acak",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "AlexandraThePro",
+          "problem_id": "AlexandraThePro",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "Base",
+          "problem_id": "Base",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "TO100",
+          "problem_id": "TO100",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        }
+      ]
+    },
+    {
+      "rank": 17,
+      "team_id": "5025221282",
+      "score": { "num_solved": 0, "total_time": 0 },
+      "problems": [
+        {
+          "label": "Acak",
+          "problem_id": "Acak",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "AlexandraThePro",
+          "problem_id": "AlexandraThePro",
+          "num_judged": 5,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "Base",
+          "problem_id": "Base",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "TO100",
+          "problem_id": "TO100",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        }
+      ]
+    },
+    {
+      "rank": 17,
+      "team_id": "5025221107",
+      "score": { "num_solved": 0, "total_time": 0 },
+      "problems": [
+        {
+          "label": "Acak",
+          "problem_id": "Acak",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "AlexandraThePro",
+          "problem_id": "AlexandraThePro",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "Base",
+          "problem_id": "Base",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "TO100",
+          "problem_id": "TO100",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        }
+      ]
+    },
+    {
+      "rank": 17,
+      "team_id": "5025221219",
+      "score": { "num_solved": 0, "total_time": 0 },
+      "problems": [
+        {
+          "label": "Acak",
+          "problem_id": "Acak",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "AlexandraThePro",
+          "problem_id": "AlexandraThePro",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "Base",
+          "problem_id": "Base",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "TO100",
+          "problem_id": "TO100",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        }
+      ]
+    },
+    {
+      "rank": 17,
+      "team_id": "5025221303",
+      "score": { "num_solved": 0, "total_time": 0 },
+      "problems": [
+        {
+          "label": "Acak",
+          "problem_id": "Acak",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "AlexandraThePro",
+          "problem_id": "AlexandraThePro",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "Base",
+          "problem_id": "Base",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "TO100",
+          "problem_id": "TO100",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        }
+      ]
+    },
+    {
+      "rank": 17,
+      "team_id": "5025221268",
+      "score": { "num_solved": 0, "total_time": 0 },
+      "problems": [
+        {
+          "label": "Acak",
+          "problem_id": "Acak",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "AlexandraThePro",
+          "problem_id": "AlexandraThePro",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "Base",
+          "problem_id": "Base",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "TO100",
+          "problem_id": "TO100",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        }
+      ]
+    },
+    {
+      "rank": 17,
+      "team_id": "5025221247",
+      "score": { "num_solved": 0, "total_time": 0 },
+      "problems": [
+        {
+          "label": "Acak",
+          "problem_id": "Acak",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "AlexandraThePro",
+          "problem_id": "AlexandraThePro",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "Base",
+          "problem_id": "Base",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "TO100",
+          "problem_id": "TO100",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        }
+      ]
+    },
+    {
+      "rank": 17,
+      "team_id": "5025221310",
+      "score": { "num_solved": 0, "total_time": 0 },
+      "problems": [
+        {
+          "label": "Acak",
+          "problem_id": "Acak",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "AlexandraThePro",
+          "problem_id": "AlexandraThePro",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "Base",
+          "problem_id": "Base",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "TO100",
+          "problem_id": "TO100",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        }
+      ]
+    },
+    {
+      "rank": 17,
+      "team_id": "5025221317",
+      "score": { "num_solved": 0, "total_time": 0 },
+      "problems": [
+        {
+          "label": "Acak",
+          "problem_id": "Acak",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "AlexandraThePro",
+          "problem_id": "AlexandraThePro",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "Base",
+          "problem_id": "Base",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "TO100",
+          "problem_id": "TO100",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        }
+      ]
+    },
+    {
+      "rank": 17,
+      "team_id": "5025221058",
+      "score": { "num_solved": 0, "total_time": 0 },
+      "problems": [
+        {
+          "label": "Acak",
+          "problem_id": "Acak",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "AlexandraThePro",
+          "problem_id": "AlexandraThePro",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "Base",
+          "problem_id": "Base",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "TO100",
+          "problem_id": "TO100",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        }
+      ]
+    },
+    {
+      "rank": 17,
+      "team_id": "5025221275",
+      "score": { "num_solved": 0, "total_time": 0 },
+      "problems": [
+        {
+          "label": "Acak",
+          "problem_id": "Acak",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "AlexandraThePro",
+          "problem_id": "AlexandraThePro",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "Base",
+          "problem_id": "Base",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "TO100",
+          "problem_id": "TO100",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        }
+      ]
+    },
+    {
+      "rank": 17,
+      "team_id": "5025221296",
+      "score": { "num_solved": 0, "total_time": 0 },
+      "problems": [
+        {
+          "label": "Acak",
+          "problem_id": "Acak",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "AlexandraThePro",
+          "problem_id": "AlexandraThePro",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "Base",
+          "problem_id": "Base",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "TO100",
+          "problem_id": "TO100",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        }
+      ]
+    },
+    {
+      "rank": 17,
+      "team_id": "5025221051",
+      "score": { "num_solved": 0, "total_time": 0 },
+      "problems": [
+        {
+          "label": "Acak",
+          "problem_id": "Acak",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "AlexandraThePro",
+          "problem_id": "AlexandraThePro",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "Base",
+          "problem_id": "Base",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "TO100",
+          "problem_id": "TO100",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        }
+      ]
+    },
+    {
+      "rank": 17,
+      "team_id": "5025221148",
+      "score": { "num_solved": 0, "total_time": 0 },
+      "problems": [
+        {
+          "label": "Acak",
+          "problem_id": "Acak",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "AlexandraThePro",
+          "problem_id": "AlexandraThePro",
+          "num_judged": 6,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "Base",
+          "problem_id": "Base",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "TO100",
+          "problem_id": "TO100",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        }
+      ]
+    },
+    {
+      "rank": 17,
+      "team_id": "5025221198",
+      "score": { "num_solved": 0, "total_time": 0 },
+      "problems": [
+        {
+          "label": "Acak",
+          "problem_id": "Acak",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "AlexandraThePro",
+          "problem_id": "AlexandraThePro",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "Base",
+          "problem_id": "Base",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "TO100",
+          "problem_id": "TO100",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        }
+      ]
+    },
+    {
+      "rank": 17,
+      "team_id": "5025221212",
+      "score": { "num_solved": 0, "total_time": 0 },
+      "problems": [
+        {
+          "label": "Acak",
+          "problem_id": "Acak",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "AlexandraThePro",
+          "problem_id": "AlexandraThePro",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "Base",
+          "problem_id": "Base",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "TO100",
+          "problem_id": "TO100",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        }
+      ]
+    },
+    {
+      "rank": 17,
+      "team_id": "5025221226",
+      "score": { "num_solved": 0, "total_time": 0 },
+      "problems": [
+        {
+          "label": "Acak",
+          "problem_id": "Acak",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "AlexandraThePro",
+          "problem_id": "AlexandraThePro",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "Base",
+          "problem_id": "Base",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "TO100",
+          "problem_id": "TO100",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+[
+  {
+    "ordinal": 0,
+    "id": "BA",
+    "short_name": "BA",
+    "label": "BA",
+    "time_limit": 1.0,
+    "externalid": "BA",
+    "name": "Bermain Angka",
+    "rgb": "#0000FF",
+    "color": "blue"
+  },
+  {
+    "ordinal": 1,
+    "id": "BVT",
+    "short_name": "BVT",
+    "label": "BVT",
+    "time_limit": 0.1,
+    "externalid": "BVT",
+    "name": "Basverter",
+    "rgb": "#008000",
+    "color": "green"
+  },
+  {
+    "ordinal": 2,
+    "id": "LDK",
+    "short_name": "LDK",
+    "label": "LDK",
+    "time_limit": 1.0,
+    "externalid": "LDK",
+    "name": "Liburan di Kepulauan",
+    "rgb": "#22ccaa",
+    "color": "lightseagreen"
+  },
+  {
+    "ordinal": 3,
+    "id": "N",
+    "short_name": "N",
+    "label": "N",
+    "time_limit": 1.0,
+    "externalid": "N",
+    "name": "Nabrak",
+    "rgb": "#ff2020",
+    "color": "red"
+  }
+]

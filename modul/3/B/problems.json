@@ -1,0 +1,44 @@
+[
+  {
+    "ordinal": 0,
+    "id": "Acak",
+    "short_name": "Acak",
+    "label": "Acak",
+    "time_limit": 1.0,
+    "externalid": "Acak",
+    "name": "Acak"
+  },
+  {
+    "ordinal": 1,
+    "id": "AlexandraThePro",
+    "short_name": "AlexandraThePro",
+    "label": "AlexandraThePro",
+    "time_limit": 1.0,
+    "externalid": "AlexandraThePro",
+    "name": "StepsSteps",
+    "rgb": "#800000",
+    "color": "Maroon"
+  },
+  {
+    "ordinal": 2,
+    "id": "Base",
+    "short_name": "Base",
+    "label": "Base",
+    "time_limit": 1.0,
+    "externalid": "Base",
+    "name": "Base",
+    "rgb": "#FA1500",
+    "color": "red"
+  },
+  {
+    "ordinal": 3,
+    "id": "TO100",
+    "short_name": "TO100",
+    "label": "TO100",
+    "time_limit": 1.75,
+    "externalid": "TO100",
+    "name": "To 100 and Not Beyond",
+    "rgb": "#FFA07A",
+    "color": "LightSalmon"
+  }
+]

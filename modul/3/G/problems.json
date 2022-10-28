@@ -1,0 +1,44 @@
+[
+  {
+    "ordinal": 0,
+    "id": "DaniSedangBingung",
+    "short_name": "DaniSedangBingung",
+    "label": "DaniSedangBingung",
+    "time_limit": 10.0,
+    "externalid": "DaniSedangBingung",
+    "name": "DaniSedangBingung"
+  },
+  {
+    "ordinal": 1,
+    "id": "DAZE",
+    "short_name": "DAZE",
+    "label": "DAZE",
+    "time_limit": 1.0,
+    "externalid": "DAZE",
+    "name": "Maze Daze",
+    "rgb": "#61ce30",
+    "color": "limegreen"
+  },
+  {
+    "ordinal": 2,
+    "id": "LAPAR",
+    "short_name": "LAPAR",
+    "label": "LAPAR",
+    "time_limit": 1.0,
+    "externalid": "LAPAR",
+    "name": "Lapar Bang",
+    "rgb": "#e67a03",
+    "color": "darkorange"
+  },
+  {
+    "ordinal": 3,
+    "id": "SPI",
+    "short_name": "SPI",
+    "label": "SPI",
+    "time_limit": 5.0,
+    "externalid": "SPI",
+    "name": "Si Paling Indah",
+    "rgb": "#FF0000",
+    "color": "red"
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "ordinal": 0,
+    "id": "DAYAT3",
+    "short_name": "DAYAT3",
+    "label": "DAYAT3",
+    "time_limit": 1.0,
+    "externalid": "DAYAT3",
+    "name": "Dayat Terkejut",
+    "rgb": "#0000FF",
+    "color": "BLUE"
+  },
+  {
+    "ordinal": 1,
+    "id": "Hud",
+    "short_name": "Hud",
+    "label": "Hud",
+    "time_limit": 1.0,
+    "externalid": "Hud",
+    "name": "Hud"
+  },
+  {
+    "ordinal": 2,
+    "id": "MSP",
+    "short_name": "MSP",
+    "label": "MSP",
+    "time_limit": 1.0,
+    "externalid": "MSP",
+    "name": "Mencuri Strategi Perang",
+    "rgb": "#f200ff",
+    "color": "fuchsia"
+  },
+  {
+    "ordinal": 3,
+    "id": "s1Mp-d4nG0",
+    "short_name": "s1Mp-d4nG0",
+    "label": "s1Mp-d4nG0",
+    "time_limit": 1.0,
+    "externalid": "s1Mp-d4nG0",
+    "name": "KoSimp Dagang Dango",
+    "rgb": "#00FFFF",
+    "color": "cyan"
+  }
+]

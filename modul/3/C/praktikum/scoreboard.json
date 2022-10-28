@@ -1,0 +1,1615 @@
+{
+  "event_id": "127153",
+  "time": "2022-10-28T15:21:05.223+07:00",
+  "contest_time": "2:21:05.223",
+  "state": {
+    "started": "2022-10-28T13:00:00.000+07:00",
+    "ended": "2022-10-28T15:20:00.000+07:00",
+    "frozen": null,
+    "thawed": null,
+    "finalized": null,
+    "end_of_updates": null
+  },
+  "rows": [
+    {
+      "rank": 1,
+      "team_id": "5025221185",
+      "score": { "num_solved": 4, "total_time": 487 },
+      "problems": [
+        {
+          "label": "Habis",
+          "problem_id": "Habis",
+          "num_judged": 3,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 106
+        },
+        {
+          "label": "MikoMengurut",
+          "problem_id": "MikoMengurut",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 130
+        },
+        {
+          "label": "PerhitunganBangetSih",
+          "problem_id": "PerhitunganBangetSih",
+          "num_judged": 2,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": true,
+          "time": 90
+        },
+        {
+          "label": "UJN3-EZ",
+          "problem_id": "UJN3-EZ",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 101
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "team_id": "5025221003",
+      "score": { "num_solved": 3, "total_time": 421 },
+      "problems": [
+        {
+          "label": "Habis",
+          "problem_id": "Habis",
+          "num_judged": 6,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 104
+        },
+        {
+          "label": "MikoMengurut",
+          "problem_id": "MikoMengurut",
+          "num_judged": 2,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 124
+        },
+        {
+          "label": "PerhitunganBangetSih",
+          "problem_id": "PerhitunganBangetSih",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "UJN3-EZ",
+          "problem_id": "UJN3-EZ",
+          "num_judged": 2,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": true,
+          "time": 53
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "team_id": "5025221045",
+      "score": { "num_solved": 3, "total_time": 422 },
+      "problems": [
+        {
+          "label": "Habis",
+          "problem_id": "Habis",
+          "num_judged": 3,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 104
+        },
+        {
+          "label": "MikoMengurut",
+          "problem_id": "MikoMengurut",
+          "num_judged": 3,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": true,
+          "time": 102
+        },
+        {
+          "label": "PerhitunganBangetSih",
+          "problem_id": "PerhitunganBangetSih",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "UJN3-EZ",
+          "problem_id": "UJN3-EZ",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 136
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "team_id": "5025221052",
+      "score": { "num_solved": 2, "total_time": 200 },
+      "problems": [
+        {
+          "label": "Habis",
+          "problem_id": "Habis",
+          "num_judged": 3,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 103
+        },
+        {
+          "label": "MikoMengurut",
+          "problem_id": "MikoMengurut",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "PerhitunganBangetSih",
+          "problem_id": "PerhitunganBangetSih",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "UJN3-EZ",
+          "problem_id": "UJN3-EZ",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 57
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "team_id": "5025221141",
+      "score": { "num_solved": 2, "total_time": 256 },
+      "problems": [
+        {
+          "label": "Habis",
+          "problem_id": "Habis",
+          "num_judged": 2,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 111
+        },
+        {
+          "label": "MikoMengurut",
+          "problem_id": "MikoMengurut",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "PerhitunganBangetSih",
+          "problem_id": "PerhitunganBangetSih",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "UJN3-EZ",
+          "problem_id": "UJN3-EZ",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 125
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "team_id": "5025221038",
+      "score": { "num_solved": 2, "total_time": 286 },
+      "problems": [
+        {
+          "label": "Habis",
+          "problem_id": "Habis",
+          "num_judged": 3,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 128
+        },
+        {
+          "label": "MikoMengurut",
+          "problem_id": "MikoMengurut",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "PerhitunganBangetSih",
+          "problem_id": "PerhitunganBangetSih",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "UJN3-EZ",
+          "problem_id": "UJN3-EZ",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 118
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "team_id": "5025221024",
+      "score": { "num_solved": 2, "total_time": 357 },
+      "problems": [
+        {
+          "label": "Habis",
+          "problem_id": "Habis",
+          "num_judged": 4,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 122
+        },
+        {
+          "label": "MikoMengurut",
+          "problem_id": "MikoMengurut",
+          "num_judged": 3,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 135
+        },
+        {
+          "label": "PerhitunganBangetSih",
+          "problem_id": "PerhitunganBangetSih",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "UJN3-EZ",
+          "problem_id": "UJN3-EZ",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "team_id": "5025221227",
+      "score": { "num_solved": 2, "total_time": 378 },
+      "problems": [
+        {
+          "label": "Habis",
+          "problem_id": "Habis",
+          "num_judged": 8,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": true,
+          "time": 101
+        },
+        {
+          "label": "MikoMengurut",
+          "problem_id": "MikoMengurut",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "PerhitunganBangetSih",
+          "problem_id": "PerhitunganBangetSih",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "UJN3-EZ",
+          "problem_id": "UJN3-EZ",
+          "num_judged": 2,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 117
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "team_id": "5025221220",
+      "score": { "num_solved": 2, "total_time": 380 },
+      "problems": [
+        {
+          "label": "Habis",
+          "problem_id": "Habis",
+          "num_judged": 6,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 104
+        },
+        {
+          "label": "MikoMengurut",
+          "problem_id": "MikoMengurut",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "PerhitunganBangetSih",
+          "problem_id": "PerhitunganBangetSih",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "UJN3-EZ",
+          "problem_id": "UJN3-EZ",
+          "num_judged": 3,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 136
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "team_id": "5025221269",
+      "score": { "num_solved": 2, "total_time": 406 },
+      "problems": [
+        {
+          "label": "Habis",
+          "problem_id": "Habis",
+          "num_judged": 8,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 136
+        },
+        {
+          "label": "MikoMengurut",
+          "problem_id": "MikoMengurut",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "PerhitunganBangetSih",
+          "problem_id": "PerhitunganBangetSih",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "UJN3-EZ",
+          "problem_id": "UJN3-EZ",
+          "num_judged": 3,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 90
+        }
+      ]
+    },
+    {
+      "rank": 11,
+      "team_id": "5025221017",
+      "score": { "num_solved": 1, "total_time": 92 },
+      "problems": [
+        {
+          "label": "Habis",
+          "problem_id": "Habis",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "MikoMengurut",
+          "problem_id": "MikoMengurut",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "PerhitunganBangetSih",
+          "problem_id": "PerhitunganBangetSih",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "UJN3-EZ",
+          "problem_id": "UJN3-EZ",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 92
+        }
+      ]
+    },
+    {
+      "rank": 12,
+      "team_id": "5025221171",
+      "score": { "num_solved": 1, "total_time": 107 },
+      "problems": [
+        {
+          "label": "Habis",
+          "problem_id": "Habis",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 107
+        },
+        {
+          "label": "MikoMengurut",
+          "problem_id": "MikoMengurut",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "PerhitunganBangetSih",
+          "problem_id": "PerhitunganBangetSih",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "UJN3-EZ",
+          "problem_id": "UJN3-EZ",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        }
+      ]
+    },
+    {
+      "rank": 13,
+      "team_id": "5025221101",
+      "score": { "num_solved": 1, "total_time": 110 },
+      "problems": [
+        {
+          "label": "Habis",
+          "problem_id": "Habis",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "MikoMengurut",
+          "problem_id": "MikoMengurut",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "PerhitunganBangetSih",
+          "problem_id": "PerhitunganBangetSih",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "UJN3-EZ",
+          "problem_id": "UJN3-EZ",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 110
+        }
+      ]
+    },
+    {
+      "rank": 14,
+      "team_id": "5025221241",
+      "score": { "num_solved": 1, "total_time": 116 },
+      "problems": [
+        {
+          "label": "Habis",
+          "problem_id": "Habis",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 116
+        },
+        {
+          "label": "MikoMengurut",
+          "problem_id": "MikoMengurut",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "PerhitunganBangetSih",
+          "problem_id": "PerhitunganBangetSih",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "UJN3-EZ",
+          "problem_id": "UJN3-EZ",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        }
+      ]
+    },
+    {
+      "rank": 15,
+      "team_id": "5025221255",
+      "score": { "num_solved": 1, "total_time": 130 },
+      "problems": [
+        {
+          "label": "Habis",
+          "problem_id": "Habis",
+          "num_judged": 2,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 110
+        },
+        {
+          "label": "MikoMengurut",
+          "problem_id": "MikoMengurut",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "PerhitunganBangetSih",
+          "problem_id": "PerhitunganBangetSih",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "UJN3-EZ",
+          "problem_id": "UJN3-EZ",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        }
+      ]
+    },
+    {
+      "rank": 16,
+      "team_id": "5025221262",
+      "score": { "num_solved": 1, "total_time": 136 },
+      "problems": [
+        {
+          "label": "Habis",
+          "problem_id": "Habis",
+          "num_judged": 2,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 116
+        },
+        {
+          "label": "MikoMengurut",
+          "problem_id": "MikoMengurut",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "PerhitunganBangetSih",
+          "problem_id": "PerhitunganBangetSih",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "UJN3-EZ",
+          "problem_id": "UJN3-EZ",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        }
+      ]
+    },
+    {
+      "rank": 16,
+      "team_id": "5025221248",
+      "score": { "num_solved": 1, "total_time": 136 },
+      "problems": [
+        {
+          "label": "Habis",
+          "problem_id": "Habis",
+          "num_judged": 2,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 116
+        },
+        {
+          "label": "MikoMengurut",
+          "problem_id": "MikoMengurut",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "PerhitunganBangetSih",
+          "problem_id": "PerhitunganBangetSih",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "UJN3-EZ",
+          "problem_id": "UJN3-EZ",
+          "num_judged": 3,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        }
+      ]
+    },
+    {
+      "rank": 18,
+      "team_id": "5025221304",
+      "score": { "num_solved": 1, "total_time": 138 },
+      "problems": [
+        {
+          "label": "Habis",
+          "problem_id": "Habis",
+          "num_judged": 2,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 118
+        },
+        {
+          "label": "MikoMengurut",
+          "problem_id": "MikoMengurut",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "PerhitunganBangetSih",
+          "problem_id": "PerhitunganBangetSih",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "UJN3-EZ",
+          "problem_id": "UJN3-EZ",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        }
+      ]
+    },
+    {
+      "rank": 19,
+      "team_id": "5025221234",
+      "score": { "num_solved": 1, "total_time": 139 },
+      "problems": [
+        {
+          "label": "Habis",
+          "problem_id": "Habis",
+          "num_judged": 2,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 119
+        },
+        {
+          "label": "MikoMengurut",
+          "problem_id": "MikoMengurut",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "PerhitunganBangetSih",
+          "problem_id": "PerhitunganBangetSih",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "UJN3-EZ",
+          "problem_id": "UJN3-EZ",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        }
+      ]
+    },
+    {
+      "rank": 20,
+      "team_id": "5025221290",
+      "score": { "num_solved": 1, "total_time": 143 },
+      "problems": [
+        {
+          "label": "Habis",
+          "problem_id": "Habis",
+          "num_judged": 2,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 123
+        },
+        {
+          "label": "MikoMengurut",
+          "problem_id": "MikoMengurut",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "PerhitunganBangetSih",
+          "problem_id": "PerhitunganBangetSih",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "UJN3-EZ",
+          "problem_id": "UJN3-EZ",
+          "num_judged": 3,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        }
+      ]
+    },
+    {
+      "rank": 21,
+      "team_id": "5025221178",
+      "score": { "num_solved": 1, "total_time": 178 },
+      "problems": [
+        {
+          "label": "Habis",
+          "problem_id": "Habis",
+          "num_judged": 3,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "MikoMengurut",
+          "problem_id": "MikoMengurut",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "PerhitunganBangetSih",
+          "problem_id": "PerhitunganBangetSih",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "UJN3-EZ",
+          "problem_id": "UJN3-EZ",
+          "num_judged": 3,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 138
+        }
+      ]
+    },
+    {
+      "rank": 22,
+      "team_id": "5025221031",
+      "score": { "num_solved": 1, "total_time": 213 },
+      "problems": [
+        {
+          "label": "Habis",
+          "problem_id": "Habis",
+          "num_judged": 5,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 133
+        },
+        {
+          "label": "MikoMengurut",
+          "problem_id": "MikoMengurut",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "PerhitunganBangetSih",
+          "problem_id": "PerhitunganBangetSih",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "UJN3-EZ",
+          "problem_id": "UJN3-EZ",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        }
+      ]
+    },
+    {
+      "rank": 23,
+      "team_id": "5025221149",
+      "score": { "num_solved": 1, "total_time": 219 },
+      "problems": [
+        {
+          "label": "Habis",
+          "problem_id": "Habis",
+          "num_judged": 5,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 139
+        },
+        {
+          "label": "MikoMengurut",
+          "problem_id": "MikoMengurut",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "PerhitunganBangetSih",
+          "problem_id": "PerhitunganBangetSih",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "UJN3-EZ",
+          "problem_id": "UJN3-EZ",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        }
+      ]
+    },
+    {
+      "rank": 24,
+      "team_id": "5025221276",
+      "score": { "num_solved": 1, "total_time": 238 },
+      "problems": [
+        {
+          "label": "Habis",
+          "problem_id": "Habis",
+          "num_judged": 7,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 118
+        },
+        {
+          "label": "MikoMengurut",
+          "problem_id": "MikoMengurut",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "PerhitunganBangetSih",
+          "problem_id": "PerhitunganBangetSih",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "UJN3-EZ",
+          "problem_id": "UJN3-EZ",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        }
+      ]
+    },
+    {
+      "rank": 25,
+      "team_id": "5025221157",
+      "score": { "num_solved": 1, "total_time": 259 },
+      "problems": [
+        {
+          "label": "Habis",
+          "problem_id": "Habis",
+          "num_judged": 7,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 139
+        },
+        {
+          "label": "MikoMengurut",
+          "problem_id": "MikoMengurut",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "PerhitunganBangetSih",
+          "problem_id": "PerhitunganBangetSih",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "UJN3-EZ",
+          "problem_id": "UJN3-EZ",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        }
+      ]
+    },
+    {
+      "rank": 26,
+      "team_id": "5025221127",
+      "score": { "num_solved": 1, "total_time": 284 },
+      "problems": [
+        {
+          "label": "Habis",
+          "problem_id": "Habis",
+          "num_judged": 10,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 104
+        },
+        {
+          "label": "MikoMengurut",
+          "problem_id": "MikoMengurut",
+          "num_judged": 6,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "PerhitunganBangetSih",
+          "problem_id": "PerhitunganBangetSih",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "UJN3-EZ",
+          "problem_id": "UJN3-EZ",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        }
+      ]
+    },
+    {
+      "rank": 27,
+      "team_id": "5025221164",
+      "score": { "num_solved": 0, "total_time": 0 },
+      "problems": [
+        {
+          "label": "Habis",
+          "problem_id": "Habis",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "MikoMengurut",
+          "problem_id": "MikoMengurut",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "PerhitunganBangetSih",
+          "problem_id": "PerhitunganBangetSih",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "UJN3-EZ",
+          "problem_id": "UJN3-EZ",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        }
+      ]
+    },
+    {
+      "rank": 27,
+      "team_id": "5025221320",
+      "score": { "num_solved": 0, "total_time": 0 },
+      "problems": [
+        {
+          "label": "Habis",
+          "problem_id": "Habis",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "MikoMengurut",
+          "problem_id": "MikoMengurut",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "PerhitunganBangetSih",
+          "problem_id": "PerhitunganBangetSih",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "UJN3-EZ",
+          "problem_id": "UJN3-EZ",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        }
+      ]
+    },
+    {
+      "rank": 27,
+      "team_id": "5025221297",
+      "score": { "num_solved": 0, "total_time": 0 },
+      "problems": [
+        {
+          "label": "Habis",
+          "problem_id": "Habis",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "MikoMengurut",
+          "problem_id": "MikoMengurut",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "PerhitunganBangetSih",
+          "problem_id": "PerhitunganBangetSih",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "UJN3-EZ",
+          "problem_id": "UJN3-EZ",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        }
+      ]
+    },
+    {
+      "rank": 27,
+      "team_id": "5025221206",
+      "score": { "num_solved": 0, "total_time": 0 },
+      "problems": [
+        {
+          "label": "Habis",
+          "problem_id": "Habis",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "MikoMengurut",
+          "problem_id": "MikoMengurut",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "PerhitunganBangetSih",
+          "problem_id": "PerhitunganBangetSih",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "UJN3-EZ",
+          "problem_id": "UJN3-EZ",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        }
+      ]
+    },
+    {
+      "rank": 27,
+      "team_id": "5025221311",
+      "score": { "num_solved": 0, "total_time": 0 },
+      "problems": [
+        {
+          "label": "Habis",
+          "problem_id": "Habis",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "MikoMengurut",
+          "problem_id": "MikoMengurut",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "PerhitunganBangetSih",
+          "problem_id": "PerhitunganBangetSih",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "UJN3-EZ",
+          "problem_id": "UJN3-EZ",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        }
+      ]
+    },
+    {
+      "rank": 27,
+      "team_id": "5025221134",
+      "score": { "num_solved": 0, "total_time": 0 },
+      "problems": [
+        {
+          "label": "Habis",
+          "problem_id": "Habis",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "MikoMengurut",
+          "problem_id": "MikoMengurut",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "PerhitunganBangetSih",
+          "problem_id": "PerhitunganBangetSih",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "UJN3-EZ",
+          "problem_id": "UJN3-EZ",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        }
+      ]
+    },
+    {
+      "rank": 27,
+      "team_id": "5025221283",
+      "score": { "num_solved": 0, "total_time": 0 },
+      "problems": [
+        {
+          "label": "Habis",
+          "problem_id": "Habis",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "MikoMengurut",
+          "problem_id": "MikoMengurut",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "PerhitunganBangetSih",
+          "problem_id": "PerhitunganBangetSih",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "UJN3-EZ",
+          "problem_id": "UJN3-EZ",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        }
+      ]
+    },
+    {
+      "rank": 27,
+      "team_id": "5025221199",
+      "score": { "num_solved": 0, "total_time": 0 },
+      "problems": [
+        {
+          "label": "Habis",
+          "problem_id": "Habis",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "MikoMengurut",
+          "problem_id": "MikoMengurut",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "PerhitunganBangetSih",
+          "problem_id": "PerhitunganBangetSih",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "UJN3-EZ",
+          "problem_id": "UJN3-EZ",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        }
+      ]
+    },
+    {
+      "rank": 27,
+      "team_id": "5025221192",
+      "score": { "num_solved": 0, "total_time": 0 },
+      "problems": [
+        {
+          "label": "Habis",
+          "problem_id": "Habis",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "MikoMengurut",
+          "problem_id": "MikoMengurut",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "PerhitunganBangetSih",
+          "problem_id": "PerhitunganBangetSih",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "UJN3-EZ",
+          "problem_id": "UJN3-EZ",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        }
+      ]
+    },
+    {
+      "rank": 27,
+      "team_id": "5025221120",
+      "score": { "num_solved": 0, "total_time": 0 },
+      "problems": [
+        {
+          "label": "Habis",
+          "problem_id": "Habis",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "MikoMengurut",
+          "problem_id": "MikoMengurut",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "PerhitunganBangetSih",
+          "problem_id": "PerhitunganBangetSih",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "UJN3-EZ",
+          "problem_id": "UJN3-EZ",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        }
+      ]
+    },
+    {
+      "rank": 27,
+      "team_id": "5025221113",
+      "score": { "num_solved": 0, "total_time": 0 },
+      "problems": [
+        {
+          "label": "Habis",
+          "problem_id": "Habis",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "MikoMengurut",
+          "problem_id": "MikoMengurut",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "PerhitunganBangetSih",
+          "problem_id": "PerhitunganBangetSih",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "UJN3-EZ",
+          "problem_id": "UJN3-EZ",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        }
+      ]
+    },
+    {
+      "rank": 27,
+      "team_id": "5025221010",
+      "score": { "num_solved": 0, "total_time": 0 },
+      "problems": [
+        {
+          "label": "Habis",
+          "problem_id": "Habis",
+          "num_judged": 2,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "MikoMengurut",
+          "problem_id": "MikoMengurut",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "PerhitunganBangetSih",
+          "problem_id": "PerhitunganBangetSih",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "UJN3-EZ",
+          "problem_id": "UJN3-EZ",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        }
+      ]
+    },
+    {
+      "rank": 27,
+      "team_id": "5025221059",
+      "score": { "num_solved": 0, "total_time": 0 },
+      "problems": [
+        {
+          "label": "Habis",
+          "problem_id": "Habis",
+          "num_judged": 2,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "MikoMengurut",
+          "problem_id": "MikoMengurut",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "PerhitunganBangetSih",
+          "problem_id": "PerhitunganBangetSih",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "UJN3-EZ",
+          "problem_id": "UJN3-EZ",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        }
+      ]
+    },
+    {
+      "rank": 27,
+      "team_id": "5025221213",
+      "score": { "num_solved": 0, "total_time": 0 },
+      "problems": [
+        {
+          "label": "Habis",
+          "problem_id": "Habis",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "MikoMengurut",
+          "problem_id": "MikoMengurut",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "PerhitunganBangetSih",
+          "problem_id": "PerhitunganBangetSih",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "UJN3-EZ",
+          "problem_id": "UJN3-EZ",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        }
+      ]
+    }
+  ]
+}

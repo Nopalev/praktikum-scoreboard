@@ -1,0 +1,44 @@
+[
+  {
+    "ordinal": 0,
+    "id": "AMN",
+    "short_name": "AMN",
+    "label": "AMN",
+    "time_limit": 1.0,
+    "externalid": "AMN",
+    "name": "Aceng Menjadi Ninja",
+    "rgb": "#00ff00",
+    "color": "lime"
+  },
+  {
+    "ordinal": 1,
+    "id": "JMCK",
+    "short_name": "JMCK",
+    "label": "JMCK",
+    "time_limit": 1.0,
+    "externalid": "JMCK",
+    "name": "Jok Mengumpulkan Calon Kabinet",
+    "rgb": "#cc2d63",
+    "color": "indianred"
+  },
+  {
+    "ordinal": 2,
+    "id": "P1",
+    "short_name": "P1",
+    "label": "P1",
+    "time_limit": 1.0,
+    "externalid": "P1",
+    "name": "Peta Pertama",
+    "rgb": "#fcf800",
+    "color": "yellow"
+  },
+  {
+    "ordinal": 3,
+    "id": "PkP",
+    "short_name": "PkP",
+    "label": "PkP",
+    "time_limit": 5.0,
+    "externalid": "PkP",
+    "name": "Pergi ke Pasar"
+  }
+]
