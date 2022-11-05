@@ -1,0 +1,1633 @@
+{
+  "event_id": "151058",
+  "time": "2022-11-04T21:06:57.304+07:00",
+  "contest_time": "146:06:57.303",
+  "state": {
+    "started": "2022-10-29T19:00:00.000+07:00",
+    "ended": "2022-11-03T23:59:00.000+07:00",
+    "frozen": null,
+    "thawed": null,
+    "finalized": null,
+    "end_of_updates": null
+  },
+  "rows": [
+    {
+      "rank": 1,
+      "team_id": "5025221001",
+      "score": { "num_solved": 4, "total_time": 5895 },
+      "problems": [
+        {
+          "label": "BA",
+          "problem_id": "BA",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": true,
+          "time": 276
+        },
+        {
+          "label": "BVT",
+          "problem_id": "BVT",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": true,
+          "time": 276
+        },
+        {
+          "label": "LDK",
+          "problem_id": "LDK",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": true,
+          "time": 338
+        },
+        {
+          "label": "N",
+          "problem_id": "N",
+          "num_judged": 13,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": true,
+          "time": 4765
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "team_id": "5025221155",
+      "score": { "num_solved": 4, "total_time": 13460 },
+      "problems": [
+        {
+          "label": "BA",
+          "problem_id": "BA",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 330
+        },
+        {
+          "label": "BVT",
+          "problem_id": "BVT",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 282
+        },
+        {
+          "label": "LDK",
+          "problem_id": "LDK",
+          "num_judged": 4,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 5730
+        },
+        {
+          "label": "N",
+          "problem_id": "N",
+          "num_judged": 10,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 6878
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "team_id": "5025221260",
+      "score": { "num_solved": 4, "total_time": 17089 },
+      "problems": [
+        {
+          "label": "BA",
+          "problem_id": "BA",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 862
+        },
+        {
+          "label": "BVT",
+          "problem_id": "BVT",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 2969
+        },
+        {
+          "label": "LDK",
+          "problem_id": "LDK",
+          "num_judged": 10,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 5983
+        },
+        {
+          "label": "N",
+          "problem_id": "N",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 7095
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "team_id": "5025221057",
+      "score": { "num_solved": 4, "total_time": 21521 },
+      "problems": [
+        {
+          "label": "BA",
+          "problem_id": "BA",
+          "num_judged": 2,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 770
+        },
+        {
+          "label": "BVT",
+          "problem_id": "BVT",
+          "num_judged": 2,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 6859
+        },
+        {
+          "label": "LDK",
+          "problem_id": "LDK",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 6856
+        },
+        {
+          "label": "N",
+          "problem_id": "N",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 6996
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "team_id": "5025221125",
+      "score": { "num_solved": 4, "total_time": 21593 },
+      "problems": [
+        {
+          "label": "BA",
+          "problem_id": "BA",
+          "num_judged": 2,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 4041
+        },
+        {
+          "label": "BVT",
+          "problem_id": "BVT",
+          "num_judged": 2,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 5386
+        },
+        {
+          "label": "LDK",
+          "problem_id": "LDK",
+          "num_judged": 7,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 4983
+        },
+        {
+          "label": "N",
+          "problem_id": "N",
+          "num_judged": 5,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 6943
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "team_id": "5025221218",
+      "score": { "num_solved": 4, "total_time": 23266 },
+      "problems": [
+        {
+          "label": "BA",
+          "problem_id": "BA",
+          "num_judged": 6,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 995
+        },
+        {
+          "label": "BVT",
+          "problem_id": "BVT",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 7132
+        },
+        {
+          "label": "LDK",
+          "problem_id": "LDK",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 7343
+        },
+        {
+          "label": "N",
+          "problem_id": "N",
+          "num_judged": 14,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 7436
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "team_id": "5025221190",
+      "score": { "num_solved": 4, "total_time": 25162 },
+      "problems": [
+        {
+          "label": "BA",
+          "problem_id": "BA",
+          "num_judged": 2,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 4393
+        },
+        {
+          "label": "BVT",
+          "problem_id": "BVT",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 6772
+        },
+        {
+          "label": "LDK",
+          "problem_id": "LDK",
+          "num_judged": 2,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 6730
+        },
+        {
+          "label": "N",
+          "problem_id": "N",
+          "num_judged": 8,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 7087
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "team_id": "5025221176",
+      "score": { "num_solved": 4, "total_time": 25298 },
+      "problems": [
+        {
+          "label": "BA",
+          "problem_id": "BA",
+          "num_judged": 4,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 4433
+        },
+        {
+          "label": "BVT",
+          "problem_id": "BVT",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 6772
+        },
+        {
+          "label": "LDK",
+          "problem_id": "LDK",
+          "num_judged": 3,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 6783
+        },
+        {
+          "label": "N",
+          "problem_id": "N",
+          "num_judged": 7,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 7090
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "team_id": "5025221211",
+      "score": { "num_solved": 4, "total_time": 25443 },
+      "problems": [
+        {
+          "label": "BA",
+          "problem_id": "BA",
+          "num_judged": 5,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 4452
+        },
+        {
+          "label": "BVT",
+          "problem_id": "BVT",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 7046
+        },
+        {
+          "label": "LDK",
+          "problem_id": "LDK",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 6859
+        },
+        {
+          "label": "N",
+          "problem_id": "N",
+          "num_judged": 6,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 6906
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "team_id": "5025221050",
+      "score": { "num_solved": 4, "total_time": 26727 },
+      "problems": [
+        {
+          "label": "BA",
+          "problem_id": "BA",
+          "num_judged": 16,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 6805
+        },
+        {
+          "label": "BVT",
+          "problem_id": "BVT",
+          "num_judged": 7,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 6990
+        },
+        {
+          "label": "LDK",
+          "problem_id": "LDK",
+          "num_judged": 5,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 6839
+        },
+        {
+          "label": "N",
+          "problem_id": "N",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 5593
+        }
+      ]
+    },
+    {
+      "rank": 11,
+      "team_id": "5025221274",
+      "score": { "num_solved": 4, "total_time": 27320 },
+      "problems": [
+        {
+          "label": "BA",
+          "problem_id": "BA",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 5725
+        },
+        {
+          "label": "BVT",
+          "problem_id": "BVT",
+          "num_judged": 11,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 7485
+        },
+        {
+          "label": "LDK",
+          "problem_id": "LDK",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 6751
+        },
+        {
+          "label": "N",
+          "problem_id": "N",
+          "num_judged": 4,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 7099
+        }
+      ]
+    },
+    {
+      "rank": 12,
+      "team_id": "5025221132",
+      "score": { "num_solved": 4, "total_time": 27524 },
+      "problems": [
+        {
+          "label": "BA",
+          "problem_id": "BA",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 6706
+        },
+        {
+          "label": "BVT",
+          "problem_id": "BVT",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 6773
+        },
+        {
+          "label": "LDK",
+          "problem_id": "LDK",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 6736
+        },
+        {
+          "label": "N",
+          "problem_id": "N",
+          "num_judged": 12,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 7089
+        }
+      ]
+    },
+    {
+      "rank": 13,
+      "team_id": "5025221295",
+      "score": { "num_solved": 4, "total_time": 27678 },
+      "problems": [
+        {
+          "label": "BA",
+          "problem_id": "BA",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 6840
+        },
+        {
+          "label": "BVT",
+          "problem_id": "BVT",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 6840
+        },
+        {
+          "label": "LDK",
+          "problem_id": "LDK",
+          "num_judged": 7,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 6860
+        },
+        {
+          "label": "N",
+          "problem_id": "N",
+          "num_judged": 2,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 6998
+        }
+      ]
+    },
+    {
+      "rank": 14,
+      "team_id": "5025221239",
+      "score": { "num_solved": 4, "total_time": 27795 },
+      "problems": [
+        {
+          "label": "BA",
+          "problem_id": "BA",
+          "num_judged": 2,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 6849
+        },
+        {
+          "label": "BVT",
+          "problem_id": "BVT",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 6913
+        },
+        {
+          "label": "LDK",
+          "problem_id": "LDK",
+          "num_judged": 5,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 6956
+        },
+        {
+          "label": "N",
+          "problem_id": "N",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 6977
+        }
+      ]
+    },
+    {
+      "rank": 15,
+      "team_id": "5025221197",
+      "score": { "num_solved": 4, "total_time": 27866 },
+      "problems": [
+        {
+          "label": "BA",
+          "problem_id": "BA",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 6725
+        },
+        {
+          "label": "BVT",
+          "problem_id": "BVT",
+          "num_judged": 3,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 6849
+        },
+        {
+          "label": "LDK",
+          "problem_id": "LDK",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 6862
+        },
+        {
+          "label": "N",
+          "problem_id": "N",
+          "num_judged": 3,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 7350
+        }
+      ]
+    },
+    {
+      "rank": 16,
+      "team_id": "5025221036",
+      "score": { "num_solved": 4, "total_time": 28160 },
+      "problems": [
+        {
+          "label": "BA",
+          "problem_id": "BA",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 7041
+        },
+        {
+          "label": "BVT",
+          "problem_id": "BVT",
+          "num_judged": 6,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 7084
+        },
+        {
+          "label": "LDK",
+          "problem_id": "LDK",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 6835
+        },
+        {
+          "label": "N",
+          "problem_id": "N",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 7100
+        }
+      ]
+    },
+    {
+      "rank": 17,
+      "team_id": "5025221232",
+      "score": { "num_solved": 4, "total_time": 28241 },
+      "problems": [
+        {
+          "label": "BA",
+          "problem_id": "BA",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 7005
+        },
+        {
+          "label": "BVT",
+          "problem_id": "BVT",
+          "num_judged": 4,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 7041
+        },
+        {
+          "label": "LDK",
+          "problem_id": "LDK",
+          "num_judged": 4,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 7066
+        },
+        {
+          "label": "N",
+          "problem_id": "N",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 7009
+        }
+      ]
+    },
+    {
+      "rank": 18,
+      "team_id": "5025221288",
+      "score": { "num_solved": 4, "total_time": 28276 },
+      "problems": [
+        {
+          "label": "BA",
+          "problem_id": "BA",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 7039
+        },
+        {
+          "label": "BVT",
+          "problem_id": "BVT",
+          "num_judged": 3,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 7043
+        },
+        {
+          "label": "LDK",
+          "problem_id": "LDK",
+          "num_judged": 3,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 7046
+        },
+        {
+          "label": "N",
+          "problem_id": "N",
+          "num_judged": 2,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 7048
+        }
+      ]
+    },
+    {
+      "rank": 19,
+      "team_id": "5025221029",
+      "score": { "num_solved": 4, "total_time": 28483 },
+      "problems": [
+        {
+          "label": "BA",
+          "problem_id": "BA",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 6977
+        },
+        {
+          "label": "BVT",
+          "problem_id": "BVT",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 7074
+        },
+        {
+          "label": "LDK",
+          "problem_id": "LDK",
+          "num_judged": 3,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 7061
+        },
+        {
+          "label": "N",
+          "problem_id": "N",
+          "num_judged": 5,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 7251
+        }
+      ]
+    },
+    {
+      "rank": 20,
+      "team_id": "5025221139",
+      "score": { "num_solved": 4, "total_time": 28586 },
+      "problems": [
+        {
+          "label": "BA",
+          "problem_id": "BA",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 7133
+        },
+        {
+          "label": "BVT",
+          "problem_id": "BVT",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 7150
+        },
+        {
+          "label": "LDK",
+          "problem_id": "LDK",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 7151
+        },
+        {
+          "label": "N",
+          "problem_id": "N",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 7152
+        }
+      ]
+    },
+    {
+      "rank": 21,
+      "team_id": "5025221183",
+      "score": { "num_solved": 4, "total_time": 28644 },
+      "problems": [
+        {
+          "label": "BA",
+          "problem_id": "BA",
+          "num_judged": 2,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 7057
+        },
+        {
+          "label": "BVT",
+          "problem_id": "BVT",
+          "num_judged": 6,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 7078
+        },
+        {
+          "label": "LDK",
+          "problem_id": "LDK",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 7175
+        },
+        {
+          "label": "N",
+          "problem_id": "N",
+          "num_judged": 2,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 7194
+        }
+      ]
+    },
+    {
+      "rank": 22,
+      "team_id": "5025221246",
+      "score": { "num_solved": 4, "total_time": 28677 },
+      "problems": [
+        {
+          "label": "BA",
+          "problem_id": "BA",
+          "num_judged": 3,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 6978
+        },
+        {
+          "label": "BVT",
+          "problem_id": "BVT",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 7079
+        },
+        {
+          "label": "LDK",
+          "problem_id": "LDK",
+          "num_judged": 5,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 7073
+        },
+        {
+          "label": "N",
+          "problem_id": "N",
+          "num_judged": 6,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 7327
+        }
+      ]
+    },
+    {
+      "rank": 23,
+      "team_id": "5025221015",
+      "score": { "num_solved": 4, "total_time": 28687 },
+      "problems": [
+        {
+          "label": "BA",
+          "problem_id": "BA",
+          "num_judged": 2,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 6990
+        },
+        {
+          "label": "BVT",
+          "problem_id": "BVT",
+          "num_judged": 14,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 7162
+        },
+        {
+          "label": "LDK",
+          "problem_id": "LDK",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 7104
+        },
+        {
+          "label": "N",
+          "problem_id": "N",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 7151
+        }
+      ]
+    },
+    {
+      "rank": 24,
+      "team_id": "5025221281",
+      "score": { "num_solved": 4, "total_time": 28729 },
+      "problems": [
+        {
+          "label": "BA",
+          "problem_id": "BA",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 6935
+        },
+        {
+          "label": "BVT",
+          "problem_id": "BVT",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 7071
+        },
+        {
+          "label": "LDK",
+          "problem_id": "LDK",
+          "num_judged": 4,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 7095
+        },
+        {
+          "label": "N",
+          "problem_id": "N",
+          "num_judged": 7,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 7448
+        }
+      ]
+    },
+    {
+      "rank": 25,
+      "team_id": "5025221267",
+      "score": { "num_solved": 4, "total_time": 28897 },
+      "problems": [
+        {
+          "label": "BA",
+          "problem_id": "BA",
+          "num_judged": 5,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 6968
+        },
+        {
+          "label": "BVT",
+          "problem_id": "BVT",
+          "num_judged": 3,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 7346
+        },
+        {
+          "label": "LDK",
+          "problem_id": "LDK",
+          "num_judged": 4,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 7195
+        },
+        {
+          "label": "N",
+          "problem_id": "N",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 7208
+        }
+      ]
+    },
+    {
+      "rank": 26,
+      "team_id": "5025221253",
+      "score": { "num_solved": 4, "total_time": 29669 },
+      "problems": [
+        {
+          "label": "BA",
+          "problem_id": "BA",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 7037
+        },
+        {
+          "label": "BVT",
+          "problem_id": "BVT",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 7483
+        },
+        {
+          "label": "LDK",
+          "problem_id": "LDK",
+          "num_judged": 15,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 7497
+        },
+        {
+          "label": "N",
+          "problem_id": "N",
+          "num_judged": 3,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 7332
+        }
+      ]
+    },
+    {
+      "rank": 27,
+      "team_id": "5025221008",
+      "score": { "num_solved": 4, "total_time": 29675 },
+      "problems": [
+        {
+          "label": "BA",
+          "problem_id": "BA",
+          "num_judged": 6,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 7059
+        },
+        {
+          "label": "BVT",
+          "problem_id": "BVT",
+          "num_judged": 16,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 7446
+        },
+        {
+          "label": "LDK",
+          "problem_id": "LDK",
+          "num_judged": 9,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 7139
+        },
+        {
+          "label": "N",
+          "problem_id": "N",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 7471
+        }
+      ]
+    },
+    {
+      "rank": 28,
+      "team_id": "5025221106",
+      "score": { "num_solved": 4, "total_time": 29890 },
+      "problems": [
+        {
+          "label": "BA",
+          "problem_id": "BA",
+          "num_judged": 2,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 7414
+        },
+        {
+          "label": "BVT",
+          "problem_id": "BVT",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 7491
+        },
+        {
+          "label": "LDK",
+          "problem_id": "LDK",
+          "num_judged": 2,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 7450
+        },
+        {
+          "label": "N",
+          "problem_id": "N",
+          "num_judged": 2,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 7475
+        }
+      ]
+    },
+    {
+      "rank": 29,
+      "team_id": "5025221022",
+      "score": { "num_solved": 3, "total_time": 17707 },
+      "problems": [
+        {
+          "label": "BA",
+          "problem_id": "BA",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "BVT",
+          "problem_id": "BVT",
+          "num_judged": 5,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 4490
+        },
+        {
+          "label": "LDK",
+          "problem_id": "LDK",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 6041
+        },
+        {
+          "label": "N",
+          "problem_id": "N",
+          "num_judged": 3,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 7056
+        }
+      ]
+    },
+    {
+      "rank": 30,
+      "team_id": "5025221043",
+      "score": { "num_solved": 3, "total_time": 21120 },
+      "problems": [
+        {
+          "label": "BA",
+          "problem_id": "BA",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 7040
+        },
+        {
+          "label": "BVT",
+          "problem_id": "BVT",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 7040
+        },
+        {
+          "label": "LDK",
+          "problem_id": "LDK",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "N",
+          "problem_id": "N",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 7040
+        }
+      ]
+    },
+    {
+      "rank": 31,
+      "team_id": "5025221162",
+      "score": { "num_solved": 3, "total_time": 21456 },
+      "problems": [
+        {
+          "label": "BA",
+          "problem_id": "BA",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 6933
+        },
+        {
+          "label": "BVT",
+          "problem_id": "BVT",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "LDK",
+          "problem_id": "LDK",
+          "num_judged": 11,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 7329
+        },
+        {
+          "label": "N",
+          "problem_id": "N",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 6994
+        }
+      ]
+    },
+    {
+      "rank": 32,
+      "team_id": "5025221204",
+      "score": { "num_solved": 3, "total_time": 21935 },
+      "problems": [
+        {
+          "label": "BA",
+          "problem_id": "BA",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 7130
+        },
+        {
+          "label": "BVT",
+          "problem_id": "BVT",
+          "num_judged": 2,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 7148
+        },
+        {
+          "label": "LDK",
+          "problem_id": "LDK",
+          "num_judged": 12,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 7417
+        },
+        {
+          "label": "N",
+          "problem_id": "N",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        }
+      ]
+    },
+    {
+      "rank": 33,
+      "team_id": "5025221316",
+      "score": { "num_solved": 3, "total_time": 22406 },
+      "problems": [
+        {
+          "label": "BA",
+          "problem_id": "BA",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 7467
+        },
+        {
+          "label": "BVT",
+          "problem_id": "BVT",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 7468
+        },
+        {
+          "label": "LDK",
+          "problem_id": "LDK",
+          "num_judged": 3,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "N",
+          "problem_id": "N",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 7471
+        }
+      ]
+    },
+    {
+      "rank": 34,
+      "team_id": "5025221064",
+      "score": { "num_solved": 2, "total_time": 14350 },
+      "problems": [
+        {
+          "label": "BA",
+          "problem_id": "BA",
+          "num_judged": 2,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 7037
+        },
+        {
+          "label": "BVT",
+          "problem_id": "BVT",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "LDK",
+          "problem_id": "LDK",
+          "num_judged": 2,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 7273
+        },
+        {
+          "label": "N",
+          "problem_id": "N",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        }
+      ]
+    },
+    {
+      "rank": 35,
+      "team_id": "5025221169",
+      "score": { "num_solved": 2, "total_time": 14366 },
+      "problems": [
+        {
+          "label": "BA",
+          "problem_id": "BA",
+          "num_judged": 3,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 7066
+        },
+        {
+          "label": "BVT",
+          "problem_id": "BVT",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "LDK",
+          "problem_id": "LDK",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 7260
+        },
+        {
+          "label": "N",
+          "problem_id": "N",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        }
+      ]
+    },
+    {
+      "rank": 36,
+      "team_id": "5025221225",
+      "score": { "num_solved": 2, "total_time": 14539 },
+      "problems": [
+        {
+          "label": "BA",
+          "problem_id": "BA",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 7267
+        },
+        {
+          "label": "BVT",
+          "problem_id": "BVT",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 7272
+        },
+        {
+          "label": "LDK",
+          "problem_id": "LDK",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "N",
+          "problem_id": "N",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        }
+      ]
+    },
+    {
+      "rank": 37,
+      "team_id": "5025221309",
+      "score": { "num_solved": 2, "total_time": 14852 },
+      "problems": [
+        {
+          "label": "BA",
+          "problem_id": "BA",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 7421
+        },
+        {
+          "label": "BVT",
+          "problem_id": "BVT",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 7431
+        },
+        {
+          "label": "LDK",
+          "problem_id": "LDK",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "N",
+          "problem_id": "N",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        }
+      ]
+    },
+    {
+      "rank": 38,
+      "team_id": "5025221302",
+      "score": { "num_solved": 1, "total_time": 7095 },
+      "problems": [
+        {
+          "label": "BA",
+          "problem_id": "BA",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 7095
+        },
+        {
+          "label": "BVT",
+          "problem_id": "BVT",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "LDK",
+          "problem_id": "LDK",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "N",
+          "problem_id": "N",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        }
+      ]
+    }
+  ]
+}
