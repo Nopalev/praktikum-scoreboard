@@ -1,0 +1,135 @@
+* { 
+    margin:0; 
+    padding:0; 
+    box-sizing:border-box;
+    position: relative;
+}
+body {
+    background: #B8E8FC;
+    font-family: 'Ubuntu', 'Oxygen', sans-serif;
+    color: #000000;
+}
+header {
+    display: flex;
+    height: 8vh;
+    align-items: center;
+}
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+table td, table th {
+    border: 1px solid black;
+}
+th, td{
+    padding: 5px;
+    text-align: center;
+    width: auto;
+}
+table, td{
+    font-size: medium;
+}
+th{
+    font-weight: normal;
+    font-size: medium;
+}
+table tr:first-child th {
+    border-top: 0;
+}
+table tr td:first-child, table tr th:first-child {
+    border-left: 0;
+}
+table tr td:last-child, table tr th:last-child {
+    border-right: 0;
+}
+.HeaderText{
+    font-size: 24px;
+    font-weight: bold;
+    margin: 1vh 0 0 6vw;
+    position: inherit;
+}
+.Center{
+    margin: 10vh 0;
+    display: flex;
+    justify-content: center;
+}
+.TextCenter{
+    text-align: center !important;
+}
+.RankText{
+    font-size: medium;
+    font-weight: bold;
+}
+.TeamText{
+    text-align: left;
+}
+.TeamNameText{
+    font-size: medium;
+    font-weight: normal;
+}
+.TeamIdText{
+    font-size: small;
+}
+.ScoreText{
+    font-size: medium;
+    font-weight: bold;
+}
+.PenaltyText{
+    font-size: small;
+}
+.TimeText{
+    font-weight: 800;
+}
+.TryText{
+    font-size: x-small;
+}
+.LegendText{
+    font-size: medium;
+    font-weight: bold;
+}
+.DifficultyText{
+    font-size: small;
+}
+.AC{
+    background-color: #64fb78;
+}
+.WA{
+    background-color: #d76666;
+}
+@media only screen and (max-width: 768px){
+    table, th, td{
+        padding: 3px;
+    }
+    table, td{
+        font-size: smaller;
+    }
+    th{
+        font-size: medium;
+    }
+    .HeaderText{
+        font-size: 18px;
+        font-weight: normal;
+    }
+    .RankText{
+        font-size: medium;
+    }
+    .TeamNameText{
+        font-size: small;
+    }
+    .TeamIdText{
+        font-size: smaller;
+    }
+    .ScoreText{
+        font-size: medium;
+        font-weight: normal;
+    }
+    .PenaltyText{
+        font-size: smaller;
+    }
+    .TimeText{
+        font-weight: 400;
+    }
+    .TryText{
+        font-size: xx-small;
+    }
+}
