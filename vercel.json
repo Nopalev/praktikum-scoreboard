@@ -1,8 +1,7 @@
 {
     "redirects": [
-      { "source": "/", "destination": "/modul/3/A/praktikum" },
-      { "source": "/modul/3", "destination": "/modul/3/A/praktikum" },
-      { "source": "/modul/3/A", "destination": "/modul/3/A/praktikum" }
+      { "source": "/", "destination": "/modul/4/A/praktikum" },
+      { "source": "/modul/", "destination": "/modul/4/A/praktikum" }
     ]
   }
   
